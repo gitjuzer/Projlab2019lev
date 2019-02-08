@@ -13,6 +13,7 @@ Az utóbbi években a számítógépek is egyre jelentõsebb szerepet kapnak.
 Szerepük legnagyobb részt még inkább statikus tartalom megjelenítése.
 
 3. Vágyálom rendszer
+A modern számítógépek hálózati, számítási és megjelenítési képességei lehetõvé teszik a játékos elemeket is megvalósító oktatást.
 
 4. Jelenlegi mûködés
 
