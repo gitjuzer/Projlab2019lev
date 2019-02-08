@@ -14,6 +14,7 @@ Szerepük legnagyobb részt még inkább statikus tartalom megjelenítése.
 
 3. Vágyálom rendszer
 A modern számítógépek hálózati, számítási és megjelenítési képességei lehetõvé teszik a játékos elemeket is megvalósító oktatást.
+A fiatalabb korosztály tanulási motivációjára célszerû rugalmas, több területet lefedõ, ilyen játékos oktatást megvalósító informatikai rendszer fejlesztése.
 
 4. Jelenlegi mûködés
 
