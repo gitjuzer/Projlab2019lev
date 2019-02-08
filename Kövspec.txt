@@ -13,6 +13,7 @@ Az utóbbi években a számítógépek is egyre jelentõsebb szerepet kapnak.
 Szerepük legnagyobb részt még inkább statikus tartalom megjelenítése.
 
 3. Vágyálom rendszer
+A fiatalabb korosztály tanulási motivációjára célszerû rugalmas, több területet lefedõ, játékos oktatást megvalósító informatikai rendszer fejlesztése.
 
 4. Jelenlegi mûködés
 
