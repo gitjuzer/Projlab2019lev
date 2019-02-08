@@ -7,6 +7,9 @@ Az oktatás sok embert érintõ terület a gyerekektõl a tanárokon és szülõkön keres
 Jelenleg az oktatás túlnyomó részt iskolapados rendszerû, ahol szigorú keretek közt, a motiválás és kedvcsinálás szempontokat csak ritkán vagy nem teljeskörûen alkalmazzák.
 
 2. Jelenlegi helyzet
+Az oktatás fõbb eszközei a tanárok, könyvek, táblák.
+Az utóbbi években a számítógépek is egyre jelentõsebb szerepet kapnak.
+Szerepük legnagyobb részt még inkább statikus tartalom megjelenítése.
 
 3. Vágyálom rendszer
 
