@@ -8,6 +8,9 @@ Jelenleg az oktatás túlnyomó részt iskolapados rendszerû, ahol szigorú keretek k
 Kutatások és mindennapi tapasztalatok is mutatják, hogy játékos formában elérhetõ feladatokat a gyerekek nagyobb lelkesedéssel hajtanak végre.
 
 2. Jelenlegi helyzet
+Az oktatás fõbb eszközei a tanárok, könyvek, táblák.
+Az utóbbi években a számítógépek is egyre jelentõsebb szerepet kapnak.
+Szerepük legnagyobb részt még inkább statikus tartalom megjelenítése.
 
 3. Vágyálom rendszer
 
