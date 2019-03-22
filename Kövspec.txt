@@ -11,12 +11,13 @@ Kutatások és mindennapi tapasztalatok is mutatják, hogy játékos formában elérhet
 Az oktatás fõbb eszközei a tanárok, könyvek, táblák. 
 A tanároknak olyan szerepük van a digitális világban, mint az idegenvezetõknek, akik megmutatják a tudáshoz vezetõ, helyes utat.
 Az utóbbi években a számítógépek is egyre jelentõsebb szerepet kapnak. Szerepük legnagyobb részt még inkább statikus tartalom megjelenítése.
-A gyerekek sokkal nagyobb figyelmet fordítnak az IKT eszközökkel szemléltetett tudásanyagra annak effektív és interaktív volta miatt, mint a hagyományos, frontális osztálymunka
+A gyerekek sokkal nagyobb figyelmet fordítanak az IKT eszközökkel szemléltetett tudásanyagra annak effektív és interaktív volta miatt, mint a hagyományos, frontális osztálymunka
 során alkalmazott szemléltetõ eszközök esetében. Az IKT eszközök használata a pedagógusokat állandó fejlõdésre készteti, felfrissíti a hétköznapi munkát, elõsegíti a szakmai és módszertani megújulást.
 A tanulás új felfogásában és gyakorlatában valóban megkerülhetetlen kérdés az IKT eszközök használatához, az internet világához való viszonyulásunk. A digitális térben való megjelenés, az ott létrejövõ kapcsolódások 
 ma sokszor inkább konfliktusok forrásai, a tanulást támogató elõnyök felismerése helyett.  Pedig az, ami ma körülvesz minket, lehetõvé teszi a generációs szakadékokat is átfedõ találkozást, egymásra hatást, az egymástól való tanulást.
 Az IKT eszközök mindennapi használatbavételének legnagyobb akadálya az, hogy sok idõt igényel az óra megtervezése és a technikai elõkészületek.
 Az IKT eszközök használata nagyon sok elõkészítést igényel.
+
 A digitális kompetenciának be kellene épülnie az oktatás minden részébe, ugyanúgy használni kellene magyarórán, énekórán. 
 Egyelõre azonban az az általános, hogy másodlagos tantárgyként kezelik az informatikát, amely csak néhány tanulónak, jellemzõen az ebbõl érettségizõknek, lesz fontos.
 A mai tantermek már IKT eszközökkel felszereltebbek. Már sok iskolában használnak tableteket is.Ezeket az eszközöket a diákok már rutinszerûen használják.Cél az is, hogy azok a tanárok is rutinszerûen használják, akik nem informatika tanárok.
@@ -49,7 +50,7 @@ Célszerû alkalmazni a "jutalmazásos" módszert: A diákok tudjanak "szintet lépni"
 Mindenképpen mûködnie kell az alkalmazásnak mobilon és számítógépen egyaránt. Tudjon otthon is hozzáférni a diák otthon is platformtól függetlenül.
 A rendszer értékeljen: Legyen egy automatikus javítási funkció, de fontos, hogy legyen személyes, tanári visszejelzés, felügyelet is.
 Az alkalmazás minden életkori sajátosságot vegyen figyelembe. Legyen külön feladat minden korosztálynak. Az alkalmazás az értékelésnél is vegye figyelembe az életkort.
-A játékosság mindenek elõtt. Ez azt jelenti, hogy úgy tanuljanak, hogy azt szinte észre sem veszik.Sokkal jobban rögzül az információ, ha alkalmazzuk a tanításban a multimédiát.
+A játékosság mindenek elõtt. Ez azt jelenti, hogy úgy tanuljanak, hogy azt szinte észre sem veszik.Sokkal jobban rögzül az információ, ha alkalmazzuk a tanításban a multimédiát. Hang, kép, animáció, és amellett hogy az információ megértése jobb, szórakoztató a tanulás. 
 
 6. Követelménylista 
 K01:Stabil mûködés minden esetben
