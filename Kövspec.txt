@@ -17,7 +17,9 @@ A tanulás új felfogásában és gyakorlatában valóban megkerülhetetlen kérdés az IK
 ma sokszor inkább konfliktusok forrásai, a tanulást támogató elõnyök felismerése helyett.  Pedig az, ami ma körülvesz minket, lehetõvé teszi a generációs szakadékokat is átfedõ találkozást, egymásra hatást, az egymástól való tanulást.
 Az IKT eszközök mindennapi használatbavételének legnagyobb akadálya az, hogy sok idõt igényel az óra megtervezése és a technikai elõkészületek.
 Az IKT eszközök használata nagyon sok elõkészítést igényel.
-A digitális kompetenciának be kellene épülnie az oktatás minden részébe, ugyanúgy használni kellene magyarórán, énekórán. Egyelõre azonban az az általános, hogy másodlagos tantárgyként kezelik az informatikát, amely csak néhány tanulónak, jellemzõen az ebbõl érettségizõknek, lesz fontos.
+A digitális kompetenciának be kellene épülnie az oktatás minden részébe, ugyanúgy használni kellene magyarórán, énekórán. 
+Egyelõre azonban az az általános, hogy másodlagos tantárgyként kezelik az informatikát, amely csak néhány tanulónak, jellemzõen az ebbõl érettségizõknek, lesz fontos.
+A mai tantermek már IKT eszközökkel felszereltebbek.
 
 3. Vágyálom rendszer
 A modern számítógépek hálózati, számítási és megjelenítési képességei lehetõvé teszik a játékos elemeket is megvalósító oktatást.
