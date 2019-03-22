@@ -50,17 +50,16 @@ Mindenképpen mûködnie kell az alkalmazásnak mobilon és számítógépen egyaránt. Tu
 A rendszer értékeljen: Legyen egy automatikus javítási funkció, de fontos, hogy legyen személyes, tanári visszejelzés, felügyelet is.
 
 6. Követelménylista 
-K01:Stabil mûködés minden esetben.
-K02:Egyszerû használhatóság.
+K01:Stabil mûködés minden esetben
+K02:Egyszerû használhatóság
 K03:Ingergazdag
 K04:Külön felület a tanárok és a diákok részére
 K05:Regisztrációs lehetõség a diákok részére
-K06:Tananygok hozzáadása
-K07:Tesztek hozzáadása
-K08:Tananyagok szerkesztése
-K09:Tananyagok törlése
-K10:Tesztek szerkesztése
-K11:Tesztek törlése
+K06:Jogosultsági szintnek megfelelõ tartalomkezelés
+K07:Felhasználóbarát
+K08:Keresõoptimalizált
+K09:Mobilbarát
+K10:Reflexív
+K11:Interaktív
 K12:Motiváló
-K13:
 
