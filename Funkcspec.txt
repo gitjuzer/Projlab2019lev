@@ -11,10 +11,16 @@ Funkcionális specifikáció
 3. Vágyálom rendszer
 
 
-4. Jelenlegi mûködés
+4. Jelenlegi üzleti folyamatok modelje mûködés
 
 
-5. Igényelt mûködés
+5. Igényelt üzleti folyamatok modelje 
 
 
 6. Követelménylista
+
+
+7. Használati esetek
+
+
+8. Forgatókönyvek
