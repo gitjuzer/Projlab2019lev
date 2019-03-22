@@ -58,3 +58,12 @@ A program felhasználóbarát lesz, mert diákok és szülõk is használják, azon kívül
 ezért ezen felahsználóknak külön-külön  felhasználói felületet kell biztosítani, mert a felhasználási célok különbözõek.
  Az oldal felépítésének érdekesnek, színesnek kell lennie. Maga a programnak fel kell kelteni a tanulók, szülõk és az üzleti szereplõk
 érdeklõdési körét. A felhasználók a saját felhasználói neveik segítségével nyomon tudják követni fejlõdésüket.
+K1. Stabil mûködés
+K2. Külön felület a tanárok és a diákok részére
+K3. Regisztrációs lehetõség a diákok részére
+K4. Tananygok hozzáadása
+K5. Tesztek hozzáadása
+K6. Tananyagok szerkesztése
+K7. Tananyagok törlése
+K8. Tesztek szerkesztése
+K9. Tesztek törlése
