@@ -1,42 +1,45 @@
-Játékos Oktató Rendszer
+ï»¿JÃ¡tÃ©kos OktatÃ³ Rendszer
 
-Funkcionális specifikáció
+FunkcionÃ¡lis specifikÃ¡ciÃ³
 
-1. Vezetõi összefoglaló
-Az Oktató Rendszer megvalósítása/tesztelése során fontos bevonni az érintett területek minél nagyobb számú képviselõit. Legyen visszajelzés tanártól, diáktól, iskolapados rendszer képviselõitõl és az alternatív módszerek alkalmazóiól egyaránt.
+1. VezetÅ‘i Ã¶sszefoglalÃ³
+Az OktatÃ³ Rendszer megvalÃ³sÃ­tÃ¡sa/tesztelÃ©se sorÃ¡n fontos bevonni az Ã©rintett terÃ¼letek minÃ©l nagyobb szÃ¡mÃº kÃ©pviselÅ‘it. Legyen visszajelzÃ©s tanÃ¡rtÃ³l, diÃ¡ktÃ³l, iskolapados rendszer kÃ©pviselÅ‘itÅ‘l Ã©s az alternatÃ­v mÃ³dszerek alkalmazÃ³iÃ³l egyarÃ¡nt.
 
 2. Jelenlegi helyzet
-A mai világban egyre nagyobb teret hódít a digitális eszközök bevitele/használata a közoktatásban.
-Fontos, hogy a tanárok naprakész tudással rendelkezzenek ezen eszközök használatáról. Ez megkívánja azt, hogy folyamatosan képezzék magukat,
-lépést tartsanak a technológia fejlõdésével. Az idõsebb korosztálynak is fel kell kelteni az érdeklõdését az IKT eszközök
-használatával kapcsolatban, és azok hatékonyságáról meggyõzni õket. Ugyanis, a diákok sokkal hatékonyabban tudnak tanulni
-ezekkel az eszközökkel, mint a hagyományos, frontális osztálymunka esetében.
-Lényeges, hogy az IKT eszközöket ne csak a megszokott módon használjuk (kivetítés...), hanem tegyük interaktívvá az órát, pl. azáltal, hogy
-a diákok a telefonjukat is használhatják. Feladatunk, hogy megtanítsuk õket az okos eszközök funkcionális használatára.
-Az órák megtervezése több idõt igényel, mint a hagyományos óráé, de megéri rá idõt szánni, mert sokkal hatékonyabban át lehet adni a tudást
-a diákok számára, illetve õk is fogékonyabbak lesznek az ilyen fajta tanulásra.
-Nem csak informatika órán kellene használni ezeket az eszközöket, hanem a lehetõ legtöbb tanórára meg kell találni a módját ezek
-beiktatására.
+A mai vilÃ¡gban egyre nagyobb teret hÃ³dÃ­t a digitÃ¡lis eszkÃ¶zÃ¶k bevitele/hasznÃ¡lata a kÃ¶zoktatÃ¡sban.
+Fontos, hogy a tanÃ¡rok naprakÃ©sz tudÃ¡ssal rendelkezzenek ezen eszkÃ¶zÃ¶k hasznÃ¡latÃ¡rÃ³l. Ez megkÃ­vÃ¡nja azt, hogy folyamatosan kÃ©pezzÃ©k magukat,
+lÃ©pÃ©st tartsanak a technolÃ³gia fejlÅ‘dÃ©sÃ©vel. Az idÅ‘sebb korosztÃ¡lynak is fel kell kelteni az Ã©rdeklÅ‘dÃ©sÃ©t az IKT eszkÃ¶zÃ¶k
+hasznÃ¡latÃ¡val kapcsolatban, Ã©s azok hatÃ©konysÃ¡gÃ¡rÃ³l meggyÅ‘zni Å‘ket. Ugyanis, a diÃ¡kok sokkal hatÃ©konyabban tudnak tanulni
+ezekkel az eszkÃ¶zÃ¶kkel, mint a hagyomÃ¡nyos, frontÃ¡lis osztÃ¡lymunka esetÃ©ben.
+LÃ©nyeges, hogy az IKT eszkÃ¶zÃ¶ket ne csak a megszokott mÃ³don hasznÃ¡ljuk (kivetÃ­tÃ©s...), hanem tegyÃ¼k interaktÃ­vvÃ¡ az Ã³rÃ¡t, pl. azÃ¡ltal, hogy
+a diÃ¡kok a telefonjukat is hasznÃ¡lhatjÃ¡k. Feladatunk, hogy megtanÃ­tsuk Å‘ket az okos eszkÃ¶zÃ¶k funkcionÃ¡lis hasznÃ¡latÃ¡ra.
+Az Ã³rÃ¡k megtervezÃ©se tÃ¶bb idÅ‘t igÃ©nyel, mint a hagyomÃ¡nyos Ã³rÃ¡Ã©, de megÃ©ri rÃ¡ idÅ‘t szÃ¡nni, mert sokkal hatÃ©konyabban Ã¡t lehet adni a tudÃ¡st
+a diÃ¡kok szÃ¡mÃ¡ra, illetve Å‘k is fogÃ©konyabbak lesznek az ilyen fajta tanulÃ¡sra.
+Nem csak informatika Ã³rÃ¡n kellene hasznÃ¡lni ezeket az eszkÃ¶zÃ¶ket, hanem a lehetÅ‘ legtÃ¶bb tanÃ³rÃ¡ra meg kell talÃ¡lni a mÃ³djÃ¡t ezek
+beiktatÃ¡sÃ¡ra.
 
-3. Vágyálom rendszer
-
-
-4. Jelenlegi üzleti folyamatok modelje mûködés
-
-
-5. Igényelt üzleti folyamatok modelje 
+3. VÃ¡gyÃ¡lom rendszer
+Meg kell hatÃ¡rozni egy technikai kÃ¶vetelmÃ©ny specifikÃ¡ciÃ¼Ã³t, ugyanis bÃ¡r az Ã¡llÃ­tÃ¡s igaz: a mai modern technika kÃ©pes egy ilyen szintÅ± rendszer mÅ±kÃ¶dtetÃ©sÃ©re, azonban sajnos a valÃ³sÃ¡g azt mutatja, hogy sok iskola elmaradott a technikai fejlÅ‘dÃ©sben. A diÃ¡kok sajÃ¡t tulajdonÃº eszkÃ¶zeire pedig nem alapozhatunk.
+Az "informatikai rendszer fejlesztÃ©se" kifejezÃ©s a tÃ¶bbi pontban meghatÃ¡rozott elkÃ©pzelÃ©shez kÃ©pest kissÃ© tÃºlzÃ³nak tÅ±nik.
 
 
-6. Követelménylista
-K01:átláthatóság
-K02:javíthatóság
-K03:felhasználóbarát
-K04:felhasználói fiókok
+4. Jelenlegi Ã¼zleti folyamatok modelje mÅ±kÃ¶dÃ©s
+
+
+5. IgÃ©nyelt Ã¼zleti folyamatok modelje 
+
+
+6. KÃ¶vetelmÃ©nylista
+K01:Ã¡tlÃ¡thatÃ³sÃ¡g
+K02:javÃ­thatÃ³sÃ¡g
+K03:felhasznÃ¡lÃ³barÃ¡t
+K04:felhasznÃ¡lÃ³i fiÃ³kok
 K05:tesztek
-K06:feladatok készítése
+K06:feladatok kÃ©szÃ­tÃ©se
+K07:nyomonkÃ¶vethetÅ‘sÃ©g
 
 
-7. Használati esetek
+7. HasznÃ¡lati esetek
 
 
-8. Forgatókönyvek
+8. ForgatÃ³kÃ¶nyvek
