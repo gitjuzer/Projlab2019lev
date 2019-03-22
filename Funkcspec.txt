@@ -3,7 +3,7 @@ Játékos Oktató Rendszer
 Funkcionális specifikáció
 
 1. Vezetõi összefoglaló
-
+Az Oktató Rendszer megvalósítása/tesztelése során fontos bevonni az érintett területek minél nagyobb számú képviselõit. Legyen visszajelzés tanártól, diáktól, iskolapados rendszer képviselõitõl és az alternatív módszerek alkalmazóiól egyaránt.
 
 2. Jelenlegi helyzet
 A mai világban egyre nagyobb teret hódít a digitális eszközök bevitele/használata a közoktatásban.
@@ -21,10 +21,20 @@ beiktatására.
 3. Vágyálom rendszer
 
 
-4. Jelenlegi mûködés
+4. Jelenlegi üzleti folyamatok modelje mûködés
 
 
-5. Igényelt mûködés
+5. Igényelt üzleti folyamatok modelje 
 
 
 6. Követelménylista
+K01:átláthatóság
+K02:javíthatóság
+K03:felhasználóbarát
+K04:felhasználói fiókok
+
+
+7. Használati esetek
+
+
+8. Forgatókönyvek
