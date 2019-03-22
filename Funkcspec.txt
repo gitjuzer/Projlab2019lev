@@ -22,6 +22,7 @@ K01:átláthatóság
 K02:javíthatóság
 K03:felhasználóbarát
 K04:felhasználói fiókok
+K05:elfelejtett jelszó kezelése
 
 
 7. Használati esetek
