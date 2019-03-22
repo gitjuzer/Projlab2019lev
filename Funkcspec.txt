@@ -24,7 +24,7 @@ Az "informatikai rendszer fejlesztése" kifejezés a többi pontban meghatározo
 
 
 4. Jelenlegi üzleti folyamatok modelje működés
-
+K01: népszerűség (a piac 23%-át uralják az oktató játékok)
 
 5. Igényelt üzleti folyamatok modelje 
 
@@ -37,6 +37,7 @@ K04:felhasználói fiókok
 K05:tesztek
 K06:feladatok k�sz�t�se
 K07: Elfelejtett jelszó lehetőségének kezelése
+
 
 
 7. Használati esetek
