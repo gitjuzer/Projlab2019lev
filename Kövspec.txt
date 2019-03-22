@@ -73,6 +73,9 @@ A fiatalabb korosztály tanulási motivációjára célszerû rugalmas, több területet 
 Fontos az, hogy minél egyszerûbb, átláthatóbb legyen a rendszer, hogy minél gyorsabban tudják használatba venni a diákok és a tanárok egyaránt. Céleszerû a kezelésben, megjelenésben akár sablonszerû elrendezést használni, hogy 
 ne kelljen sok idõt tölteni a felület megismerésével, mielõbb megkezdõdhessen az érdemi munka. Érdemes kapcsolatot biztosítani az egyes közösségi oldalakkal, hogy a diákok megoszthassák eredményeiket ismerõseikkel, ezzel is népszerûsítve
 az élményszerû oktatás lehetõségeit.
+Célszerû alkalmazni a "jutalmazásos" módszert: A diákok tudjanak "szintet lépni", kapjanak rangokat. Fontos, hogy az alkalmazás támogassa a csapatmunkát, az egymás segítésének, támogatásának lehetõségét.
+Mindenképpen mûködnie kell az alkalmazásnak mobilon és számítógépen egyaránt. Tudjon otthon is hozzáférni a diák otthon is platformtól függetlenül.
+A rendszer értékeljen: Legyen egy automatikus javítási funkció, de fontos, hogy legyen személyes, tanári visszejelzés, felügyelet is.
 
 
 6. Követelménylista 
