@@ -22,4 +22,8 @@ A fiatalabb korosztály tanulási motivációjára célszerû rugalmas, több területet 
 
 5. Igényelt mûködés
 
-6.Kísérlet
+6.Követelménylista
+A program felhasználóbarát lesz, mert diákok és szülõk is használják, azon kívül, mivel üzleti szereplõket is meg akarjuk szólítani, 
+ezért ezen felahsználóknak külön-külön  felhasználói felületet kell biztosítani, mert a felhasználási célok különbözõek.
+ Az oldal felépítésének érdekesnek, színesnek kell lennie. Maga a programnak fel kell kelteni a tanulók, szülõk és az üzleti szereplõk
+érdeklõdési körét. 
