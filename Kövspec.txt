@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Játékos Oktató Rendszer
 
 Követelményspecifikáció
@@ -44,3 +44,4 @@ ezért ezen felahsználóknak külön-külön  felhasználói felületet kell biztosítani,
 
 
 
+=
