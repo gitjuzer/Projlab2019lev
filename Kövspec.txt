@@ -22,9 +22,7 @@ A modern számítógépek hálózati, számítási és megjelenítési képességei lehetõvé t
 A fiatalabb korosztály tanulási motivációjára célszerû rugalmas, több területet lefedõ, ilyen játékos oktatást megvalósító informatikai rendszer fejlesztése.
 
 4. Jelenlegi mûködés
-próba csapó2 próba4 proba333
 
 5. Igényelt mûködés
-
 
 6. Követelménylista 
