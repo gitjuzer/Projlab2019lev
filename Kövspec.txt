@@ -54,7 +54,7 @@ A rendszer értékeljen: Legyen egy automatikus javítási funkció, de fontos, hogy 
 6. Követelménylista 
 K01:Stabil mûködés minden esetben.
 K02:Egyszerû használhatóság.
-A diákok miközben az információs tér is egyre nõ körülöttük, és minden nehezen megtanítható dolgot most már könnyedén beszerezhetnének, az iskolában mégis szinte ingerszegény környezetben vannak.
+K03:ingergazdag
 A program felhasználóbarát lesz, mert diákok és szülõk is használják, azon kívül, mivel üzleti szereplõket is meg akarjuk szólítani, 
 ezért ezen felahsználóknak külön-külön  felhasználói felületet kell biztosítani, mert a felhasználási célok különbözõek.
  Az oldal felépítésének érdekesnek, színesnek kell lennie. Maga a programnak fel kell kelteni a tanulók, szülõk és az üzleti szereplõk
