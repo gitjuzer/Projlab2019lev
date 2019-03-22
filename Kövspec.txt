@@ -16,7 +16,7 @@ során alkalmazott szemléltetõ eszközök esetében. Az IKT eszközök használata a pe
 A tanulás új felfogásában és gyakorlatában valóban megkerülhetetlen kérdés az IKT eszközök használatához, az internet világához való viszonyulásunk. A digitális térben való megjelenés, az ott létrejövõ kapcsolódások 
 ma sokszor inkább konfliktusok forrásai, a tanulást támogató elõnyök felismerése helyett.  Pedig az, ami ma körülvesz minket, lehetõvé teszi a generációs szakadékokat is átfedõ találkozást, egymásra hatást, az egymástól való tanulást.
 Az IKT eszközök mindennapi használatbavételének legnagyobb akadálya az, hogy sok idõt igényel az óra megtervezése és a technikai elõkészületek.
-Az IKT eszközök használata nagyon sok elõkészítést igényel. A tanulók viszont nagy odafigyeléssel sokat tanulhatnak belõle.
+Az IKT eszközök használata nagyon sok elõkészítést igényel.
 A digitális kompetenciának be kellene épülnie az oktatás minden részébe, ugyanúgy használni kellene magyarórán, énekórán. Egyelõre azonban az az általános, hogy másodlagos tantárgyként kezelik az informatikát, amely csak néhány tanulónak, jellemzõen az ebbõl érettségizõknek, lesz fontos.
 
 3. Vágyálom rendszer
@@ -38,6 +38,7 @@ Fontos az, hogy minél egyszerûbb, átláthatóbb legyen a rendszer, hogy minél gyor
 Magyarország oktatási rendszere a közoktatást és a felsõoktatást foglalja magába, tekintet nélkül a fenntartó vagy az üzemeltetõ személyére (állami, önkormányzati, alapítványi, egyházi, magán stb.)
 A tananyag folyamatos növekedése a diákoknak hatalmas trauma.
 A diákok miközben az információs tér is egyre nõ körülöttük, és minden nehezen megtanítható dolgot most már könnyedén beszerezhetnének, az iskolában mégis szinte ingerszegény környezetben vannak.
+A legtöbb iskolában nem elérhetõ a megfelelõ felület a tanárok és diákok információ és digitális tananyag cseréjéhez, az egyetlen felület az e-napló.
 
 5. Igényelt mûködés
 A tanárokat a rendszergazda veszi fel a rendszerbe, míg a diákoknak maguknak kell regisztrálniuk a felületre. A tanárok bejelentkeznek az admin felületükre, ahol létre tudnak hozni tananyagokat (egy egyszerû WYSIWYG szerkesztõ segítségével)
