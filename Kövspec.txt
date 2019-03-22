@@ -35,13 +35,14 @@ Ezeket játékos jellegû feladatokon keresztül is lehet alkalmazni, ezáltal érdeke
 Ilyen játékos feladat lehet pl. a Hanoi-tornyai játék. 
 Aminek a lényege az, hogy az elsõ rúdról a harmadik rúdra hogyan lehet eljuttatni a korongokat úgy, 
 hogy a nagyobb korongot a kisebb korongra tilos mozgatni.
+Fontos az, hogy minél egyszerûbb, átláthatóbb legyen a rendszer, hogy minél gyorsabban tudják használatba venni a diákok és a tanárok egyaránt. Céleszerû a kezelésben, megjelenésben akár sablonszerû elrendezést használni, hogy 
+ne kelljen sok idõt tölteni a felület megismerésével, mielõbb megkezdõdhessen az érdemi munka. Érdemes kapcsolatot biztosítani az egyes közösségi oldalakkal, hogy a diákok megoszthassák eredményeiket ismerõseikkel, ezzel is népszerûsítve
+az élményszerû oktatás lehetõségeit.
 
 4. Jelenlegi mûködés
 
 5. Igényelt mûködés
-Fontos az, hogy minél egyszerûbb, átláthatóbb legyen a rendszer, hogy minél gyorsabban tudják használatba venni a diákok és a tanárok egyaránt. Céleszerû a kezelésben, megjelenésben akár sablonszerû elrendezést használni, hogy 
-ne kelljen sok idõt tölteni a felület megismerésével, mielõbb megkezdõdhessen az érdemi munka. Érdemes kapcsolatot biztosítani az egyes közösségi oldalakkal, hogy a diákok megoszthassák eredményeiket ismerõseikkel, ezzel is népszerûsítve
-az élményszerû oktatás lehetõségeit.
+
 
 6.Követelménylista
 A program felhasználóbarát lesz, mert diákok és szülõk is használják, azon kívül, mivel üzleti szereplõket is meg akarjuk szólítani, 
