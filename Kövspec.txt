@@ -8,7 +8,8 @@ Jelenleg az oktatás túlnyomó részt iskolapados rendszerû, ahol szigorú keretek k
 Kutatások és mindennapi tapasztalatok is mutatják, hogy játékos formában elérhetõ feladatokat a gyerekek nagyobb lelkesedéssel hajtanak végre.
 
 2. Jelenlegi helyzet
-Az oktatás fõbb eszközei a tanárok, könyvek, táblák. A tanároknak olyan szerepük van a digitális világban, mint az idegenvezetõknek, akik megmutatják a tudáshoz vezetõ, helyes utat.
+Az oktatás fõbb eszközei a tanárok, könyvek, táblák. 
+A tanároknak olyan szerepük van a digitális világban, mint az idegenvezetõknek, akik megmutatják a tudáshoz vezetõ, helyes utat.
 Az utóbbi években a számítógépek is egyre jelentõsebb szerepet kapnak. Szerepük legnagyobb részt még inkább statikus tartalom megjelenítése.
 A gyerekek sokkal nagyobb figyelmet fordítnak az IKT eszközökkel szemléltetett tudásanyagra annak effektív és interaktív volta miatt, mint a hagyományos, frontális osztálymunka
 során alkalmazott szemléltetõ eszközök esetében. Az IKT eszközök használata a pedagógusokat állandó fejlõdésre készteti, felfrissíti a hétköznapi munkát, elõsegíti a szakmai és módszertani megújulást.
