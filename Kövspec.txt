@@ -15,6 +15,16 @@ Szerepük legnagyobb részt még inkább statikus tartalom megjelenítése.
 3. Vágyálom rendszer
 A modern számítógépek hálózati, számítási és megjelenítési képességei lehetõvé teszik a játékos elemeket is megvalósító oktatást.
 A fiatalabb korosztály tanulási motivációjára célszerû rugalmas, több területet lefedõ, ilyen játékos oktatást megvalósító informatikai rendszer fejlesztése.
+A számítógépek használata segítheti a fiatalabb generáció algoritmikus gondolkodásának fejlesztését.
+Az algoritmikus gondolkodás elsajátítása az iskolában azért is hasznos, mert a diákok tudják kamatoztatni ezt a fajta tudást, az
+iskolán kívül a mindennapjaikban, a hétköznapi szituációk, problémák során is.
+Ez a fajta gondolkodásmód elsõsorban a problémamegoldás területén segíti a diákokat.
+Mivel megtanítja õket arra, hogy a problémákat részekre bontsák.
+A külön részekre különbözõ megoldásokat kell találniuk, ezáltal közelebb kerülnek a fõ probléma megoldásához.
+Ezeket játékos jellegû feladatokon keresztül is lehet alkalmazni, ezáltal érdekesebbé lehet tenni az algoritmikus gondolkodás elsajátítását.
+Ilyen játékos feladat lehet pl. a Hanoi-tornyai játék. 
+Aminek a lényege az, hogy az elsõ rúdról a harmadik rúdra hogyan lehet eljuttatni a korongokat úgy, 
+hogy a nagyobb korongot a kisebb korongra tilos mozgatni.
 
 4. Jelenlegi mûködés
 
