@@ -1,4 +1,4 @@
-Játékos Oktató Rendszer
+﻿Játékos Oktató Rendszer
 
 Funkcionális specifikáció
 
@@ -19,6 +19,8 @@ Nem csak informatika órán kellene használni ezeket az eszközöket, hanem a l
 beiktatására.
 
 3. Vágyálom rendszer
+Meg kell határozni egy technikai követelmény specifikáciüót, ugyanis bár az állítás igaz: a mai modern technika képes egy ilyen szintű rendszer működtetésére, azonban sajnos a valóság azt mutatja, hogy sok iskola elmaradott a technikai fejlődésben. A diákok saját tulajdonú eszközeire pedig nem alapozhatunk.
+Az "informatikai rendszer fejlesztése" kifejezés a többi pontban meghatározott elképzeléshez képest kissé túlzónak tűnik.
 
 
 4. Jelenlegi üzleti folyamatok modelje működés
