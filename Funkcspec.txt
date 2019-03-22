@@ -35,7 +35,8 @@ K02:javíthatóság
 K03:felhasználóbarát
 K04:felhasználói fiókok
 K05:tesztek
-K06:feladatok k�sz�t�se
+K06:feladatok k�sz�t�se
+K07: Elfelejtett jelszó lehetőségének kezelése
 
 
 7. Használati esetek
