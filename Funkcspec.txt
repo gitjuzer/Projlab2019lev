@@ -1,33 +1,43 @@
-J�t�kos Oktat� Rendszer
+Játékos Oktató Rendszer
 
-Funkcion�lis specifik�ci�
+Funkcionális specifikáció
 
-1. Vezet�i �sszefoglal�
-Az Oktat� Rendszer megval�s�t�sa/tesztel�se sor�n fontos bevonni az �rintett ter�letek min�l nagyobb sz�m� k�pvisel�it. Legyen visszajelz�s tan�rt�l, di�kt�l, iskolapados rendszer k�pvisel�it�l �s az alternat�v m�dszerek alkalmaz�i�l egyar�nt.
+1. Vezetői összefoglaló
+Az Oktató Rendszer megvalósítása/tesztelése során fontos bevonni az érintett területek minél nagyobb számú képviselőit. Legyen visszajelzés tanártól, diáktól, iskolapados rendszer képviselőitől és az alternatív módszerek alkalmazóiól egyaránt.
 
 2. Jelenlegi helyzet
+A mai világban egyre nagyobb teret hódít a digitális eszközök bevitele/használata a közoktatásban.
+Fontos, hogy a tanárok naprakész tudással rendelkezzenek ezen eszközök használatáról. Ez megkívánja azt, hogy folyamatosan képezzék magukat,
+lépést tartsanak a technológia fejlődésével. Az idősebb korosztálynak is fel kell kelteni az érdeklődését az IKT eszközök
+használatával kapcsolatban, és azok hatékonyságáról meggyőzni őket. Ugyanis, a diákok sokkal hatékonyabban tudnak tanulni
+ezekkel az eszközökkel, mint a hagyományos, frontális osztálymunka esetében.
+Lényeges, hogy az IKT eszközöket ne csak a megszokott módon használjuk (kivetítés...), hanem tegyük interaktívvá az órát, pl. azáltal, hogy
+a diákok a telefonjukat is használhatják. Feladatunk, hogy megtanítsuk őket az okos eszközök funkcionális használatára.
+Az órák megtervezése több időt igényel, mint a hagyományos óráé, de megéri rá időt szánni, mert sokkal hatékonyabban át lehet adni a tudást
+a diákok számára, illetve ők is fogékonyabbak lesznek az ilyen fajta tanulásra.
+Nem csak informatika órán kellene használni ezeket az eszközöket, hanem a lehető legtöbb tanórára meg kell találni a módját ezek
+beiktatására.
+
+3. Vágyálom rendszer
 
 
-3. V�gy�lom rendszer
+4. Jelenlegi üzleti folyamatok modelje működés
 
 
-4. Jelenlegi �zleti folyamatok modelje m�k�d�s
+5. Igényelt üzleti folyamatok modelje 
 
 
-5. Ig�nyelt �zleti folyamatok modelje 
-
-
-6. K�vetelm�nylista
-K01:�tl�that�s�g
-K02:jav�that�s�g
-K03:felhaszn�l�bar�t
-K04:felhaszn�l�i fi�kok
+6. Követelménylista
+K01:átláthatóság
+K02:javíthatóság
+K03:felhasználóbarát
+K04:felhasználói fiókok
 K05:tesztek
-K06:feladatok k�sz�t�se
-K07:nyomonk�vethet�s�g
+K06:feladatok készítése
+K07:nyomonkövethetőség
 
 
-7. Haszn�lati esetek
+7. Használati esetek
 
 
-8. Forgat�k�nyvek
+8. Forgatókönyvek
