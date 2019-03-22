@@ -18,6 +18,10 @@ Az Oktató Rendszer megvalósítása/tesztelése során fontos bevonni az érintett ter
 
 
 6. Követelménylista
+K01:átláthatóság
+K02:javíthatóság
+K03:felhasználóbarát
+K04:felhasználói fiókok
 
 
 7. Használati esetek
