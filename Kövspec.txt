@@ -26,11 +26,13 @@ A modern számítógépek hálózati, számítási és megjelenítési képességei lehetõvé t
 A fiatalabb korosztály tanulási motivációjára célszerû rugalmas, több területet lefedõ, ilyen játékos oktatást megvalósító informatikai rendszer fejlesztése.
 
 4. Jelenlegi mûködés
-Magyarország oktatási rendszere a közoktatást és a felsõoktatást foglalja magába, tekintet nélkül a fenntartó vagy az üzemeltetõ személyére (állami, önkormányzati, alapítványi, egyházi, magán stb.).
+
 
 5. Igényelt mûködés
 Fontos az, hogy minél egyszerûbb, átláthatóbb legyen a rendszer, hogy minél gyorsabban tudják használatba venni a diákok és a tanárok egyaránt. Céleszerû a kezelésben, megjelenésben akár sablonszerû elrendezést használni, hogy 
 ne kelljen sok idõt tölteni a felület megismerésével, mielõbb megkezdõdhessen az érdemi munka. Érdemes kapcsolatot biztosítani az egyes közösségi oldalakkal, hogy a diákok megoszthassák eredményeiket ismerõseikkel, ezzel is népszerûsítve
 az élményszerû oktatás lehetõségeit.
+A tanárokat a rendszergazda veszi fel a rendszerbe, míg a diákoknak maguknak kell regisztrálniuk a felületre. A tanárok bejelentkeznek az admin felületükre, ahol létre tudnak hozni tananyagokat (egy egyszerû WYSIWYG szerkesztõ segítségével)
+illetve teszteket a diákok részére. A diákok bejelentkeznek a felületre, kiválasztják az adott kurzust/tananyagot és az elsajátítást követõen kitöltik a kapcsolódó tesztet tudásuk ellenõrzésére.
 
 6. Követelménylista 
