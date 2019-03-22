@@ -11,6 +11,8 @@ Kutatások és mindennapi tapasztalatok is mutatják, hogy játékos formában elérhet
 Az oktatás fõbb eszközei a tanárok, könyvek, táblák.
 Az utóbbi években a számítógépek is egyre jelentõsebb szerepet kapnak.
 Szerepük legnagyobb részt még inkább statikus tartalom megjelenítése.
+A gyerekek sokkal nagyobb figyelmet fordítnak az IKT eszközökkel szemléltetett tudásanyagra annak effektív és interaktív volta miatt, mint a hagyományos, frontális osztálymunka
+során alkalmazott szemléltetõ eszközök esetében. 
 
 3. Vágyálom rendszer
 A modern számítógépek hálózati, számítási és megjelenítési képességei lehetõvé teszik a játékos elemeket is megvalósító oktatást.
