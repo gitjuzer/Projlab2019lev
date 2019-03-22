@@ -48,7 +48,7 @@ illetve teszteket a diákok részére. A diákok bejelentkeznek a felületre, kiválas
 Célszerû alkalmazni a "jutalmazásos" módszert: A diákok tudjanak "szintet lépni", kapjanak rangokat. Fontos, hogy az alkalmazás támogassa a csapatmunkát, az egymás segítésének, támogatásának lehetõségét.
 Mindenképpen mûködnie kell az alkalmazásnak mobilon és számítógépen egyaránt. Tudjon otthon is hozzáférni a diák otthon is platformtól függetlenül.
 A rendszer értékeljen: Legyen egy automatikus javítási funkció, de fontos, hogy legyen személyes, tanári visszejelzés, felügyelet is.
-Az alkalmazás minden életkori sajátosságot vegyen figyelembe. Legyen külön feladat minden korosztálynak.
+Az alkalmazás minden életkori sajátosságot vegyen figyelembe. Legyen külön feladat minden korosztálynak. Az alkalmazás az értékelésnél is vegye figyelembe az életkort.
 
 6. Követelménylista 
 K01:Stabil mûködés minden esetben
