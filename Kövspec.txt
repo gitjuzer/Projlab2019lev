@@ -16,7 +16,6 @@ során alkalmazott szemléltetõ eszközök esetében. Az IKT eszközök használata a pe
 A tanulás új felfogásában és gyakorlatában valóban megkerülhetetlen kérdés az IKT eszközök használatához, az internet világához való viszonyulásunk. A digitális térben való megjelenés, az ott létrejövõ kapcsolódások 
 ma sokszor inkább konfliktusok forrásai, a tanulást támogató elõnyök felismerése helyett.  Pedig az, ami ma körülvesz minket, lehetõvé teszi a generációs szakadékokat is átfedõ találkozást, egymásra hatást, az egymástól való tanulást.
 Az IKT eszközök mindennapi használatbavételének legnagyobb akadálya az, hogy sok idõt igényel az óra megtervezése és a technikai elõkészületek.
-A digitális kompetenciának be kellene épülnie az oktatás minden részébe, ugyanúgy használni kellene magyarórán, énekórán. Egyelõre azonban az az általános, hogy másodlagos tantárgyként kezelik az informatikát, amely csak néhány tanulónak, jellemzõen az ebbõl érettségizõknek, lesz fontos.
 Az IKT eszközök használata nagyon sok elõkészítést igényel.
 A digitális kompetenciának be kellene épülnie az oktatás minden részébe, ugyanúgy használni kellene magyarórán, énekórán. Egyelõre azonban az az általános, hogy másodlagos tantárgyként kezelik az informatikát, amely csak néhány tanulónak, jellemzõen az ebbõl érettségizõknek, lesz fontos.
 
@@ -38,13 +37,18 @@ ne kelljen sok idõt tölteni a felület megismerésével, mielõbb megkezdõdhessen az
 az élményszerû oktatás lehetõségeit.
 
 4. Jelenlegi mûködés
-
+Magyarország oktatási rendszere a közoktatást és a felsõoktatást foglalja magába, tekintet nélkül a fenntartó vagy az üzemeltetõ személyére (állami, önkormányzati, alapítványi, egyházi, magán stb.)
+A tananyag folyamatos növekedése a diákoknak hatalmas trauma.
 
 5. Igényelt mûködés
 Fontos az, hogy minél egyszerûbb, átláthatóbb legyen a rendszer, hogy minél gyorsabban tudják használatba venni a diákok és a tanárok egyaránt. Céleszerû a kezelésben, megjelenésben akár sablonszerû elrendezést használni, hogy 
 ne kelljen sok idõt tölteni a felület megismerésével, mielõbb megkezdõdhessen az érdemi munka. Érdemes kapcsolatot biztosítani az egyes közösségi oldalakkal, hogy a diákok megoszthassák eredményeiket ismerõseikkel, ezzel is népszerûsítve
 az élményszerû oktatás lehetõségeit.
-
+A tanárokat a rendszergazda veszi fel a rendszerbe, míg a diákoknak maguknak kell regisztrálniuk a felületre. A tanárok bejelentkeznek az admin felületükre, ahol létre tudnak hozni tananyagokat (egy egyszerû WYSIWYG szerkesztõ segítségével)
+illetve teszteket a diákok részére. A diákok bejelentkeznek a felületre, kiválasztják az adott kurzust/tananyagot és az elsajátítást követõen kitöltik a kapcsolódó tesztet tudásuk ellenõrzésére.
+Célszerû alkalmazni a "jutalmazásos" módszert: A diákok tudjanak "szintet lépni", kapjanak rangokat. Fontos, hogy az alkalmazás támogassa a csapatmunkát, az egymás segítésének, támogatásának lehetõségét.
+Mindenképpen mûködnie kell az alkalmazásnak mobilon és számítógépen egyaránt. Tudjon otthon is hozzáférni a diák otthon is platformtól függetlenül.
+A rendszer értékeljen: Legyen egy automatikus javítási funkció, de fontos, hogy legyen személyes, tanári visszejelzés, felügyelet is.
 
 6. Követelménylista 
 Stabil mûködés minden esetben.
