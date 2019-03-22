@@ -29,7 +29,9 @@ A fiatalabb korosztály tanulási motivációjára célszerû rugalmas, több területet 
 próba csapó2 próba3
 
 5. Igényelt mûködés
-Fontos az, hogy minél egyszerûbb, átláthatóbb legyen a rendszer, hogy minél gyorsabban tudják használatba venni a diákok és a tanárok egyaránt. Céleszerû a kezelésben, megjelenésben akár sablonszerû elrendezést használni, hogy ne kelljen sok idõt tölteni a felület megismerésével, mielõbb megkezdõdhessen az érdemi munka.
+Fontos az, hogy minél egyszerûbb, átláthatóbb legyen a rendszer, hogy minél gyorsabban tudják használatba venni a diákok és a tanárok egyaránt. Céleszerû a kezelésben, megjelenésben akár sablonszerû elrendezést használni, hogy 
+ne kelljen sok idõt tölteni a felület megismerésével, mielõbb megkezdõdhessen az érdemi munka. Érdemes kapcsolatot biztosítani az egyes közösségi oldalakkal, hogy a diákok megoszthassák eredményeiket ismerõseikkel, ezzel is népszerûsítve
+az élményszerû oktatás lehetõségeit.
 
 
 6. Követelménylista 
