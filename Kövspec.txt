@@ -20,4 +20,4 @@ A fiatalabb korosztály tanulási motivációjára célszerû rugalmas, több területet 
 
 5. Igényelt mûködés
 
-6. Követelménylista
+6. Követelménylista 
