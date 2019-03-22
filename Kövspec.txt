@@ -16,7 +16,7 @@ során alkalmazott szemléltetõ eszközök esetében. Az IKT eszközök használata a pe
 A tanulás új felfogásában és gyakorlatában valóban megkerülhetetlen kérdés az IKT eszközök használatához, az internet világához való viszonyulásunk. A digitális térben való megjelenés, az ott létrejövõ kapcsolódások 
 ma sokszor inkább konfliktusok forrásai, a tanulást támogató elõnyök felismerése helyett.  Pedig az, ami ma körülvesz minket, lehetõvé teszi a generációs szakadékokat is átfedõ találkozást, egymásra hatást, az egymástól való tanulást.
 Az IKT eszközök mindennapi használatbavételének legnagyobb akadálya az, hogy sok idõt igényel az óra megtervezése és a technikai elõkészületek.
-Az IKT eszközök használata nagyon sok elõkészítést igényel.
+Az IKT eszközök használata nagyon sok elõkészítést igényel. A tanulók viszont nagy odafigyeléssel sokat tanulhatnak belõle.
 A digitális kompetenciának be kellene épülnie az oktatás minden részébe, ugyanúgy használni kellene magyarórán, énekórán. Egyelõre azonban az az általános, hogy másodlagos tantárgyként kezelik az informatikát, amely csak néhány tanulónak, jellemzõen az ebbõl érettségizõknek, lesz fontos.
 
 3. Vágyálom rendszer
@@ -48,18 +48,12 @@ Mindenképpen mûködnie kell az alkalmazásnak mobilon és számítógépen egyaránt. Tu
 A rendszer értékeljen: Legyen egy automatikus javítási funkció, de fontos, hogy legyen személyes, tanári visszejelzés, felügyelet is.
 
 6. Követelménylista 
-K01:Stabil mûködés minden esetben.
-K02:Egyszerû használhatóság.
-K03:ingergazdag
-A program felhasználóbarát lesz, mert diákok és szülõk is használják, azon kívül, mivel üzleti szereplõket is meg akarjuk szólítani, 
-ezért ezen felahsználóknak külön-külön  felhasználói felületet kell biztosítani, mert a felhasználási célok különbözõek.
- Az oldal felépítésének érdekesnek, színesnek kell lennie. Maga a programnak fel kell kelteni a tanulók, szülõk és az üzleti szereplõk
-érdeklõdési körét. A felhasználók a saját felhasználói neveik segítségével nyomon tudják követni fejlõdésüket.
+K01. Stabil mûködés minden esetben.
+K02. Egyszerû használhatóság.
+K03. Ingergazdag
 K04. Külön felület a tanárok és a diákok részére
 K05. Regisztrációs lehetõség a diákok részére
-K06. Tananygok hozzáadása
-K07. Tesztek hozzáadása
-K08. Tananyagok szerkesztése
-K09. Tananyagok törlése
-K10. Tesztek szerkesztése
-K11. Tesztek törlése
+K06. Felhasználóbarát
+K07. Keresõoptimalizált
+K08. Mobilbarát
+K09. Jogosultsági szinteknek megfelelõ tartalomkezelés
