@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Játékos Oktató Rendszer
 
 Követelményspecifikáció
@@ -120,6 +120,7 @@ az élményszerû oktatás lehetõségeit.
 4. Jelenlegi mûködés
 Magyarország oktatási rendszere a közoktatást és a felsõoktatást foglalja magába, tekintet nélkül a fenntartó vagy az üzemeltetõ személyére (állami, önkormányzati, alapítványi, egyházi, magán stb.)
 A tananyag folyamatos növekedése a diákoknak hatalmas trauma.
+
 5. Igényelt mûködés
 
 
