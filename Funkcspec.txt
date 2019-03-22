@@ -1,0 +1,20 @@
+Játékos Oktató Rendszer
+
+Funkcionális specifikáció
+
+1. Vezetõi összefoglaló
+
+
+2. Jelenlegi helyzet
+
+
+3. Vágyálom rendszer
+
+
+4. Jelenlegi mûködés
+
+
+5. Igényelt mûködés
+
+
+6. Követelménylista
