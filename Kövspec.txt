@@ -35,3 +35,4 @@ az élményszerû oktatás lehetõségeit.
 
 
 6. Követelménylista 
+Stabil mûködés minden esetben.
