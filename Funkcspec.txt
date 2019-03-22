@@ -24,6 +24,7 @@ K03:felhasználóbarát
 K04:felhasználói fiókok
 K05:tesztek
 K06:feladatok készítése
+K07: Elfelejtett jelszó lehetõségének kezelése
 
 
 
