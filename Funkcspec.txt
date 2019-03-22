@@ -32,6 +32,8 @@ K01:átláthatóság
 K02:javíthatóság
 K03:felhasználóbarát
 K04:felhasználói fiókok
+K05:tesztek
+K06:feladatok készítése
 
 
 7. Használati esetek
