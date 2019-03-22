@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Játékos Oktató Rendszer
 
 Követelményspecifikáció
@@ -36,3 +37,64 @@ A tanárokat a rendszergazda veszi fel a rendszerbe, míg a diákoknak maguknak kel
 illetve teszteket a diákok részére. A diákok bejelentkeznek a felületre, kiválasztják az adott kurzust/tananyagot és az elsajátítást követõen kitöltik a kapcsolódó tesztet tudásuk ellenõrzésére.
 
 6. Követelménylista 
+=======
+
+Játékos Oktató Rendszer
+
+Követelményspecifikáció
+
+1. Vezetõi összefoglaló
+Az oktatás sok embert érintõ terület a gyerekektõl a tanárokon és szülõkön keresztül a majdan a tudást igénylõ üzleti szereplõkig.
+Jelenleg az oktatás túlnyomó részt iskolapados rendszerû, ahol szigorú keretek közt, a motiválás és kedvcsinálás szempontokat csak ritkán vagy nem teljeskörûen alkalmazzák.
+Kutatások és mindennapi tapasztalatok is mutatják, hogy játékos formában elérhetõ feladatokat a gyerekek nagyobb lelkesedéssel hajtanak végre.
+
+2. Jelenlegi helyzet
+Az oktatás fõbb eszközei a tanárok, könyvek, táblák. 
+A tanároknak olyan szerepük van a digitális világban, mint az idegenvezetõknek, akik megmutatják a tudáshoz vezetõ, helyes utat.
+Az utóbbi években a számítógépek is egyre jelentõsebb szerepet kapnak. Szerepük legnagyobb részt még inkább statikus tartalom megjelenítése.
+A gyerekek sokkal nagyobb figyelmet fordítnak az IKT eszközökkel szemléltetett tudásanyagra annak effektív és interaktív volta miatt, mint a hagyományos, frontális osztálymunka
+során alkalmazott szemléltetõ eszközök esetében. Az IKT eszközök használata a pedagógusokat állandó fejlõdésre készteti, felfrissíti a hétköznapi munkát, elõsegíti a szakmai és módszertani megújulást.
+A tanulás új felfogásában és gyakorlatában valóban megkerülhetetlen kérdés az IKT eszközök használatához, az internet világához való viszonyulásunk. A digitális térben való megjelenés, az ott létrejövõ kapcsolódások 
+ma sokszor inkább konfliktusok forrásai, a tanulást támogató elõnyök felismerése helyett.  Pedig az, ami ma körülvesz minket, lehetõvé teszi a generációs szakadékokat is átfedõ találkozást, egymásra hatást, az egymástól való tanulást.
+Az IKT eszközök mindennapi használatbavételének legnagyobb akadálya az, hogy sok idõt igényel az óra megtervezése és a technikai elõkészületek.
+A digitális kompetenciának be kellene épülnie az oktatás minden részébe, ugyanúgy használni kellene magyarórán, énekórán. Egyelõre azonban az az általános, hogy másodlagos tantárgyként kezelik az informatikát, amely csak néhány tanulónak, jellemzõen az ebbõl érettségizõknek, lesz fontos.
+Az IKT eszközök használata nagyon sok elõkészítést igényel.
+
+A digitális kompetenciának be kellene épülnie az oktatás minden részébe, ugyanúgy használni kellene magyarórán, énekórán. Egyelõre azonban az az általános, hogy másodlagos tantárgyként kezelik az informatikát, amely csak néhány tanulónak, jellemzõen az ebbõl érettségizõknek, lesz fontos.
+
+3. Vágyálom rendszer
+A modern számítógépek hálózati, számítási és megjelenítési képességei lehetõvé teszik a játékos elemeket is megvalósító oktatást.
+A fiatalabb korosztály tanulási motivációjára célszerû rugalmas, több területet lefedõ, ilyen játékos oktatást megvalósító informatikai rendszer fejlesztése.
+A számítógépek használata segítheti a fiatalabb generáció algoritmikus gondolkodásának fejlesztését.
+Az algoritmikus gondolkodás elsajátítása az iskolában azért is hasznos, mert a diákok tudják kamatoztatni ezt a fajta tudást, az
+iskolán kívül a mindennapjaikban, a hétköznapi szituációk, problémák során is.
+Ez a fajta gondolkodásmód elsõsorban a problémamegoldás területén segíti a diákokat.
+Mivel megtanítja õket arra, hogy a problémákat részekre bontsák.
+A külön részekre különbözõ megoldásokat kell találniuk, ezáltal közelebb kerülnek a fõ probléma megoldásához.
+Ezeket játékos jellegû feladatokon keresztül is lehet alkalmazni, ezáltal érdekesebbé lehet tenni az algoritmikus gondolkodás elsajátítását.
+Ilyen játékos feladat lehet pl. a Hanoi-tornyai játék. 
+Aminek a lényege az, hogy az elsõ rúdról a harmadik rúdra hogyan lehet eljuttatni a korongokat úgy, 
+hogy a nagyobb korongot a kisebb korongra tilos mozgatni.
+Fontos az, hogy minél egyszerûbb, átláthatóbb legyen a rendszer, hogy minél gyorsabban tudják használatba venni a diákok és a tanárok egyaránt. Céleszerû a kezelésben, megjelenésben akár sablonszerû elrendezést használni, hogy 
+ne kelljen sok idõt tölteni a felület megismerésével, mielõbb megkezdõdhessen az érdemi munka. Érdemes kapcsolatot biztosítani az egyes közösségi oldalakkal, hogy a diákok megoszthassák eredményeiket ismerõseikkel, ezzel is népszerûsítve
+az élményszerû oktatás lehetõségeit.
+
+4. Jelenlegi mûködés
+Magyarország oktatási rendszere a közoktatást és a felsõoktatást foglalja magába, tekintet nélkül a fenntartó vagy az üzemeltetõ személyére (állami, önkormányzati, alapítványi, egyházi, magán stb.)
+
+5. Igényelt mûködés
+
+
+6.Követelménylista
+A program felhasználóbarát lesz, mert diákok és szülõk is használják, azon kívül, mivel üzleti szereplõket is meg akarjuk szólítani, 
+ezért ezen felahsználóknak külön-külön  felhasználói felületet kell biztosítani, mert a felhasználási célok különbözõek.
+ Az oldal felépítésének érdekesnek, színesnek kell lennie. Maga a programnak fel kell kelteni a tanulók, szülõk és az üzleti szereplõk
+érdeklõdési körét. A felhasználók a saját felhasználói neveik segítségével nyomon tudják követni fejlõdésüket.
+
+
+
+
+
+
+=
+>>>>>>> e2329e6c33d71da37129abdef988f2da40f06a48
