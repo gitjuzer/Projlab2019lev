@@ -49,7 +49,7 @@ K05:tesztek
 K06:feladatok k�sz�t�se
 K07: Elfelejtett jelszó lehetőségének kezelése
 K08: Help felület
-
+K09: Tartalma 2011. évi CXC. törvénya nemzeti köznevelésről(aktuális hatályhoz igazodva)
 
 
 
