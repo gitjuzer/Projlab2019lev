@@ -48,9 +48,10 @@ K03:felhasználóbarát
 K04:felhasználói fiókok
 K05:tesztek
 K06:feladatok készítése
-K07: Elfelejtett jelszó lehetőségének kezelése
-K08: Help felület
-K09: Tartalma 2011. évi CXC. törvénya nemzeti köznevelésről(aktuális hatályhoz igazodva)
+K07:elfelejtett jelszó lehetőségének kezelése
+K08:help felület
+K09:tartalma 2011. évi CXC. törvénya nemzeti köznevelésről(aktuális hatályhoz igazodva)
+K10:felhasználói szabályzat
 
 
 
