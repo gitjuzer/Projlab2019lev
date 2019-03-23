@@ -3,11 +3,13 @@ Játékos Oktató Rendszer
 Követelményspecifikáció
 
 1. Vezetõi összefoglaló
+
 Az oktatás sok embert érintõ terület a gyerekektõl a tanárokon és szülõkön keresztül a majdan a tudást igénylõ üzleti szereplõkig.
 Jelenleg az oktatás túlnyomó részt iskolapados rendszerû, ahol szigorú keretek közt, a motiválás és kedvcsinálás szempontokat csak ritkán vagy nem teljeskörûen alkalmazzák.
 Kutatások és mindennapi tapasztalatok is mutatják, hogy játékos formában elérhetõ feladatokat a gyerekek nagyobb lelkesedéssel hajtanak végre.
 
 2. Jelenlegi helyzet
+
 Az oktatás fõbb eszközei a tanárok, könyvek, táblák. 
 A tanároknak olyan szerepük van a digitális világban, mint az idegenvezetõknek, akik megmutatják a tudáshoz vezetõ, helyes utat.
 Az utóbbi években a számítógépek is egyre jelentõsebb szerepet kapnak. Szerepük legnagyobb részt még inkább statikus tartalom megjelenítése.
@@ -48,7 +50,8 @@ A legtöbb iskolában nem elérhetõ a megfelelõ felület a tanárok és diákok informá
 A magyar oktatási rendszerrel bizony problémák vannak – ezzel a szülõk, diákok, tanárok nagy többsége egyetért.
 Az iskolák alulfinanszírozottak, a pedagógusok nem keresnek eleget, ellenben túlterheltek, a gyerekek fáradtak és motiválatlanok. 
 A világ változik, a tananyag örök – ugyanaz a berögzõdés, metódus ötven éve már, teljesen elveszítve a kapcsolatot az élõ kultúrával és a diákok szükségleteivel.
-Az iskolákról, a tanárokról, a módszerrõl, a tananyagról mindenkinek megvan a véleménye. 
+Az iskolákról, a tanárokról, a módszerrõl, a tananyagról mindenkinek megvan a véleménye.
+ 
 
 5. Igényelt mûködés
 A tanárokat a rendszergazda veszi fel a rendszerbe, míg a diákoknak maguknak kell regisztrálniuk a felületre. A tanárok bejelentkeznek az admin felületükre, ahol létre tudnak hozni tananyagokat (egy egyszerû WYSIWYG szerkesztõ segítségével)
