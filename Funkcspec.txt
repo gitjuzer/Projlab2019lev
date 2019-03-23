@@ -33,6 +33,10 @@ K06: másik bevételi modell (óvoda, iskolai használta-térítés)
 K07: ingyenes minőségi rikta
 
 5. Igényelt üzleti folyamatok modelje 
+K01: a játék és oktatás népszerűség kihasználása
+K02: komplex témák ötvözése
+K03: iskolai célcsoport megcélzása
+K04: bevételi modell -érintett tanulók részére ingyenes legyen
 
 
 6. Követelménylista
