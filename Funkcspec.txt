@@ -24,9 +24,10 @@ Az "informatikai rendszer fejlesztése" kifejezés a többi pontban meghatározo
 
 
 4. Jelenlegi üzleti folyamatok modelje működés
-K01: népszerűség (a piac 23%-át uralják az oktató játékok)
+K01: játékok népszerűségi listát vezetik (a piac 23%-át uralják)
 K02: korlátlan használati idő (kortól független)
 K03: jellemző témák (ügyességi, logika, nyelvi)
+K04: oktató alkalmazások népszerűségi lista harmadik hely (a piac 9 % uralják)
 
 5. Igényelt üzleti folyamatok modelje 
 
