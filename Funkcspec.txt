@@ -37,6 +37,7 @@ K01: a játék és oktatás népszerűség kihasználása
 K02: komplex témák ötvözése
 K03: iskolai célcsoport megcélzása
 K04: bevételi modell -érintett tanulók részére ingyenes legyen
+K09: Entitások: regisztált felhasználó, látogató
 
 
 6. Követelménylista
@@ -48,6 +49,7 @@ K05:tesztek
 K06:feladatok k�sz�t�se
 K07: Elfelejtett jelszó lehetőségének kezelése
 K08: Help felület
+
 
 
 
