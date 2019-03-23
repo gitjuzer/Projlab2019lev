@@ -28,6 +28,7 @@ Egyelõre azonban az az általános, hogy másodlagos tantárgyként kezelik az inform
 A mai tantermek már IKT eszközökkel felszereltebbek. Már sok iskolában használnak tableteket is.Ezeket az eszközöket a diákok már rutinszerûen használják.Cél az is, hogy azok a tanárok is rutinszerûen használják, akik nem informatika tanárok.
 
 3. Vágyálom rendszer
+
 A modern számítógépek hálózati, számítási és megjelenítési képességei lehetõvé teszik a játékos elemeket is megvalósító oktatást.
 A fiatalabb korosztály tanulási motivációjára célszerû rugalmas, több területet lefedõ, ilyen játékos oktatást megvalósító informatikai rendszer fejlesztése.
 A számítógépek használata segítheti a fiatalabb generáció algoritmikus gondolkodásának fejlesztését.
@@ -43,6 +44,7 @@ hogy a nagyobb korongot a kisebb korongra tilos mozgatni.
 Fontos az, hogy minél egyszerûbb, átláthatóbb legyen a rendszer, hogy minél gyorsabban tudják használatba venni a diákok és a tanárok egyaránt. Céleszerû a kezelésben, megjelenésben akár sablonszerû elrendezést használni, hogy ne kelljen sok idõt tölteni a felület megismerésével, mielõbb megkezdõdhessen az érdemi munka. Érdemes kapcsolatot biztosítani az egyes közösségi oldalakkal, hogy a diákok megoszthassák eredményeiket ismerõseikkel, ezzel is népszerûsítveaz élményszerû oktatás lehetõségeit.
 
 4. Jelenlegi mûködés
+
 Magyarország oktatási rendszere a közoktatást és a felsõoktatást foglalja magába, tekintet nélkül a fenntartó vagy az üzemeltetõ személyére (állami, önkormányzati, alapítványi, egyházi, magán stb.)
 A tananyag folyamatos növekedése a diákoknak hatalmas trauma.
 A diákok miközben az információs tér is egyre nõ körülöttük, és minden nehezen megtanítható dolgot most már könnyedén beszerezhetnének, az iskolában mégis szinte ingerszegény környezetben vannak.
@@ -54,6 +56,7 @@ Az iskolákról, a tanárokról, a módszerrõl, a tananyagról mindenkinek megvan a vé
  
 
 5. Igényelt mûködés
+
 A tanárokat a rendszergazda veszi fel a rendszerbe, míg a diákoknak maguknak kell regisztrálniuk a felületre. A tanárok bejelentkeznek az admin felületükre, ahol létre tudnak hozni tananyagokat (egy egyszerû WYSIWYG szerkesztõ segítségével)
 illetve teszteket a diákok részére. A diákok bejelentkeznek a felületre, kiválasztják az adott kurzust/tananyagot és az elsajátítást követõen kitöltik a kapcsolódó tesztet tudásuk ellenõrzésére.
 Célszerû alkalmazni a "jutalmazásos" módszert: A diákok tudjanak "szintet lépni", kapjanak rangokat. Fontos, hogy az alkalmazás támogassa a csapatmunkát, az egymás segítésének, támogatásának lehetõségét.
@@ -63,6 +66,7 @@ Az alkalmazás minden életkori sajátosságot vegyen figyelembe. Legyen külön felad
 A játékosság mindenek elõtt. Ez azt jelenti, hogy úgy tanuljanak, hogy azt szinte észre sem veszik.Sokkal jobban rögzül az információ, ha alkalmazzuk a tanításban a multimédiát. Hang, kép, animáció, és amellett hogy az információ megértése jobb, szórakoztató a tanulás. 
 
 6. Követelménylista 
+
 K01:Stabil mûködés minden esetben
 K02:Egyszerû használhatóság
 K03:Ingergazdag
