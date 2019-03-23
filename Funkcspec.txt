@@ -28,6 +28,9 @@ K01: játékok népszerűségi listát vezetik (a piac 23%-át uralják)
 K02: korlátlan használati idő (kortól független)
 K03: jellemző témák (ügyességi, logika, nyelvi)
 K04: oktató alkalmazások népszerűségi lista harmadik hely (a piac 9 % uralják)
+K05: egyik bevételi modell (fizetős- kb 500-1000 ft/ letöltés)
+K06: másik bevételi modell (óvoda, iskolai használta-térítés)
+K07: ingyenes minőségi rikta
 
 5. Igényelt üzleti folyamatok modelje 
 
