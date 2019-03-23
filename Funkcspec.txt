@@ -47,6 +47,7 @@ K04:felhasználói fiókok
 K05:tesztek
 K06:feladatok k�sz�t�se
 K07: Elfelejtett jelszó lehetőségének kezelése
+K08: Help felület
 
 
 
