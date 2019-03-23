@@ -47,7 +47,8 @@ A diákok miközben az információs tér is egyre nõ körülöttük, és minden nehezen m
 A legtöbb iskolában nem elérhetõ a megfelelõ felület a tanárok és diákok információ és digitális tananyag cseréjéhez, az egyetlen felület az e-napló.
 A magyar oktatási rendszerrel bizony problémák vannak – ezzel a szülõk, diákok, tanárok nagy többsége egyetért.
 Az iskolák alulfinanszírozottak, a pedagógusok nem keresnek eleget, ellenben túlterheltek, a gyerekek fáradtak és motiválatlanok. 
-A világ változik, a tananyag örök – ugyanaz a berögzõdés, metódus ötven éve már, teljesen elveszítve a kapcsolatot az élõ kultúrával és a diákok szükségleteivel. 
+A világ változik, a tananyag örök – ugyanaz a berögzõdés, metódus ötven éve már, teljesen elveszítve a kapcsolatot az élõ kultúrával és a diákok szükségleteivel.
+Az iskolákról, a tanárokról, a módszerrõl, a tananyagról mindenkinek megvan a véleménye. 
 
 5. Igényelt mûködés
 A tanárokat a rendszergazda veszi fel a rendszerbe, míg a diákoknak maguknak kell regisztrálniuk a felületre. A tanárok bejelentkeznek az admin felületükre, ahol létre tudnak hozni tananyagokat (egy egyszerû WYSIWYG szerkesztõ segítségével)
