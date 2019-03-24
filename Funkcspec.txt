@@ -39,6 +39,8 @@ K02: komplex témák ötvözése
 K03: iskolai célcsoport megcélzása
 K04: bevételi modell -érintett tanulók részére ingyenes legyen
 K09: Entitások: regisztált felhasználó, látogató
+K10: Cágek, támogatok bevonása
+K11: Marketing tevékenység kiválasztása
 
 
 6. Követelménylista
@@ -56,6 +58,15 @@ K10:felhasználói szabályzat
 
 
 7. Használati esetek
+01:Oktatási céra való felhasználás, új ismeretek szerzéséhez
+02:Meglévő ismeretek megújítása, ha a téma megköveteli ezt
+03:Oktatásban használt eszközök kiszélesítése
+04:Megértés segítéséhez felhasználás
+05:Csoportos feladatok alkotásához, közös munkákhoz.(Akár projekt feladatok)
+06:Monotonítás elkerülése, javítása
 
 
 8. Forgatókönyvek
+
+
+
