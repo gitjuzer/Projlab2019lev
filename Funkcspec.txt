@@ -68,7 +68,12 @@ K10:felhasználói szabályzat
 08:Felhasználói jelzések fogadása
 09:Szereplők rendszerezése (ki vagy mi kerül kapcsolatba a rendszerrel)
 10:Elsődleges szereplők:felhasználók iskolá kortól--korhatár nélkül
-11: Másodlagos szereplők: ki, hány adminsztrátor, azonos vagy osztott feladatok
+11:Másodlagos szereplők: több adminsztrátor, azonos feladatokkal
+12:Belső hardver támogatás meghatározása!!
+13:Külső hardver kapcsolat meghatározása!!
+14:Felhasználó vihet be adatot.
+15:Informálás csak rendszerszintű problémákról.
+ 
 
 
 8. Forgatókönyvek
