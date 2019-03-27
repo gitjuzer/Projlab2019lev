@@ -66,6 +66,9 @@ K10:felhasználói szabályzat
 06:Monotonítás elkerülése, javítása
 07:Felhasználók közötti kommunikáció
 08:Felhasználói jelzések fogadása
+09:Szereplők rendszerezése (ki vagy mi kerül kapcsolatba a rendszerrel)
+10:Elsődleges szereplők:felhasználók iskolá kortól--korhatár nélkül
+11: Másodlagos szereplők: ki, hány adminsztrátor, azonos vagy osztott feladatok
 
 
 8. Forgatókönyvek
