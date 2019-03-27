@@ -64,6 +64,8 @@ K10:felhasználói szabályzat
 04:Megértés segítéséhez felhasználás
 05:Csoportos feladatok alkotásához, közös munkákhoz.(Akár projekt feladatok)
 06:Monotonítás elkerülése, javítása
+07:Felhasználók közötti kommunikáció
+08:Felhasználói jelzések fogadása
 
 
 8. Forgatókönyvek
