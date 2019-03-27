@@ -39,7 +39,7 @@ K02: komplex témák ötvözése
 K03: iskolai célcsoport megcélzása
 K04: bevételi modell -érintett tanulók részére ingyenes legyen
 K09: Entitások: regisztált felhasználó, látogató
-K10: Cágek, támogatok bevonása
+K10: Cégek, támogatok bevonása
 K11: Marketing tevékenység kiválasztása
 
 
