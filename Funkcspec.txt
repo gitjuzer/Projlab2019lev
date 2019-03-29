@@ -16,6 +16,7 @@ Az órák megtervezése több időt igényel, mint a hagyományos óráé, de me
 a diákok számára, illetve ők is fogékonyabbak lesznek az ilyen fajta tanulásra.
 Nem csak informatika órán kellene használni ezeket az eszközöket, hanem a lehető legtöbb tanórára meg kell találni a módját ezek
 beiktatására.
+A digitális kompetenciának be kellene épülnie az oktatás minden részébe, ugyanúgy használni kellene magyarórán, énekórán. 
 
 3. Vágyálom rendszer
 Meg kell határozni egy technikai követelmény specifikáciüót, ugyanis bár az állítás igaz: a mai modern technika képes egy ilyen szintű rendszer működtetésére, azonban sajnos a valóság azt mutatja, hogy sok iskola elmaradott a technikai fejlődésben. A diákok saját tulajdonú eszközeire pedig nem alapozhatunk.
