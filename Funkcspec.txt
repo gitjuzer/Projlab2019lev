@@ -15,7 +15,8 @@ a diákok a telefonjukat is használhatják. Feladatunk, hogy megtanítsuk őket
 Az órák megtervezése több időt igényel, mint a hagyományos óráé, de megéri rá időt szánni, mert sokkal hatékonyabban át lehet adni a tudást
 a diákok számára, illetve ők is fogékonyabbak lesznek az ilyen fajta tanulásra.
 A számítógépes játékok több szállal kötődnek a tanuláshoz. Egyrészt egyáltalán nem ritka, hogy olyan egyetemes (részint lexikai) tudásra épül a játékmenet, amelyet a diákok akár az iskolában is képesek később hasznosítani. 
-Érdemes külön kitérni a virtuális osztálytermekre, a játékosítás megoldható a környezet és a tananyag alakításával is. 
+Érdemes külön kitérni a virtuális osztálytermekre, a játékosítás megoldható a környezet és a tananyag alakításával is.
+A virtuális terek a tanulási környezet módosításához nyújtanak segítséget, valamint igény szerint az értékelés átlátható gamifikálásához. A felületek célja az, hogy a diákok is jól láthatóan tudják követni a saját és egymás fejlődését is. 
 Nem csak informatika órán kellene használni ezeket az eszközöket, hanem a lehető legtöbb tanórára meg kell találni a módját ezek
 beiktatására.
 A digitális kompetenciának be kellene épülnie az oktatás minden részébe, ugyanúgy használni kellene magyarórán, énekórán. 
