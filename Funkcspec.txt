@@ -88,6 +88,18 @@ K10:felhasználói szabályzat
 
 
 8. Forgatókönyvek
-
+01: A termék kigondolása, alapjainak letisztázása
+02: A használhatóság feltérképezése, igény felmérés
+03: A szükséges eszközök, anyagi források, munkát végző csoport felállítása
+04: A projecthez szakértőkkel történő egyeztetés 
+05: A fejlesztési munkák megkezdése
+06: A kifejlesztett program vizualis megtervezése
+07: Tesztelések munkafolyamatok közben
+08: Kontrolcsoportban való tesztelés
+09: Felmerülő hibák javítása, tesztelés
+10: A termék reklámja
+11: Megfelelő tesztelés, csoport visszajelzések kiértékelése, javítása, tesztelése után termék piacra dobása
+12: A termékel kapcsolatos fejlesztések, kérések vizsgálata, monitoring
+13: A program nyomonkövetése, elégedetség, használhatósági mérések
 
 
