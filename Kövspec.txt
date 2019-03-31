@@ -83,4 +83,8 @@ K09:Mobilbarát
 K10:Reflexív
 K11:Interaktív
 K12:Motiváló
+K13:Használatra ösztönzõ
+K14:Szakszerû
+K15:Többnyelven használható
+K16:Egyértelmû
 
