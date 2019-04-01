@@ -1,6 +1,6 @@
 Nagyvonalú rendszerterv 
 
-(A rendszerterv egy írásban rögzített specifikáció, amely leírja akarunk a jövõben létrehozni. 
+(A rendszerterv egy írásban rögzített specifikáció, amely leírja hogy mit akarunk a jövõben létrehozni. 
 Fontos, hogy reális legyen, azaz megvalósítható lépéseket írjon elõ. 
 A rendszerterv hasonló szerepet játszik a szoftverfejlesztésben, mint a tervrajz az építkezéseken, 
 tehát elég részletesnek kell lennie, hogy ebbõl a programozók képesek legyenek megvalósítani a szoftvert.)
@@ -10,6 +10,9 @@ tehát elég részletesnek kell lennie, hogy ebbõl a programozók képesek legyenek m
 2.miért (rendszer célja):
 
 3.hogyan (terv):
+Követelmények:
+Funkcionális követelmények: 
+K01:átláthatóság - ennek megfelelõen, egy olyan program legyen, amely minden programozó számára átlátható kódolással legyen megírva. Fontos az, hogy a programozók mindig értsék a munkatársaik logikáját. A kód legyen könnyen olvasható, hogy bárki be tudjon csatlakozni a munkába, és tudja folytatni azt.
 
 4.mikor (idõpont):
 
