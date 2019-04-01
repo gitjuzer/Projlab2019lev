@@ -11,8 +11,10 @@ tehát elég részletesnek kell lennie, hogy ebbõl a programozók képesek legyenek m
 
 3.hogyan (terv):
 Követelmények:
+
 Funkcionális követelmények: 
 K01:átláthatóság - ennek megfelelõen, egy olyan program legyen, amely minden programozó számára átlátható kódolással legyen megírva. Fontos az, hogy a programozók mindig értsék a munkatársaik logikáját. A kód legyen könnyen olvasható, hogy bárki be tudjon csatlakozni a munkába, és tudja folytatni azt.
+K02:javíthatóság - hibák mindig vannak, lesznek. Legyen lehetõség javítani. A javítás legyen egységes.
 
 4.mikor (idõpont):
 
