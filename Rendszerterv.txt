@@ -13,9 +13,10 @@ tehát elég részletesnek kell lennie, hogy ebbõl a programozók képesek legyenek m
 Követelmények:
 
 Funkcionális követelmények: 
-K01:átláthatóság - ennek megfelelõen, egy olyan program legyen, amely minden programozó számára átlátható kódolással legyen megírva. Fontos az, hogy a programozók mindig értsék a munkatársaik logikáját. A kód legyen könnyen olvasható, hogy bárki be tudjon csatlakozni a munkába, és tudja folytatni azt.
+K01:átláthatóság - ennek  megfelelõen, egy olyan program legyen, amely minden programozó számára átlátható kódolással legyen megírva. Fontos az, hogy a programozók mindig értsék a munkatársaik logikáját. A kód legyen könnyen olvasható, hogy bárki be tudjon csatlakozni a munkába, és tudja folytatni azt.
 K02:javíthatóság - hibák mindig vannak, lesznek. Legyen lehetõség javítani. A javítás legyen egységes.
-K03:felhasználóbarát - a program felülete és kezelhetõsége legyen a felhasználók életkorának megfelelõ. A tervezésnél figyelembe kell venni minden lehetõséget. Erre a feladatra jelöljünk ki egy erre alkalmas kollégát.
+K03:felhasználóbarát - a program felülete és kezelhetõsége legyen a felhasználók életkorának megfelelõ. A tervezésnél figyelembe kell venni minden lehetõséget. Erre a feladatra jelöljünk ki egy erre alkalmas kollégát, aki vezeti ezt a tevékenységet.
+K04:felhasználói fiókok - regisztráció és saját felhasználói fiók szükséges minden programhasználónak. A tanári fiók legyen különbözõ jogosultságokkal ellátva, a tanulói fiókok korlátozottabbak ennél.
 
 4.mikor (idõpont): 
 
