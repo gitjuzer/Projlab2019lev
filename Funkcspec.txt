@@ -27,7 +27,8 @@ Változatos módszerekre van szükség, a mai diákok információfeldolgozási 
 
 3. Vágyálom rendszer
 
-Meg kell határozni egy technikai követelmény specifikációt, ugyanis bár az állítás igaz: a mai modern technika képes egy ilyen szintű rendszer működtetésére, azonban sajnos a valóság azt mutatja, hogy sok iskola elmaradott a technikai fejlődésben. A diákok saját tulajdonú eszközeire pedig nem alapozhatunk. Nincs lehetősége elég sok diáknak, főleg a hátrányos helyzetű területeken, hogy saját eszközökkel dolgozzanak. Az iskolák se tudnak biztosítani minden tanulónak megfelelő eszközöket. Ha nincsenek nyert pályázatok akkor képtelenség megfelelő eszközöket beszerezni. Ha esetleg van is eszköz a tanulók figyelmét elég nehéz felkelteni. Sokszínű feladatokkal sikerül csak. 
+Meg kell határozni egy technikai követelmény specifikációt, ugyanis bár az állítás igaz: a mai modern technika képes egy ilyen szintű rendszer működtetésére, azonban sajnos a valóság azt mutatja, hogy sok iskola elmaradott a technikai fejlődésben. A diákok saját tulajdonú eszközeire pedig nem alapozhatunk. Nincs lehetősége elég sok diáknak, főleg a hátrányos helyzetű területeken, hogy saját eszközökkel dolgozzanak. Az iskolák se tudnak biztosítani minden tanulónak megfelelő eszközöket. Ha nincsenek nyert pályázatok akkor képtelenség megfelelő eszközöket beszerezni. Ha esetleg van is eszköz a tanulók figyelmét elég nehéz felkelteni. Sokszínű feladatokkal sikerül csak.
+A hazai oktatás ugyan mindent megtesz a technikai fejlődéshez, de sajnos a kivitelezés elég bonyolult. 
 Az "informatikai rendszer fejlesztése" kifejezés a többi pontban meghatározott elképzeléshez képest kissé túlzónak tűnik.
 
 
