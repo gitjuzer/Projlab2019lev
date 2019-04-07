@@ -7,33 +7,24 @@ Funkcionális specifikáció
 Az Oktató Rendszer megvalósítása/tesztelése során fontos bevonni az érintett területek minél nagyobb számú képviselőit. Legyen visszajelzés tanártól, diáktól, iskolapados rendszer képviselőitől és az alternatív módszerek alkalmazóiól egyaránt.
 
 2. Jelenlegi helyzet
-
 A mai világban egyre nagyobb teret hódít a digitális eszközök bevitele/használata a közoktatásban.
-Fontos, hogy a tanárok naprakész tudással rendelkezzenek ezen eszközök használatáról. Ez megkívánja azt, hogy folyamatosan képezzék magukat, lépést tartsanak a technológia fejlődésével. Az idősebb korosztálynak is fel kell kelteni az érdeklődését az IKT eszközök
+Fontos, hogy a tanárok naprakész tudással rendelkezzenek ezen eszközök használatáról. Ez megkívánja azt, hogy folyamatosan képezzék magukat,
+lépést tartsanak a technológia fejlődésével. Az idősebb korosztálynak is fel kell kelteni az érdeklődését az IKT eszközök
 használatával kapcsolatban, és azok hatékonyságáról meggyőzni őket. Ugyanis, a diákok sokkal hatékonyabban tudnak tanulni
 ezekkel az eszközökkel, mint a hagyományos, frontális osztálymunka esetében.
 Lényeges, hogy az IKT eszközöket ne csak a megszokott módon használjuk (kivetítés...), hanem tegyük interaktívvá az órát, pl. azáltal, hogy
 a diákok a telefonjukat is használhatják. Feladatunk, hogy megtanítsuk őket az okos eszközök funkcionális használatára.
 Az órák megtervezése több időt igényel, mint a hagyományos óráé, de megéri rá időt szánni, mert sokkal hatékonyabban át lehet adni a tudást
 a diákok számára, illetve ők is fogékonyabbak lesznek az ilyen fajta tanulásra.
-A számítógépes játékok több szállal kötődnek a tanuláshoz. Egyrészt egyáltalán nem ritka, hogy olyan egyetemes (részint lexikai) tudásra épül a játékmenet, amelyet a diákok akár az iskolában is képesek később hasznosítani. 
-Érdemes külön kitérni a virtuális osztálytermekre, a játékosítás megoldható a környezet és a tananyag alakításával is.
-A virtuális terek a tanulási környezet módosításához nyújtanak segítséget, valamint igény szerint az értékelés átlátható gamifikálásához. A felületek célja az, hogy a diákok is jól láthatóan tudják követni a saját és egymás fejlődését is. 
 Nem csak informatika órán kellene használni ezeket az eszközöket, hanem a lehető legtöbb tanórára meg kell találni a módját ezek
 beiktatására.
-A digitális kompetenciának be kellene épülnie az oktatás minden részébe, ugyanúgy használni kellene magyarórán, énekórán. 
-Változatos módszerekre van szükség, a mai diákok információfeldolgozási szokásaihoz, kommunikációs igényeihez alkalmazkodó módszertanra, amely a tapasztalati, az élményközpontú, az együttműködésen alapuló tanulás, a problémamegoldó gondolkodás fejlesztésében, a tananyag és a valóság közötti szakadék csökkentésében jelöli ki a helyes irányt.
-
 
 3. Vágyálom rendszer
-
-Meg kell határozni egy technikai követelmény specifikációt, ugyanis bár az állítás igaz: a mai modern technika képes egy ilyen szintű rendszer működtetésére, azonban sajnos a valóság azt mutatja, hogy sok iskola elmaradott a technikai fejlődésben. A diákok saját tulajdonú eszközeire pedig nem alapozhatunk. Nincs lehetősége elég sok diáknak, főleg a hátrányos helyzetű területeken, hogy saját eszközökkel dolgozzanak. Az iskolák se tudnak biztosítani minden tanulónak megfelelő eszközöket. Ha nincsenek nyert pályázatok akkor képtelenség megfelelő eszközöket beszerezni. Ha esetleg van is eszköz a tanulók figyelmét elég nehéz felkelteni. Sokszínű feladatokkal sikerül csak.
-A hazai oktatás ugyan mindent megtesz a technikai fejlődéshez, de sajnos a kivitelezés elég bonyolult. 
+Meg kell határozni egy technikai követelmény specifikáciüót, ugyanis bár az állítás igaz: a mai modern technika képes egy ilyen szintű rendszer működtetésére, azonban sajnos a valóság azt mutatja, hogy sok iskola elmaradott a technikai fejlődésben. A diákok saját tulajdonú eszközeire pedig nem alapozhatunk.
 Az "informatikai rendszer fejlesztése" kifejezés a többi pontban meghatározott elképzeléshez képest kissé túlzónak tűnik.
 
 
 4. Jelenlegi üzleti folyamatok modellje működés
-
 K01: játékok népszerűségi listát vezetik (a piac 23%-át uralják)
 K02: korlátlan használati idő (kortól független)
 K03: jellemző témák (ügyességi, logika, nyelvi)
@@ -43,8 +34,7 @@ K06: másik bevételi modell (óvoda, iskolai használta-térítés)
 K07: ingyenes, minőségi ritka
 K08: látogató entitáshoz korlátozott funkciók
 
-5. Igényelt üzleti folyamatok modellje
- 
+5. Igényelt üzleti folyamatok modellje 
 K01: a játék és oktatás népszerűség kihasználása
 K02: komplex témák ötvözése
 K03: iskolai célcsoport megcélzása
@@ -55,7 +45,6 @@ K11: Marketing tevékenység kiválasztása
 
 
 6. Követelménylista
-
 K01:átláthatóság
 K02:javíthatóság
 K03:felhasználóbarát
@@ -85,23 +74,9 @@ K10:felhasználói szabályzat
 13:Külső hardver kapcsolat meghatározása!!
 14:Felhasználó vihet be adatot.
 15:Informálás csak rendszerszintű problémákról.
-16:A felhasználó csak saját adatait módosíthatja törölheti.
-17:Külső váratlan eseményről általános tájékoztató üzent küldése a felhasználónak.
 
 
 8. Forgatókönyvek
-01: A termék kigondolása, alapjainak letisztázása
-02: A használhatóság feltérképezése, igény felmérés
-03: A szükséges eszközök, anyagi források, munkát végző csoport felállítása
-04: A projecthez szakértőkkel történő egyeztetés 
-05: A fejlesztési munkák megkezdése
-06: A kifejlesztett program vizualis megtervezése
-07: Tesztelések munkafolyamatok közben
-08: Kontrolcsoportban való tesztelés
-09: Felmerülő hibák javítása, tesztelés
-10: A termék reklámja
-11: Megfelelő tesztelés, csoport visszajelzések kiértékelése, javítása, tesztelése után termék piacra dobása
-12: A termékel kapcsolatos fejlesztések, kérések vizsgálata, monitoring
-13: A program nyomonkövetése, elégedetség, használhatósági mérések
+
 
 
