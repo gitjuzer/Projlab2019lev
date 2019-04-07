@@ -73,7 +73,8 @@ K10:felhasználói szabályzat
 13:Külső hardver kapcsolat meghatározása!!
 14:Felhasználó vihet be adatot.
 15:Informálás csak rendszerszintű problémákról.
- 
+16:A felhasználó csak saját adatait módosíthatja törölheti.
+17:Külső váratlan eseményről általános tájékoztató üzent küldése a felhasználónak.
 
 
 8. Forgatókönyvek
