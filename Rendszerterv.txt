@@ -1,0 +1,24 @@
+Nagyvonalú rendszerterv 
+
+(A rendszerterv egy írásban rögzített specifikáció, amely leírja hogy mit akarunk a jövõben létrehozni. 
+Fontos, hogy reális legyen, azaz megvalósítható lépéseket írjon elõ. 
+A rendszerterv hasonló szerepet játszik a szoftverfejlesztésben, mint a tervrajz az építkezéseken, 
+tehát elég részletesnek kell lennie, hogy ebbõl a programozók képesek legyenek megvalósítani a szoftvert.)
+
+1.mit (rendszer):
+
+2.miért (rendszer célja):
+
+3.hogyan (terv):
+Követelmények:
+
+Funkcionális követelmények: 
+K01:átláthatóság - ennek  megfelelõen, egy olyan program legyen, amely minden programozó számára átlátható kódolással legyen megírva. Fontos az, hogy a programozók mindig értsék a munkatársaik logikáját. A kód legyen könnyen olvasható, hogy bárki be tudjon csatlakozni a munkába, és tudja folytatni azt.
+K02:javíthatóság - hibák mindig vannak, lesznek. Legyen lehetõség javítani. A javítás legyen egységes.
+K03:felhasználóbarát - a program felülete és kezelhetõsége legyen a felhasználók életkorának megfelelõ. A tervezésnél figyelembe kell venni minden lehetõséget. Erre a feladatra jelöljünk ki egy erre alkalmas kollégát, aki vezeti ezt a tevékenységet.
+K04:felhasználói fiókok - regisztráció és saját felhasználói fiók szükséges minden programhasználónak. A tanári fiók legyen különbözõ jogosultságokkal ellátva, a tanulói fiókok korlátozottabbak ennél.
+
+4.mikor (idõpont): 
+
+5.és mibõl (erõforrások):
+
