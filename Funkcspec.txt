@@ -57,6 +57,10 @@ K09:tartalma 2011. évi CXC. törvénya nemzeti köznevelésről(aktuális hatá
 K10:felhasználói szabályzat
 K11: csoportmunka felület biztosítása
 K12: felhasználói tevékenység naplózása
+K13: oktatói és felhasználói felület elkülönítése
+K14: Kiemelt hozzáférésű tartalmak elkülönítése
+K15: Hibákra történő gyors reagálás
+K16: Tevékenységekből statisztika készítés
 
 
 
