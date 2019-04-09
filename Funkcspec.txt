@@ -85,9 +85,11 @@ K16: Tevékenységekből statisztika készítés
 
 
 8. Forgatókönyvek
-01:Látványos tagolt forgató könyv.
+01: Látványos tagolt forgató könyv.
 02: Figyelem felkeltő- vicces érdekes.
 03: Szokványostól eltérő, multimédiás elemekkel illusztrálva.
+04: Legyen veszélyekkel teli-az olvasót eléri.
+
 
 
 
