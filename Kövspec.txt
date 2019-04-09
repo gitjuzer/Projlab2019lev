@@ -87,4 +87,5 @@ K13:Használatra ösztönzõ
 K14:Szakszerû
 K15:Többnyelven használható
 K16:Egyértelmû
+K17:Optimalizálás
 
