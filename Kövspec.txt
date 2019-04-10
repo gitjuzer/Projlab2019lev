@@ -27,12 +27,13 @@ A digitális kompetenciának be kellene épülnie az oktatás minden részébe, ugyanúg
 Egyelõre azonban az az általános, hogy másodlagos tantárgyként kezelik az informatikát, amely csak néhány tanulónak, jellemzõen az ebbõl érettségizõknek, lesz fontos.
 A mai tantermek már IKT eszközökkel felszereltebbek. Már sok iskolában használnak tableteket is.Ezeket az eszközöket a diákok már rutinszerûen használják.Cél az is, hogy azok a tanárok is rutinszerûen használják, akik nem informatika tanárok.
 
+
 3. Vágyálom rendszer
 
 A modern számítógépek hálózati, számítási és megjelenítési képességei lehetõvé teszik a játékos elemeket is megvalósító oktatást.
 A fiatalabb korosztály tanulási motivációjára célszerû rugalmas, több területet lefedõ, ilyen játékos oktatást megvalósító informatikai rendszer fejlesztése.
 A számítógépek használata segítheti a fiatalabb generáció algoritmikus gondolkodásának fejlesztését.
-Az algoritmikus gondolkodás elsajátítása az iskolában azért is hasznos, mert a diákok tudják kamatoztatni ezt a fajta tudást, az
+Az algoritmikus gondolkodás elsajátítása az iskolában azért is hasznos, mert a diákok tudják kamatoztatni ezt a fajta tudást, az 
 iskolán kívül a mindennapjaikban, a hétköznapi szituációk, problémák során is.
 Ez a fajta gondolkodásmód elsõsorban a problémamegoldás területén segíti a diákokat.
 Mivel megtanítja õket arra, hogy a problémákat részekre bontsák.
@@ -42,6 +43,7 @@ Ilyen játékos feladat lehet pl. a Hanoi-tornyai játék.
 Aminek a lényege az, hogy az elsõ rúdról a harmadik rúdra hogyan lehet eljuttatni a korongokat úgy, 
 hogy a nagyobb korongot a kisebb korongra tilos mozgatni.
 Fontos az, hogy minél egyszerûbb, átláthatóbb legyen a rendszer, hogy minél gyorsabban tudják használatba venni a diákok és a tanárok egyaránt. Céleszerû a kezelésben, megjelenésben akár sablonszerû elrendezést használni, hogy ne kelljen sok idõt tölteni a felület megismerésével, mielõbb megkezdõdhessen az érdemi munka. Érdemes kapcsolatot biztosítani az egyes közösségi oldalakkal, hogy a diákok megoszthassák eredményeiket ismerõseikkel, ezzel is népszerûsítveaz élményszerû oktatás lehetõségeit.
+
 
 4. Jelenlegi mûködés
 
@@ -69,6 +71,7 @@ A rendszer értékeljen: Legyen egy automatikus javítási funkció, de fontos, hogy 
 Az alkalmazás minden életkori sajátosságot vegyen figyelembe. Legyen külön feladat minden korosztálynak. Az alkalmazás az értékelésnél is vegye figyelembe az életkort.
 A játékosság mindenek elõtt. Ez azt jelenti, hogy úgy tanuljanak, hogy azt szinte észre sem veszik.Sokkal jobban rögzül az információ, ha alkalmazzuk a tanításban a multimédiát. Hang, kép, animáció, és amellett hogy az információ megértése jobb, szórakoztató a tanulás. 
 
+
 6. Követelménylista 
 
 K01:Stabil mûködés minden esetben
@@ -88,4 +91,6 @@ K14:Szakszerû
 K15:Többnyelven használható
 K16:Egyértelmû
 K17:Optimalizálás
+K18:Átlátható felépítés
+K19:Akadálymentes verzió (pl. látássérültek számára)
 
