@@ -7,7 +7,7 @@ tehát elég részletesnek kell lennie, hogy ebbõl a programozók képesek legyenek m
 
 1.mit (rendszer):
 
-2.miért (rendszer célja):
+2.miért (rendszer célja): Az, hogy a gyerekek játékosan tanuljanak.
 
 3.hogyan (terv):
 Követelmények:
