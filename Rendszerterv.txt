@@ -7,7 +7,13 @@ tehát elég részletesnek kell lennie, hogy ebbõl a programozók képesek legyenek m
 
 1.mit (rendszer):
 
-2.miért (rendszer célja): Az, hogy a gyerekek játékosan tanuljanak.
+2.miért (rendszer célja): Az, hogy a gyerekek játékosan tanuljanak. Mindenféleképpen a játék közben sajátítsák el a tananyagot, úgy
+hogy ezt észre se vegyék, hogy tanulnak. A programok kapcsán sajátítsák el a számítógéphasználatát annak felépítését. A programok felépítését, 
+azoknak a helyes használatát. Ismerjék meg ezen programok elõnyét, hogyan lehet játszva tanulni. Maga a programnak különbséget kell tennie a különbözõ felhasználók között
+és más-más lehetõségeket kell kínálnia, mivel más-más okokból fogják a programokat használni. Lehetõséget kell biztosítani, hogy a játékok valamilyen szinten
+offline formában is mûködjenek, mert az iskolákban nem biztos, hogy minden teremben van net. Figyelembe kell venni azt is, hogy ezen programok különbözõ eszközökön
+zökkenõmentesen kell mûködniük. Fontos szempont az is, hogy ezen programok széleskörûen elérhetõeknek kell lenniük és ingyenesnek, mivel az intézményeknek igen kevés
+anyagi háttér áll rendelkezésükre.
 
 3.hogyan (terv):
 Követelmények:
