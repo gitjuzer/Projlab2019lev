@@ -61,6 +61,10 @@ K13: oktatói és felhasználói felület elkülönítése
 K14: Kiemelt hozzáférésű tartalmak elkülönítése
 K15: Hibákra történő gyors reagálás
 K16: Tevékenységekből statisztika készítés
+K17:Ingyenesség
+K18:egyszerű kezelhetőség
+K19:Linkek gyűjteménye
+K20: Súgó
 
 
 
