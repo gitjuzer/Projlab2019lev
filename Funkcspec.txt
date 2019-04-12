@@ -95,7 +95,7 @@ K:22 Mobil nézet
 02: Figyelem felkeltő- vicces érdekes.
 03: Szokványostól eltérő, multimédiás elemekkel illusztrálva.
 04: Legyen veszélyekkel teli-az olvasót eléri. 
-
+05: Példákat, pontos leírásokat is tartalmazzon
 
 
 
