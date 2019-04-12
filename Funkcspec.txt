@@ -42,6 +42,7 @@ K04: bevételi modell -érintett tanulók részére ingyenes legyen
 K09: Entitások: regisztált felhasználó, látogató
 K10: Cégek, támogatok bevonása
 K11: Marketing tevékenység kiválasztása
+K12: Népszerűsítés, reklám
 
 
 6. Követelménylista
