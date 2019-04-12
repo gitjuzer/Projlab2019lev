@@ -66,7 +66,7 @@ K17:Ingyenesség
 K18:egyszerű kezelhetőség
 K19:Linkek gyűjteménye
 K20: Súgó
-K:21
+K:21 GDPR rendelet figyelembe vétele
 
 
 
