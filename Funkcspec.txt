@@ -67,7 +67,7 @@ K18:egyszerű kezelhetőség
 K19:Linkek gyűjteménye
 K20: Súgó
 K:21 GDPR rendelet figyelembe vétele
-
+K:22 Mobil nézet
 
 
 7. Használati esetek
