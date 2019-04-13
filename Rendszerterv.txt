@@ -22,6 +22,16 @@ azoknak a helyes használatát. Ismerjék meg ezen programok elõnyét, hogyan lehet 
 offline formában is mûködjenek, mert az iskolákban nem biztos, hogy minden teremben van net. Figyelembe kell venni azt is, hogy ezen programok különbözõ eszközökön
 zökkenõmentesen kell mûködniük. Fontos szempont az is, hogy ezen programok széleskörûen elérhetõeknek kell lenniük és ingyenesnek, mivel az intézményeknek igen kevés
 anyagi háttér áll rendelkezésükre.
+Fontos, hogy a grafikus megjelenés korszerû legyen, lekösse a diák figyelmét, ne érezze azt, ez egy iskolai, kötelezõ projekt. 
+Ha pl, csoportos feladat van, párokban, csapatokban dolgoznak, legyen chat felület, ahol tudnak egymással kommunikálni, ne zavarják az órát a beszélgetéssel, 
+mai fiatalok egyébként is többet beszélgetnek egymással digitális eszközökön, ez kifejezetten tetszene is nekik.
+A feladatokban is igyekezzünk korszerû példákat felhozni, újdonságokat tartalmazzanak, szórakoztató jellegû is legyen, hogy könnyebben tudjanak azonosulni vele a diákok.
+Fontos, hogy a diákok számára otthonról is elérhetõek legyenek ezek a feladatok, hogy tudjanak gyakorolni, vagy ismételni!
+Szivesebben tanulnak otthon is inkább számítógéprõl a diákok, mint papírról, könyvbõl, füzetbõl.
+Mindenki számára legyen egyértelmû a kezelõfelület, mindenki ki tudjon igazodni a programon, ne nagyon legyenek olyan pontjai, amik félreérthetõek, bonyodalmakat okozhat.
+Legyen mindenki számára egy profil, amit saját ízlése szerint tud szerkeszteni, profilképet feltölteni, témát szerkeszteni stb, de ezek a profilkép kivételével
+nem láthatóak a többiek számára, csak az eredmények publikusak, amiket a feladatban elértek.
+
 
 3.hogyan (terv):
 Követelmények:
