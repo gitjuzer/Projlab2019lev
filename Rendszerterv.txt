@@ -13,6 +13,7 @@ K04: Képernyõ tervek: egyedi jól megkülönböztethetõ megjelenési stílus,egyszerû 
 K05: Fizikai követelmények: Fizikai környezet: milyen platformon (Java, .NET, …)  milyen operációs rendszerre és hardverre,  hálózat felépítése, ingyenes software komponensek
 fejlesztõ eszközök, keretrendszer.
 K06: Moodle (nyílt forráskódú, közösségen alapuló) vagy más keretrendszer
+K07 Platformfüggetlen keretrendszer
 
 
 2.miért (rendszer célja): Az, hogy a gyerekek játékosan tanuljanak. Mindenféleképpen a játék közben sajátítsák el a tananyagot, úgy
