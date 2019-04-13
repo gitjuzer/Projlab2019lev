@@ -1,4 +1,4 @@
-Nagyvonalú rendszerterv 
+Részletes rendszerterv 
 
 (A rendszerterv egy írásban rögzített specifikáció, amely leírja hogy mit akarunk a jövõben létrehozni. 
 Fontos, hogy reális legyen, azaz megvalósítható lépéseket írjon elõ. 
