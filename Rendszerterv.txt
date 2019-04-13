@@ -12,6 +12,7 @@ K03: Menü hierarchiák: milyen funkció honnan érhetõ  el, hányszintes.
 K04: Képernyõ tervek: egyedi jól megkülönböztethetõ megjelenési stílus,egyszerû áttekinthetõ elemek: háttér, keret, fejléc-lábléc tartalma, navigáció aktuális szint jelzése 
 K05: Fizikai követelmények: Fizikai környezet: milyen platformon (Java, .NET, …)  milyen operációs rendszerre és hardverre,  hálózat felépítése, ingyenes software komponensek
 fejlesztõ eszközök, keretrendszer.
+K06: Moodle (nyílt forráskódú, közösségen alapuló) vagy más keretrendszer
 
 2.miért (rendszer célja): Az, hogy a gyerekek játékosan tanuljanak. Mindenféleképpen a játék közben sajátítsák el a tananyagot, úgy
 hogy ezt észre se vegyék, hogy tanulnak. A programok kapcsán sajátítsák el a számítógéphasználatát annak felépítését. A programok felépítését, 
