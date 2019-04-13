@@ -60,9 +60,9 @@ K02: Egyszerûsített ellenõrzõ lista, kötelezõ honlap elemek
     Amennyiben a szolgáltató létrejöttét vagy tevékenysége gyakorlásának megkezdése nyilvántartásba való bejegyzéstõl függ, a szolgáltatót a nyilvántartásba bejegyzõ bíróság vagy hatóság megnevezése és a nyilvántartásba vételi szám
     Amennyiben a szolgáltató tevékenységének gyakorlása engedélyköteles, akkor ez a tény és az engedélyezõ hatóság megnevezése és elérhetõségi adatai, valamint az engedély száma
 
-4.mikor (idõpont): Legkésõbb az utolsó órán (2019. május 17.) véglegesíteni kell a rendszert.
+4.mikor (idõpont): 
 
 5.és mibõl (erõforrások):
 01 Pályázatok figyelése, megfelelõ kijelölése (http://www.pafi.hu/_pafi/palyazat.nsf/bont-tema-oktatas?OpenPage)
-02 Ha a rendszert egy adott iskola alkalmazottjaként fejlesztjük, az intézmény különítsen el erre összeget (fennartó, alapítványi bevétel ... stb.)
+
 03 A fenntartó több tagintézményének bevonása a fejlesztésbe és finanszírozásba is.
