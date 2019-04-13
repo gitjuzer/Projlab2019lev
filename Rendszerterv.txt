@@ -14,6 +14,7 @@ K05: Fizikai követelmények: Fizikai környezet: milyen platformon (Java, .NET, …)
 fejlesztõ eszközök, keretrendszer.
 K06: Moodle (nyílt forráskódú, közösségen alapuló) vagy más keretrendszer
 
+
 2.miért (rendszer célja): Az, hogy a gyerekek játékosan tanuljanak. Mindenféleképpen a játék közben sajátítsák el a tananyagot, úgy
 hogy ezt észre se vegyék, hogy tanulnak. A programok kapcsán sajátítsák el a számítógéphasználatát annak felépítését. A programok felépítését, 
 azoknak a helyes használatát. Ismerjék meg ezen programok elõnyét, hogyan lehet játszva tanulni. Maga a programnak különbséget kell tennie a különbözõ felhasználók között
