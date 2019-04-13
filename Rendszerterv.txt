@@ -29,6 +29,16 @@ Maga a programnak különbséget kell tennie a különbözõ felhasználók között és más
 A diákokat meg kell különböztetni alsó és felsõ tagozatos diákokként. A tagozatokon belül az évfolyamokat is meg kell különböztetni. A mai modern világban már az elsõs kis csemeték is "rutinszerûen" tudják használni az okoseszközöket, számítógépeket. A programon belül létre lehetne hozni azt is, hogy a különbözõ évfolyamoknak különbözõ felhasználói felülete legyen, a diákok évfolyamonkénti sajátosságaiknak megfelelõen.
 A tantárgyak tanulása is életkornak megfelelõen legyen játékos, nyilvánvalóan egy elsõsnek mással lehet fentartani a figyelmét, mint egy nyolcadikosnak.
 A tanulókat a saját tanárjuk regisztrálja be a rendszerbe, õ határozza meg a diákok egyéni felhasználónevét. Belépve a programba, a megjelenítési nevüket egyéni módon tudják majd megváltoztatni.
+Legyen lehetõség a szülõ-pedagógus kommunikációra.
+Fontos, hogy a grafikus megjelenés korszerû legyen, lekösse a diák figyelmét, ne érezze azt, ez egy iskolai, kötelezõ projekt. 
+Ha pl, csoportos feladat van, párokban, csapatokban dolgoznak, legyen chat felület, ahol tudnak egymással kommunikálni, ne zavarják az órát a beszélgetéssel, 
+mai fiatalok egyébként is többet beszélgetnek egymással digitális eszközökön, ez kifejezetten tetszene is nekik.
+A feladatokban is igyekezzünk korszerû példákat felhozni, újdonságokat tartalmazzanak, szórakoztató jellegû is legyen, hogy könnyebben tudjanak azonosulni vele a diákok.
+Fontos, hogy a diákok számára otthonról is elérhetõek legyenek ezek a feladatok, hogy tudjanak gyakorolni, vagy ismételni!
+Szivesebben tanulnak otthon is inkább számítógéprõl a diákok, mint papírról, könyvbõl, füzetbõl.
+Mindenki számára legyen egyértelmû a kezelõfelület, mindenki ki tudjon igazodni a programon, ne nagyon legyenek olyan pontjai, amik félreérthetõek, bonyodalmakat okozhat.
+Legyen mindenki számára egy profil, amit saját ízlése szerint tud szerkeszteni, profilképet feltölteni, témát szerkeszteni stb, de ezek a profilkép kivételével
+nem láthatóak a többiek számára, csak az eredmények publikusak, amiket a feladatban elértek.
 
 
 3.hogyan (terv):
