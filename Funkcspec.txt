@@ -24,6 +24,7 @@ A közoktatás modernizálásában, fejlesztésében is az a tendencia, hogy a g
 Meg kell határozni egy technikai követelmény specifikáciüót, ugyanis bár az állítás igaz: a mai modern technika képes egy ilyen szintű rendszer működtetésére, azonban sajnos a valóság azt mutatja, hogy sok iskola elmaradott a technikai fejlődésben. A diákok saját tulajdonú eszközeire pedig nem alapozhatunk. Nincs lehetőség a saját dolgok használatára. Nagyon sok a hátrányos helyzetű terület ahol a gyerekek nem rendelkeznek saját informatikai eszközökkel. Az iskolák csak pályázati pénzekből tudnak ilyen eszközökre szert tenni.
 Az "informatikai rendszer fejlesztése" kifejezés a többi pontban meghatározott elképzeléshez képest kissé túlzónak tűnik.
 Sok, főleg hátrányos helyzetű település iskolái rendelkeznek már tabletekkel, szélessávú Internet hozzáféréssel, szinte minden évben van olyan pályázat, amely ezeknek a hátrányoknak a megszüntetésére irányul.
+Az ismeretekbe ágyazott játékos eszközökkel, interaktív módszerekkel, az élményszerű tanulással segíti elérni az oktatás céljait.
 
 
 4. Jelenlegi üzleti folyamatok modellje működés
@@ -82,7 +83,7 @@ K23: felhasználócsoportonként különböző tartalmak
 07:Felhasználók közötti kommunikáció
 08:Felhasználói jelzések fogadása
 09:Szereplők rendszerezése (ki vagy mi kerül kapcsolatba a rendszerrel)
-10:Elsődleges szereplők:felhasználók iskolá kortól--korhatár nélkül
+10:Elsődleges szereplők:felhasználók iskolás kortól--korhatár nélkül
 11:Másodlagos szereplők: több adminsztrátor, azonos feladatokkal
 12:Belső hardver támogatás meghatározása!!
 13:Külső hardver kapcsolat meghatározása!!
@@ -91,7 +92,7 @@ K23: felhasználócsoportonként különböző tartalmak
 16:A felhasználó csak saját adatokat törölhet módosíthat.
 17: QR kód generátor mobilos használathoz
 18: csak pedagógusok által hozzáférhető tartalom
-
+19:
 
 8. Forgatókönyvek
 01: Látványos tagolt forgató könyv.
