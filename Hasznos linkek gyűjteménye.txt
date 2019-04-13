@@ -5,6 +5,7 @@ https://kahoot.it/
 https://scratch.mit.edu/
 http://ai2.appinventor.mit.edu/
 http://www.okosdoboz.hu/
+https://blockly-games.appspot.com/
 Okosdoboz:
 http://www.okosdoboz.hu/
 Weboldal készítése: Shara Point Designer
