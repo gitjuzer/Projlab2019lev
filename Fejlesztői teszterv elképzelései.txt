@@ -18,4 +18,9 @@ K02: Oka: a projekt web alapú, a felület megjelenése, menüfunkciói és az oldal h
 Részfeladatok
 K01: Komponensek tesztelése unit teszttel történik
 K02: két vagy több komponens kölcsönhatás vizsgálat történik
-K03: rendszertervteszt: meg felel-e a követelményspecifikációnak, funkcionális specifikációnak, redszertervnek
+K03: rendszertervteszt: meg felel-e a követelményspecifikációnak, funkcionális specifikációnak, rendszertervnek
+
+További feladatok:
+ teszttelési részfeladatokhoz teszterv készítés excelben
+ teszt számok, és tesztelõk meghatározás
+ teszt eredmények elemzés korrekció végrehajtása
