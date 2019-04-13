@@ -31,7 +31,7 @@ A tanulókat a saját tanárjuk regisztrálja be a rendszerbe, õ határozza meg a diá
 
 
 3.hogyan (terv):
-Követelmények:
+Követelmények: A weboldalon legyenek olyan elemek is, amelyek letölthetõek és internet hozzáférés nélkül mûködjenek.
 
 Funkcionális követelmények: 
 K01:átláthatóság - ennek  megfelelõen, egy olyan program legyen, amely minden programozó számára átlátható kódolással legyen megírva. Fontos az, hogy a programozók mindig értsék a munkatársaik logikáját. A kód legyen könnyen olvasható, hogy bárki be tudjon csatlakozni a munkába, és tudja folytatni azt.
