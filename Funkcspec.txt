@@ -87,7 +87,7 @@ K:22 Mobil nézet
 14:Felhasználó vihet be adatot.
 15:Informálás csak rendszerszintű problémákról.
 16:A felhasználó csak saját adatokat törölhet módosíthat.
-17: QR kód generátor
+17: QR kód generátor mobilos használathoz
 
 
 8. Forgatókönyvek
