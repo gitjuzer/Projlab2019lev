@@ -90,6 +90,7 @@ K23: felhasználócsoportonként különböző tartalmak
 15:Informálás csak rendszerszintű problémákról.
 16:A felhasználó csak saját adatokat törölhet módosíthat.
 17: QR kód generátor mobilos használathoz
+18: csak pedagógusok által hozzáférhető tartalom
 
 
 8. Forgatókönyvek
