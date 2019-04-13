@@ -1,0 +1,97 @@
+Játékos Oktató Rendszer
+
+Követelményspecifikáció
+
+1. Vezetői összefoglaló
+
+Az oktatás sok embert érintő terület a gyerekektől a tanárokon és szülőkön keresztül a majdan a tudást igénylő üzleti szereplőkig.
+Jelenleg az oktatás túlnyomó részt iskolapados rendszerű, ahol szigorú keretek közt, a motiválás és kedvcsinálás szempontokat csak ritkán vagy nem teljeskörűen alkalmazzák.
+Kutatások és mindennapi tapasztalatok is mutatják, hogy játékos formában elérhető feladatokat a gyerekek nagyobb lelkesedéssel hajtanak végre.
+
+2. Jelenlegi helyzet
+
+Az oktatás főbb eszközei a tanárok, könyvek, táblák. 
+A tanároknak olyan szerepük van a digitális világban, mint az idegenvezetőknek, akik megmutatják a tudáshoz vezető, helyes utat.
+Az utóbbi években a számítógépek is egyre jelentősebb szerepet kapnak. Szerepük legnagyobb részt még inkább statikus tartalom megjelenítése.
+A gyerekek sokkal nagyobb figyelmet fordítanak az IKT eszközökkel szemléltetett tudásanyagra annak effektív és interaktív volta miatt, mint a hagyományos, frontális osztálymunka
+során alkalmazott szemléltető eszközök esetében. Az IKT eszközök használata a pedagógusokat állandó fejlődésre készteti, felfrissíti a hétköznapi munkát, elősegíti a szakmai és módszertani megújulást.
+A tanulás új felfogásában és gyakorlatában valóban megkerülhetetlen kérdés az IKT eszközök használatához, az internet világához való viszonyulásunk. A digitális térben való megjelenés, az ott létrejövő kapcsolódások 
+ma sokszor inkább konfliktusok forrásai, a tanulást támogató előnyök felismerése helyett.  Pedig az, ami ma körülvesz minket, lehetővé teszi a generációs szakadékokat is átfedő találkozást, egymásra hatást, az egymástól való tanulást.
+Az IKT eszközök mindennapi használatbavételének legnagyobb akadálya az, hogy sok időt igényel az óra megtervezése és a technikai előkészületek.
+Az IKT eszközök használata nagyon sok előkészítést igényel.
+
+Több alkalommal valósítunk meg IKT alapú projektet. 
+Nagyon élveztik a diákok a sokféle alkalmazást, ahol újabb és újabb érdekes dolgokat próbálnak ki. Ilyenkor az ő fantáziájuk is elszabadul, és nagyon értékes dolgokat tudnak alkotni. Fontosnak tartom, hogy merjenek kísérletezni.
+
+A digitális kompetenciának be kellene épülnie az oktatás minden részébe, ugyanúgy használni kellene magyarórán, énekórán. 
+Egyelőre azonban az az általános, hogy másodlagos tantárgyként kezelik az informatikát, amely csak néhány tanulónak, jellemzően az ebből érettségizőknek, lesz fontos.
+A mai tantermek már IKT eszközökkel felszereltebbek. Már sok iskolában használnak tableteket is.Ezeket az eszközöket a diákok már rutinszerűen használják.Cél az is, hogy azok a tanárok is rutinszerűen használják, akik nem informatika tanárok.
+
+
+3. Vágyálom rendszer
+
+A modern számítógépek hálózati, számítási és megjelenítési képességei lehetővé teszik a játékos elemeket is megvalósító oktatást.
+A fiatalabb korosztály tanulási motivációjára célszerű rugalmas, több területet lefedő, ilyen játékos oktatást megvalósító informatikai rendszer fejlesztése.
+A számítógépek használata segítheti a fiatalabb generáció algoritmikus gondolkodásának fejlesztését.
+Az algoritmikus gondolkodás elsajátítása az iskolában azért is hasznos, mert a diákok tudják kamatoztatni ezt a fajta tudást, az 
+iskolán kívül a mindennapjaikban, a hétköznapi szituációk, problémák során is.
+Ez a fajta gondolkodásmód elsősorban a problémamegoldás területén segíti a diákokat.
+Mivel megtanítja őket arra, hogy a problémákat részekre bontsák.
+A külön részekre különböző megoldásokat kell találniuk, ezáltal közelebb kerülnek a fő probléma megoldásához.
+Ezeket játékos jellegű feladatokon keresztül is lehet alkalmazni, ezáltal érdekesebbé lehet tenni az algoritmikus gondolkodás elsajátítását.
+Ilyen játékos feladat lehet pl. a Hanoi-tornyai játék. 
+Aminek a lényege az, hogy az első rúdról a harmadik rúdra hogyan lehet eljuttatni a korongokat úgy, 
+hogy a nagyobb korongot a kisebb korongra tilos mozgatni.
+Fontos az, hogy minél egyszerűbb, átláthatóbb legyen a rendszer, hogy minél gyorsabban tudják használatba venni a diákok és a tanárok egyaránt. Céleszerű a kezelésben, megjelenésben akár sablonszerű elrendezést használni, hogy ne kelljen sok időt tölteni a felület megismerésével, mielőbb megkezdődhessen az érdemi munka. Érdemes kapcsolatot biztosítani az egyes közösségi oldalakkal, hogy a diákok megoszthassák eredményeiket ismerőseikkel, ezzel is népszerűsítveaz élményszerű oktatás lehetőségeit.
+Az ismeretekbe ágyazott játékos eszközökkel, interaktív módszerekkel, az élményszerű tanulással segíti elérni az oktatás céljait.
+
+4. Jelenlegi működés
+
+Magyarország oktatási rendszere a közoktatást és a felsőoktatást foglalja magába, tekintet nélkül a fenntartó vagy az üzemeltető személyére (állami, önkormányzati, alapítványi, egyházi, magán stb.)
+A tananyag folyamatos növekedése a diákoknak hatalmas trauma.
+A diákok miközben az információs tér is egyre nő körülöttük, és minden nehezen megtanítható dolgot most már könnyedén beszerezhetnének, az iskolában mégis szinte ingerszegény környezetben vannak.
+A legtöbb iskolában nem elérhető a megfelelő felület a tanárok és diákok információ és digitális tananyag cseréjéhez, az egyetlen felület az e-napló.
+A magyar oktatási rendszerrel bizony problémák vannak – ezzel a szülők, diákok, tanárok nagy többsége egyetért.
+Az iskolák alulfinanszírozottak, a pedagógusok nem keresnek eleget, ellenben túlterheltek, a gyerekek fáradtak és motiválatlanok. 
+A világ változik, a tananyag örök – ugyanaz a berögződés, metódus ötven éve már, teljesen elveszítve a kapcsolatot az élő kultúrával és a diákok szükségleteivel.
+Az iskolákról, a tanárokról, a módszerről, a tananyagról mindenkinek megvan a véleménye.
+Az oktatásról általában azt gondoljuk, hogy olyan tudást kellene a gyerekeknek adnia, ami az életre készíti fel őket, és segít a felnőttkori boldogulásban
+Az a baj, hogy pontosan nem is tudjuk, mit jelent az, hogy „életszerű” legyen, az „életre készítsen fel” az oktatás. 
+Sokkal inkább élni és gondolkodni kellene megtanítani a gyerekeket.  
+Erre törekedne a kompetenciaalapú oktatás, ami felé az elmúlt egy-két évtizedben történt némi elmozdulás, például az érettségi megváltoztatásával. A középszintű érettségire azt szokták mondani, hogy kompetencia-központú, a matematika terén például olyan feladatokat látok, amelyek az utcán jártunkban-keltünkben is előfordulhatnak, olyan kompetenciákat kér számon, amelyek az életben valóban fontosaknak tűnnek. 
+ 
+
+5. Igényelt működés
+
+A tanárokat a rendszergazda veszi fel a rendszerbe, míg a diákoknak maguknak kell regisztrálniuk a felületre. A tanárok bejelentkeznek az admin felületükre, ahol létre tudnak hozni tananyagokat (egy egyszerű WYSIWYG szerkesztő segítségével)
+illetve teszteket a diákok részére. A diákok bejelentkeznek a felületre, kiválasztják az adott kurzust/tananyagot és az elsajátítást követően kitöltik a kapcsolódó tesztet tudásuk ellenőrzésére.
+Célszerű alkalmazni a "jutalmazásos" módszert: A diákok tudjanak "szintet lépni", kapjanak rangokat. Fontos, hogy az alkalmazás támogassa a csapatmunkát, az egymás segítésének, támogatásának lehetőségét.
+Mindenképpen működnie kell az alkalmazásnak mobilon és számítógépen egyaránt. Tudjon otthon is hozzáférni a diák otthon is platformtól függetlenül.
+A rendszer értékeljen: Legyen egy automatikus javítási funkció, de fontos, hogy legyen személyes, tanári visszejelzés, felügyelet is.
+Az alkalmazás minden életkori sajátosságot vegyen figyelembe. Legyen külön feladat minden korosztálynak. Az alkalmazás az értékelésnél is vegye figyelembe az életkort.
+A játékosság mindenek előtt. Ez azt jelenti, hogy úgy tanuljanak, hogy azt szinte észre sem veszik.Sokkal jobban rögzül az információ, ha alkalmazzuk a tanításban a multimédiát. Hang, kép, animáció, és amellett hogy az információ megértése jobb, szórakoztató a tanulás. 
+
+
+6. Követelménylista 
+
+K01:Stabil működés minden esetben
+K02:Egyszerű használhatóság
+K03:Ingergazdag
+K04:Külön felület a tanárok és a diákok részére
+K05:Regisztrációs lehetőség a diákok részére
+K06:Jogosultsági szintnek megfelelő tartalomkezelés
+K07:Felhasználóbarát
+K08:Keresőoptimalizált
+K09:Mobilbarát
+K10:Reflexív
+K11:Interaktív
+K12:Motiváló
+K13:Használatra ösztönző
+K14:Szakszerű
+K15:Többnyelven használható
+K16:Egyértelmű
+K17:Optimalizálás
+K18:Átlátható felépítés
+K19:Akadálymentes verzió (pl. látássérültek számára)
+K20:Egyszerűség
+K21:Különböző tartalom felhasználócsoportonként
