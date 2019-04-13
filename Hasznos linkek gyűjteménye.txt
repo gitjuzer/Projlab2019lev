@@ -8,5 +8,5 @@ http://www.okosdoboz.hu/
 https://blockly-games.appspot.com/
 Okosdoboz:
 http://www.okosdoboz.hu/
-Weboldal készítése: Shara Point Designer
+Weboldal készítése: Shara Point Designerben
 
