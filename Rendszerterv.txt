@@ -1,4 +1,4 @@
-Nagyvonalú rendszerterv 
+Részletes rendszerterv 
 
 (A rendszerterv egy írásban rögzített specifikáció, amely leírja hogy mit akarunk a jövõben létrehozni. 
 Fontos, hogy reális legyen, azaz megvalósítható lépéseket írjon elõ. 
@@ -12,6 +12,8 @@ K03: Menü hierarchiák: milyen funkció honnan érhetõ  el, hányszintes.
 K04: Képernyõ tervek: egyedi jól megkülönböztethetõ megjelenési stílus,egyszerû áttekinthetõ elemek: háttér, keret, fejléc-lábléc tartalma, navigáció aktuális szint jelzése 
 K05: Fizikai követelmények: Fizikai környezet: milyen platformon (Java, .NET, …)  milyen operációs rendszerre és hardverre,  hálózat felépítése, ingyenes software komponensek
 fejlesztõ eszközök, keretrendszer.
+K06: Moodle (nyílt forráskódú, közösségen alapuló) vagy más keretrendszer
+
 
 2.miért (rendszer célja): Az, hogy a gyerekek játékosan tanuljanak. Mindenféleképpen a játék közben sajátítsák el a tananyagot, úgy
 hogy ezt észre se vegyék, hogy tanulnak. A programok kapcsán sajátítsák el a számítógéphasználatát annak felépítését. A programok felépítését, 
@@ -30,7 +32,14 @@ K02:javíthatóság - hibák mindig vannak, lesznek. Legyen lehetõség javítani. A ja
 K03:felhasználóbarát - a program felülete és kezelhetõsége legyen a felhasználók életkorának megfelelõ. A tervezésnél figyelembe kell venni minden lehetõséget. Erre a feladatra jelöljünk ki egy erre alkalmas kollégát, aki vezeti ezt a tevékenységet.
 K04:felhasználói fiókok - regisztráció és saját felhasználói fiók szükséges minden programhasználónak. A tanári fiók legyen különbözõ jogosultságokkal ellátva, a tanulói fiókok korlátozottabbak ennél.
 
-Törvényi elõírások:
+Törvényi elõírás:
+K01: Jogszabály elõírásait a weboldal impresszum kötelezõ tartalma tekintetében:2001. évi CVIII. törvény az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggõ szolgáltatások egyes kérdéseirõl szabályozza
+K02: Egyszerûsített ellenõrzõ lista, kötelezõ honlap elemek
+    Szolgáltató név
+    Szolgáltató székhely, telephely, ennek hiányában lakcím
+    Szolgáltató elérhetõségei, így pl. a felhasználókkal való kapcsolattartásra használható e-mail cím 
+    Amennyiben a szolgáltató létrejöttét vagy tevékenysége gyakorlásának megkezdése nyilvántartásba való bejegyzéstõl függ, a szolgáltatót a nyilvántartásba bejegyzõ bíróság vagy hatóság megnevezése és a nyilvántartásba vételi szám
+    Amennyiben a szolgáltató tevékenységének gyakorlása engedélyköteles, akkor ez a tény és az engedélyezõ hatóság megnevezése és elérhetõségi adatai, valamint az engedély száma
 
 4.mikor (idõpont): 
 

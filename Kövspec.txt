@@ -93,4 +93,5 @@ K16:Egyértelmû
 K17:Optimalizálás
 K18:Átlátható felépítés
 K19:Akadálymentes verzió (pl. látássérültek számára)
+K20:Egyszerûség
 
