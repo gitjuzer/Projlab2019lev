@@ -18,10 +18,12 @@ Az órák megtervezése több időt igényel, mint a hagyományos óráé, de me
 a diákok számára, illetve ők is fogékonyabbak lesznek az ilyen fajta tanulásra.
 Nem csak informatika órán kellene használni ezeket az eszközöket, hanem a lehető legtöbb tanórára meg kell találni a módját ezek
 beiktatására.
+A közoktatás modernizálásában, fejlesztésében is az a tendencia, hogy a gyerekeket a tanulás során élményekhez kell juttatni. Így motiváltabbak, szívesebben, aktívabban vesznek részt a tanórai munkákban.
 
 3. Vágyálom rendszer
 Meg kell határozni egy technikai követelmény specifikáciüót, ugyanis bár az állítás igaz: a mai modern technika képes egy ilyen szintű rendszer működtetésére, azonban sajnos a valóság azt mutatja, hogy sok iskola elmaradott a technikai fejlődésben. A diákok saját tulajdonú eszközeire pedig nem alapozhatunk. Nincs lehetőség a saját dolgok használatára. Nagyon sok a hátrányos helyzetű terület ahol a gyerekek nem rendelkeznek saját informatikai eszközökkel. Az iskolák csak pályázati pénzekből tudnak ilyen eszközökre szert tenni.
 Az "informatikai rendszer fejlesztése" kifejezés a többi pontban meghatározott elképzeléshez képest kissé túlzónak tűnik.
+Sok, főleg hátrányos helyzetű település iskolái rendelkeznek már tabletekkel, szélessávú Internet hozzáféréssel, szinte minden évben van olyan pályázat, amely ezeknek a hátrányoknak a megszüntetésére irányul.
 
 
 4. Jelenlegi üzleti folyamatok modellje működés
