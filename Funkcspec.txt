@@ -99,6 +99,7 @@ K23: felhasználócsoportonként különböző tartalmak
 03: Szokványostól eltérő, multimédiás elemekkel illusztrálva.
 04: Legyen veszélyekkel teli-az olvasót eléri. 
 05: Példákat, pontos leírásokat is tartalmazzon
+06: Részfeladatok felelőseinek kiválasztása és megjelőlése határidővel
 
 
 
