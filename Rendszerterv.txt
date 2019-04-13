@@ -44,4 +44,4 @@ K02: Egyszerûsített ellenõrzõ lista, kötelezõ honlap elemek
 4.mikor (idõpont): 
 
 5.és mibõl (erõforrások):
-
+01 Pályázatok figyelése, megfelelõ kijelölése (http://www.pafi.hu/_pafi/palyazat.nsf/bont-tema-oktatas?OpenPage)
