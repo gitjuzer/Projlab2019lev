@@ -6,5 +6,6 @@ https://scratch.mit.edu/
 http://ai2.appinventor.mit.edu/
 http://www.okosdoboz.hu/
 https://blockly-games.appspot.com/
+https://education.minecraft.net/
 Okosdoboz:
 http://www.okosdoboz.hu/
