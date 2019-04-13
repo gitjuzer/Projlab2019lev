@@ -4,6 +4,12 @@ K02:A hibák minimalizálás átadási teszthez.
 K03: Aminek tervezett ideje május17
 
 Megtartandó alapelvek:
+K01: Szoftver megbízhatóság növelése, a hibátlanság nem garantált
+K02: Magasabb funkciójú részeket teszteljük.
+K03: Az életciklus mielõbbi szakaszába elkezdjük.
+K04: Legvalószínûbb hibaforrás elemeket vizsgáljuk.
+K05: Minden teszt kisebb módosításokkal történik, az hiba alkalmazkodás korrekciójára.
+K06: A tesztelés ideje minél hosszabb legyen.
 
 Válaszott technika:
 
