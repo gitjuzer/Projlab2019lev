@@ -29,7 +29,7 @@ Maga a programnak különbséget kell tennie a különbözõ felhasználók között és más
 A diákokat meg kell különböztetni alsó és felsõ tagozatos diákokként. A tagozatokon belül az évfolyamokat is meg kell különböztetni. A mai modern világban már az elsõs kis csemeték is "rutinszerûen" tudják használni az okoseszközöket, számítógépeket. A programon belül létre lehetne hozni azt is, hogy a különbözõ évfolyamoknak különbözõ felhasználói felülete legyen, a diákok évfolyamonkénti sajátosságaiknak megfelelõen.
 A tantárgyak tanulása is életkornak megfelelõen legyen játékos, nyilvánvalóan egy elsõsnek mással lehet fentartani a figyelmét, mint egy nyolcadikosnak.
 A tanulókat a saját tanárjuk regisztrálja be a rendszerbe, õ határozza meg a diákok egyéni felhasználónevét. Belépve a programba, a megjelenítési nevüket egyéni módon tudják majd megváltoztatni.
-
+Legyen lehetõség a szülõ-pedagógus kommunikációra.
 
 3.hogyan (terv):
 Követelmények: A weboldalon legyenek olyan elemek is, amelyek letölthetõek és internet hozzáférés nélkül mûködjenek.
