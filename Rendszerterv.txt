@@ -5,7 +5,13 @@ Fontos, hogy reális legyen, azaz megvalósítható lépéseket írjon elõ.
 A rendszerterv hasonló szerepet játszik a szoftverfejlesztésben, mint a tervrajz az építkezéseken, 
 tehát elég részletesnek kell lennie, hogy ebbõl a programozók képesek legyenek megvalósítani a szoftvert.)
 
-1.mit (rendszer):
+1.mit (rendszer):a felhasználó szemszögébõl határozzuk meg az elkészítendõ funkciókat a funkcionális specifikáció alapján.
+K01: Rendszer használati esetek és lefutásai meghatározzák az oktató oldal funkcióinak meg valósulását pl: bejelentkezés, menü használat, alkalmazási elemek elérése, kijelentkezés.
+K02: Határ osztályok legfontosabb elem mi látszódik  képernyön
+K03: Menü hierarchiák: milyen funkció honnan érhetõ  el, hányszintes.
+K04: Képernyõ tervek: egyedi jól megkülönböztethetõ megjelenési stílus,egyszerû áttekinthetõ elemek: háttér, keret, fejléc-lábléc tartalma, navigáció aktuális szint jelzése 
+K05: Fizikai követelmények: Fizikai környezet: milyen platformon (Java, .NET, …)  milyen operációs rendszerre és hardverre,  hálózat felépítése, ingyenes software komponensek
+fejlesztõ eszközök, keretrendszer.
 
 2.miért (rendszer célja): Az, hogy a gyerekek játékosan tanuljanak. Mindenféleképpen a játék közben sajátítsák el a tananyagot, úgy
 hogy ezt észre se vegyék, hogy tanulnak. A programok kapcsán sajátítsák el a számítógéphasználatát annak felépítését. A programok felépítését, 
@@ -23,6 +29,8 @@ K01:átláthatóság - ennek  megfelelõen, egy olyan program legyen, amely minden pr
 K02:javíthatóság - hibák mindig vannak, lesznek. Legyen lehetõség javítani. A javítás legyen egységes.
 K03:felhasználóbarát - a program felülete és kezelhetõsége legyen a felhasználók életkorának megfelelõ. A tervezésnél figyelembe kell venni minden lehetõséget. Erre a feladatra jelöljünk ki egy erre alkalmas kollégát, aki vezeti ezt a tevékenységet.
 K04:felhasználói fiókok - regisztráció és saját felhasználói fiók szükséges minden programhasználónak. A tanári fiók legyen különbözõ jogosultságokkal ellátva, a tanulói fiókok korlátozottabbak ennél.
+
+Törvényi elõírások:
 
 4.mikor (idõpont): 
 
