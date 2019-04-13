@@ -65,3 +65,4 @@ K02: Egyszerûsített ellenõrzõ lista, kötelezõ honlap elemek
 5.és mibõl (erõforrások):
 01 Pályázatok figyelése, megfelelõ kijelölése (http://www.pafi.hu/_pafi/palyazat.nsf/bont-tema-oktatas?OpenPage)
 02 Ha a rendszert egy adott iskola alkalmazottjaként fejlesztjük, az intézmény különítsen el erre összeget (fennartó, alapítványi bevétel ... stb.)
+03 A fenntartó több tagintézményének bevonása a fejlesztésbe és finanszírozásba is.
