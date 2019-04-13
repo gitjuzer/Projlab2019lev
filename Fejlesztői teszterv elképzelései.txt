@@ -1,0 +1,10 @@
+Célja:
+K01: A hibák megtalálás üzembehelyezés elõtt.
+K02:A hibák minimalizálás átadási teszthez.
+K03: Aminek tervezett ideje május17
+
+Megtartandó alapelvek:
+
+Válaszott technika:
+
+Részfeladatok
