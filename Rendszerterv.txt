@@ -39,6 +39,7 @@ K01:átláthatóság - ennek  megfelelõen, egy olyan program legyen, amely minden pr
 K02:javíthatóság - hibák mindig vannak, lesznek. Legyen lehetõség javítani. A javítás legyen egységes.
 K03:felhasználóbarát - a program felülete és kezelhetõsége legyen a felhasználók életkorának megfelelõ. A tervezésnél figyelembe kell venni minden lehetõséget. Erre a feladatra jelöljünk ki egy erre alkalmas kollégát, aki vezeti ezt a tevékenységet.
 K04:felhasználói fiókok - regisztráció és saját felhasználói fiók szükséges minden programhasználónak. A tanári fiók legyen különbözõ jogosultságokkal ellátva, a tanulói fiókok korlátozottabbak ennél.
+K05:letölthetõ segédletek, tananyagok
 
 Törvényi elõírás:
 K01: Jogszabály elõírásait a weboldal impresszum kötelezõ tartalma tekintetében:2001. évi CVIII. törvény az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggõ szolgáltatások egyes kérdéseirõl szabályozza
