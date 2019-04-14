@@ -1,9 +1,11 @@
 Célja:
+
 K01: A hibák megtalálása üzembehelyezés elõtt.
 K02:A hibák minimalizálás átadási teszthez.
 K03: Aminek tervezett ideje május17
 
 Megtartandó alapelvek:
+
 K01: Szoftver megbízhatóság növelése, a hibátlanság nem garantált
 K02: Magasabb funkciójú részeket teszteljük.
 K03: Az életciklus mielõbbi szakaszába elkezdjük.
@@ -12,15 +14,18 @@ K05: Minden teszt kisebb módosításokkal történik, az hiba alkalmazkodás korrekci
 K06: A tesztelés ideje minél hosszabb legyen.
 
 Válaszott technika:
+
 K01: Fekete dobozos(black box) specifikáció
 K02: Oka: a projekt web alapú, a felület megjelenése, menüfunkciói és az oldal használatot támogató adatbázis háttér áll a központban
 
-Részfeladatok
+Részfeladatok:
+
 K01: Komponensek tesztelése unit teszttel történik
 K02: két vagy több komponens kölcsönhatás vizsgálat történik
 K03: rendszertervteszt: meg felel-e a követelményspecifikációnak, funkcionális specifikációnak, rendszertervnek
 
 További feladatok:
+
  teszttelési részfeladatokhoz teszterv készítés excelben
  teszt számok, és tesztelõk meghatározás
  teszt eredmények elemzés korrekció végrehajtása
