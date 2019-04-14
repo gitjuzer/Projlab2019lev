@@ -1,1 +1,9 @@
+A tesztterv fontos dokumentum, amely leírja, hogy mit, milyen céllal, hogyan kell tesztelni. A
+tesztterv általában a rendszerterv része, azon belül is a minõségbiztosítás (quality assurance, QA)
+fejezethez tartozik. 
 
+A teszt célja lehet:
+
+• megtalálni a hibákat,
+• növelni a megbízhatóságot,
+• megelõzni a hibákat. 
