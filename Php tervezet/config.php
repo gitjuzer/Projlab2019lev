@@ -1,13 +1,18 @@
 <?php
 // Initialize the session
-session_start();
+
+    if(!isset($_SESSION)) 
+    { 
+        session_start(); 
+    } 
+
 
 /* Database credentials. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
 define('DB_SERVER', 'localhost');
 define('DB_USERNAME', 'root');
-define('DB_PASSWORD', 'localhost'); // Brigith0821
-define('DB_NAME', 'peti_elearning'); // projecta
+define('DB_PASSWORD', ''); // Brigith0821
+define('DB_NAME', 'elearning'); // projecta
  
 /* Attempt to connect to MySQL database */
 $link = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);

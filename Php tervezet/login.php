@@ -20,14 +20,14 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
  
     // Check if username is empty
     if(empty(trim($_POST["username"]))){
-        $username_err = "Please enter username.";
+        $username_err = "Adja meg felhasználónevét!";
     } else{
         $username = trim($_POST["username"]);
     }
     
     // Check if password is empty
     if(empty(trim($_POST["password"]))){
-        $password_err = "Please enter your password.";
+        $password_err = "Adja meg jelszavát!";
     } else{
         $password = trim($_POST["password"]);
     }
@@ -86,7 +86,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     // Close connection
     mysqli_close($link);
 }
-
+echo "<div align='center'><img src='logo.png' /></div>";
 html('header', array(
     'title'=>'Bejelentkezés', 
     'style'=>'body{ font: 14px sans-serif; } .wrapper{ width: 350px; padding: 20px; }',
@@ -95,7 +95,7 @@ html('header', array(
 
 ?>
 
-        <p>Please fill in your credentials to login.</p>
+        <p>Kérjük, adja meg a bejelentkezési adatait!</p>
         <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
             <div class="form-group <?php echo (!empty($username_err)) ? 'has-error' : ''; ?>">
                 <label>Felhasználónév</label>
@@ -110,7 +110,7 @@ html('header', array(
             <div class="form-group">
                 <input type="submit" class="btn btn-primary" value="Bejelentkezés">
             </div>
-            <p>Don't have an account? <a href="register.php">Sign up now</a>.</p>
+            <p>Még nincs fiókja? <a href="register.php">Regisztráljon most</a>.</p>
         </form>
 <?php
     html('footer', array('wrapper'=>true));

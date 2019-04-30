@@ -16,6 +16,9 @@
 
 
 	// HTML fejléc
+	
+
+
 	html('header', array(
 	    'title'=>'Kurzus kategóriák kezelése'.($_GET['a']=='new'?' - Új létrehozása':($_GET['a']=='edit'?' - Szerkesztés':'')), 
 	    'style'=>'body{ font: 14px sans-serif; text-align: center; }'
