@@ -11,7 +11,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
  
     // Validate username
     if(empty(trim($_POST["username"]))){
-        $username_err = "Please enter a username.";
+        $username_err = "Adja meg a választott felhasználónevet.";
     } else{
         // Prepare a select statement
         $sql = sql('user:nameCheck');
@@ -29,12 +29,12 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                 mysqli_stmt_store_result($stmt);
                 
                 if(mysqli_stmt_num_rows($stmt) == 1){
-                    $username_err = "This username is already taken.";
+                    $username_err = "Ez a felhasználónév már foglalt.";
                 } else{
                     $username = trim($_POST["username"]);
                 }
             } else{
-                echo "Oops! Something went wrong. Please try again later.";
+                echo "Oops! Valami elromlott. Próbálja meg később.";
             }
         }
          
@@ -44,20 +44,20 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     
     // Validate password
     if(empty(trim($_POST["password"]))){
-        $password_err = "Please enter a password.";     
+        $password_err = "Írja be a választott jelszót.";     
     } elseif(strlen(trim($_POST["password"])) < 6){
-        $password_err = "Password must have atleast 6 characters.";
+        $password_err = "A jelszónak legalább 6 karakter hosszúnak kell lennie.";
     } else{
         $password = trim($_POST["password"]);
     }
     
     // Validate confirm password
     if(empty(trim($_POST["confirm_password"]))){
-        $confirm_password_err = "Please confirm password.";     
+        $confirm_password_err = "Írja be jelszavát mégegyszer.";     
     } else{
         $confirm_password = trim($_POST["confirm_password"]);
         if(empty($password_err) && ($password != $confirm_password)){
-            $confirm_password_err = "Password did not match.";
+            $confirm_password_err = "A 2 jelszó nem egyezik.";
         }
     }
     
@@ -80,7 +80,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                 // Redirect to login page
                 header("location: login.php");
             } else{
-                echo "Something went wrong. Please try again later.";
+                echo "Valami elromlott. Próbálja meg később.";
             }
         }
          
@@ -91,37 +91,37 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     // Close connection
     mysqli_close($link);
 }
-
+echo "<div align='center'><img src='logo.png' /></div>";
 html('header', array(
-    'title'=>'Sign Up', 
+    'title'=>'Regisztrácó', 
     'style'=>'body{ font: 14px sans-serif; } .wrapper{ width: 350px; padding: 20px; }',
     'wrapper'=>true
 ));
 
 ?>
 
-        <p>Please fill this form to create an account.</p>
+        <p>Fiók létrehozásához adja meg adatait!</p>
         <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
             <div class="form-group <?php echo (!empty($username_err)) ? 'has-error' : ''; ?>">
-                <label>Username</label>
+                <label>Felhasználónév</label>
                 <input type="text" name="username" class="form-control" value="<?php echo $username; ?>">
                 <span class="help-block"><?php echo $username_err; ?></span>
             </div>    
             <div class="form-group <?php echo (!empty($password_err)) ? 'has-error' : ''; ?>">
-                <label>Password</label>
+                <label>Jelszó</label>
                 <input type="password" name="password" class="form-control" value="<?php echo $password; ?>">
                 <span class="help-block"><?php echo $password_err; ?></span>
             </div>
             <div class="form-group <?php echo (!empty($confirm_password_err)) ? 'has-error' : ''; ?>">
-                <label>Confirm Password</label>
+                <label>Jelszó megerősítése</label>
                 <input type="password" name="confirm_password" class="form-control" value="<?php echo $confirm_password; ?>">
                 <span class="help-block"><?php echo $confirm_password_err; ?></span>
             </div>
             <div class="form-group">
-                <input type="submit" class="btn btn-primary" value="Submit">
-                <input type="reset" class="btn btn-default" value="Reset">
+                <input type="submit" class="btn btn-primary" value="Adatok elküldése">
+                <input type="reset" class="btn btn-default" value="Adatok törlése">
             </div>
-            <p>Already have an account? <a href="login.php">Login here</a>.</p>
+            <p>Már van fiókja? <a href="login.php">Jelentkezzen be</a>.</p>
         </form>
 <?php
     html('footer', array('wrapper'=>true));
