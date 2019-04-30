@@ -12,4 +12,5 @@ Okosdoboz:
 http://www.okosdoboz.hu/
 
 A Weboldalt a SharePointDesiner programmal készült.
-Weboldalunk címe: http://www.mintantermunk.nhely.hu/web/index.htm
+HTML weboldalunk címe: http://www.mintantermunk.nhely.hu/web/index.htm
+PHP weboldalunk címe: http://www.mintantermunk.infora.hu/
