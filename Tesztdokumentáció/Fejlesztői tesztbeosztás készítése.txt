@@ -1,0 +1,4 @@
+K01: Tesztbeosztás táblázatába: a teszt szám és 3-3 tesztípus mellé íratkozik fel tesztelõ:  név, idõ beírásával
+K02: Teszt eredmények gyûjtése a Tesztdokumentáció /Elvégzett tesztek mappába ,azon belül a teszttípusán meg felelõ mappába történik.
+K03: Teszt_szám néven kerüljön mentésre tesztbeosztás táblázata alapján.
+
