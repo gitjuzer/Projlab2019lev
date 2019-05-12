@@ -1,4 +1,5 @@
 Tesztelésre azért van szükség, hogy a szoftvertermékben meglévõ hibákat még az üzembehelyezés
 elõtt megtaláljuk, ezzel növeljük a termék minõségét, megbízhatóságát. 
 Fontos a gyakori hibák kiküszöbölése.
+A tesztelés hibák jelenlétét jelzi.
 
