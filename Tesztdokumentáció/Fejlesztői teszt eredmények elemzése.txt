@@ -1,5 +1,3 @@
-A tesztelési szakaszban különbözõ tesztelési eseteket találunk ki, ezekre tesztelési
-osztályokat tervezünk. Itt vizsgáljuk meg, hogy az elkészült kód képes-e együttmûködni a program
-többi részével, azaz integrációs tesztet hajtunk végre. Regressziós tesztek segítségével ellenõrizzük,
-hogy ami eddig kész volt, az nem romlott el.
+A tesztelési szakaszban különbözõ tesztelési eseteket találunk ki, ezekre tesztelési osztályokat tervezünk. 
+Itt vizsgáljuk meg, hogy az elkészült kód képes-e együttmûködni a program többi részével, azaz integrációs tesztet hajtunk végre. Regressziós tesztek segítségével ellenõrizzük, hogy ami eddig kész volt, az nem romlott el.
 
