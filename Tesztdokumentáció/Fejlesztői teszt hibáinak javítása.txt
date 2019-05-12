@@ -6,29 +6,29 @@ legtöbbször fognak használni.
 
 Fontos a gyakori hibák kiküszöbölése.
 
-A tesztelés hibák jelenlétét jelzi.
+1. A tesztelés hibák jelenlétét jelzi.
 
-A tesztelés képes felfedni a hibákat, de azt nem, hogy nincs hiba. Ugyanakkor a szoftver minõségét és megbízhatóságát növeli.
+2. A tesztelés képes felfedni a hibákat, de azt nem, hogy nincs hiba. Ugyanakkor a szoftver minõségét és megbízhatóságát növeli.
 Nem lehetséges kimerítõ teszt: Minden bemeneti kombinációt nem lehet letesztelni (csak
 egy 10 hosszú karakterláncnak 256^10 lehetséges értéke van) és nem is érdemes. Általában
 csak a magas kockázatú és magas prioritású részeket teszteljük.
 
-Korai teszt: Érdemes a tesztelést az életciklus minél korábbi szakaszában elkezdeni, mert
+3. Korai teszt: Érdemes a tesztelést az életciklus minél korábbi szakaszában elkezdeni, mert
 minél hamar találunk meg egy hibát (mondjuk a specifikációban), annál olcsóbb javítani. Ez
 azt is jelenti, hogy nemcsak programot, hanem dokumentumokat is lehet tesztelni.
 
-Hibák csoportosulása: A tesztelésre csak véges idõnk van, ezért a tesztelést azokra a
+4. Hibák csoportosulása: A tesztelésre csak véges idõnk van, ezért a tesztelést azokra a
 modulokra kell koncentrálni, ahol a hibák a legvalószínûbbek, illetve azokra a bementekre
 kell tesztelnünk, amelyre valószínûleg hibás a szoftver (pl. szélsõértékek).
 
-A féregirtó paradoxon: Ha az újratesztelés során (lásd késõbb a regressziós tesztet) mindig
+5. A féregirtó paradoxon: Ha az újratesztelés során (lásd késõbb a regressziós tesztet) mindig
 ugyanazokat a teszteseteket futtatjuk, akkor egy idõ után ezek már nem találnak több hibát
 (mintha a férgek alkalmazkodnának a teszthez). Ezért a tesztjeinket néha bõvíteni kell.
 
-A tesztelés függ a körülményektõl: Másképp tesztelünk egy atomerõmûnek szánt programot
+6. A tesztelés függ a körülményektõl: Másképp tesztelünk egy atomerõmûnek szánt programot
 és egy beadandót. Másképp tesztelünk, ha a tesztre 10 napunk vagy csak egy éjszakánk van.
 
-A hibátlan rendszer téveszméje: Hiába javítjuk ki a hibákat a szoftverben, azzal nem lesz
+7. A hibátlan rendszer téveszméje: Hiába javítjuk ki a hibákat a szoftverben, azzal nem lesz
 elégedett a megrendelõ, ha az nem felel meg az igényeinek. Azaz használhatatlan szoftvert
 nem érdemes tesztelni.
 
