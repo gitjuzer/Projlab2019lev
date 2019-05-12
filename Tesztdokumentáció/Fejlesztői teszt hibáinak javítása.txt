@@ -9,4 +9,6 @@ legtöbbször fognak használni.
 Fontos a gyakori hibák kiküszöbölése.
 A tesztelés hibák jelenlétét jelzi.
 A tesztelés képes felfedni a hibákat, de azt nem, hogy nincs hiba. Ugyanakkor a szoftver minõségét és megbízhatóságát növeli.
-
+Nem lehetséges kimerítõ teszt: Minden bemeneti kombinációt nem lehet letesztelni (csak
+egy 10 hosszú karakterláncnak 256^10 lehetséges értéke van) és nem is érdemes. Általában
+csak a magas kockázatú és magas prioritású részeket teszteljük.
