@@ -15,4 +15,7 @@ csak a magas kockázatú és magas prioritású részeket teszteljük.
 Korai teszt: Érdemes a tesztelést az életciklus minél korábbi szakaszában elkezdeni, mert
 minél hamar találunk meg egy hibát (mondjuk a specifikációban), annál olcsóbb javítani. Ez
 azt is jelenti, hogy nemcsak programot, hanem dokumentumokat is lehet tesztelni.
+Hibák csoportosulása: A tesztelésre csak véges idõnk van, ezért a tesztelést azokra a
+modulokra kell koncentrálni, ahol a hibák a legvalószínûbbek, illetve azokra a bementekre
+kell tesztelnünk, amelyre valószínûleg hibás a szoftver (pl. szélsõértékek).
 
