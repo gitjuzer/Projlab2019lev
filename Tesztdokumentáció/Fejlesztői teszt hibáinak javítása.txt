@@ -1,11 +1,11 @@
 Tesztelésre azért van szükség, hogy a szoftvertermékben meglévõ hibákat még az üzembehelyezés elõtt megtaláljuk, ezzel növeljük a termék minõségét, megbízhatóságát. Abban szinte biztosak lehetünk, hogy a szoftverben van hiba, hiszen azt emberek fejlesztik, és az emberek hibáznak. 
-Gondoljunk arra, hogy a legegyszerûbb programban, mondjuk egy szöveges menükezelésben, mennyi
-hibát kellett kijavítani, mielõtt mûködõképes lett. Tehát abban szinte biztosak lehetünk, hogy
-tesztelés elõtt van hiba, abban viszont nem lehetünk biztosak, hogy tesztelés után nem marad hiba. A
-tesztelés után azt tudjuk elmondani, hogy a letesztelt részekben nincs hiba, így nõ a program
-megbízhatósága. Ez azt is mutatja, hogy a program azon funkcióit kell tesztelni, amiket a felhasználók
+Gondoljunk arra, hogy a legegyszerûbb programban, mondjuk egy szöveges menükezelésben, mennyi hibát kellett kijavítani, mielõtt mûködõképes lett. Tehát abban szinte biztosak lehetünk, hogy tesztelés elõtt van hiba, abban viszont nem lehetünk biztosak, hogy tesztelés után nem marad hiba. 
+A tesztelés után azt tudjuk elmondani, hogy a letesztelt részekben nincs hiba, így nõ a program megbízhatósága. 
+Ez azt is mutatja, hogy a program azon funkcióit kell tesztelni, amiket a felhasználók
 legtöbbször fognak használni. 
+
 Fontos a gyakori hibák kiküszöbölése.
+
 A tesztelés hibák jelenlétét jelzi.
 
 A tesztelés képes felfedni a hibákat, de azt nem, hogy nincs hiba. Ugyanakkor a szoftver minõségét és megbízhatóságát növeli.
