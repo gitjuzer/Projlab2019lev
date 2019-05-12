@@ -26,5 +26,6 @@ A féregirtó paradoxon: Ha az újratesztelés során (lásd késõbb a regressziós tesz
 ugyanazokat a teszteseteket futtatjuk, akkor egy idõ után ezek már nem találnak több hibát
 (mintha a férgek alkalmazkodnának a teszthez). Ezért a tesztjeinket néha bõvíteni kell.
 
-
+A tesztelés függ a körülményektõl: Másképp tesztelünk egy atomerõmûnek szánt programot
+és egy beadandót. Másképp tesztelünk, ha a tesztre 10 napunk vagy csak egy éjszakánk van.
 
