@@ -12,3 +12,7 @@ A tesztelés képes felfedni a hibákat, de azt nem, hogy nincs hiba. Ugyanakkor a 
 Nem lehetséges kimerítõ teszt: Minden bemeneti kombinációt nem lehet letesztelni (csak
 egy 10 hosszú karakterláncnak 256^10 lehetséges értéke van) és nem is érdemes. Általában
 csak a magas kockázatú és magas prioritású részeket teszteljük.
+Korai teszt: Érdemes a tesztelést az életciklus minél korábbi szakaszában elkezdeni, mert
+minél hamar találunk meg egy hibát (mondjuk a specifikációban), annál olcsóbb javítani. Ez
+azt is jelenti, hogy nemcsak programot, hanem dokumentumokat is lehet tesztelni.
+
