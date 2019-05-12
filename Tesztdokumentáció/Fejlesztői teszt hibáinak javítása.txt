@@ -29,3 +29,7 @@ ugyanazokat a teszteseteket futtatjuk, akkor egy idõ után ezek már nem találnak 
 A tesztelés függ a körülményektõl: Másképp tesztelünk egy atomerõmûnek szánt programot
 és egy beadandót. Másképp tesztelünk, ha a tesztre 10 napunk vagy csak egy éjszakánk van.
 
+A hibátlan rendszer téveszméje: Hiába javítjuk ki a hibákat a szoftverben, azzal nem lesz
+elégedett a megrendelõ, ha az nem felel meg az igényeinek. Azaz használhatatlan szoftvert
+nem érdemes tesztelni.
+
