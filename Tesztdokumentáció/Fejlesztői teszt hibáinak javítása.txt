@@ -32,3 +32,5 @@ ugyanazokat a teszteseteket futtatjuk, akkor egy idõ után ezek már nem találnak 
 elégedett a megrendelõ, ha az nem felel meg az igényeinek. Azaz használhatatlan szoftvert
 nem érdemes tesztelni.
 
+8. A tesztelõk a tesztforgatókönyvnek megfelelõen elvégzik a tesztelést és az eredményt tesztjegyzõkönyvekben dokumentálják. A teszt kimenetelést minden esetben jelenteni kell a tesztkoordinátornak. A tesztkoordinátor a szakértõkkel együtt megoldást keres a problémákra, majd frissíti a tesztforgatókönyvet. Ha a problémát megoldották, a tesztelõ újrakezdheti a tesztelést, majd dokumentálja az eredményeket. Ha a hiba továbbra is fennáll, és harmadik félen múlik a megoldása eszkalálni kell a problémát a projekt menedzsernek. 
+

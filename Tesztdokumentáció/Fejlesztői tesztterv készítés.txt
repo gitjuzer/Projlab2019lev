@@ -7,3 +7,7 @@ A teszt célja lehet:
 • megelõzni a hibákat. 
 
 A fejlesztõi tesztek célja általában minél több hiba megtalálása. Az átvételi teszt célja, hogy a felhasználók bizalma nõjön a megbízhatóságban. A regressziós teszt célja, hogy megelõzni, hogy a változások a rendszer többi részében hibákat okozzanak. 
+
+Leírja a teszt típusát, a metodológiáját és a riport készítés módszerét. Emellett meghatározza a teszt elvárásokat, a teszt-esetek elvárt eredményeit, sikerességének kritériumait, a kockázatok kezelését és a hatáskörön kívül eseteket.
+
+A teszt elvégzésének meghatározott sorrendjét és függõségeit tesztforgatókönyvben kell rögzíteni. A tesztforgatókönyv elkészítése a tesztelések koordinálásért felelõs szakértõ feladata, elkészítése során törekedni kell a párhuzamos elvégezhetõ tevékenységek lehetõség szerinti kihasználására, a tesztelési idõigény csökkentésének érdekében. A tesztforgatókönyvben rögzíteni szükséges továbbá a tesztelés sorrendjét és a tesztelés logikáját (funkciók vagy folyamatok alapján) is.
