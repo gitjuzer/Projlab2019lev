@@ -1,16 +1,37 @@
-Tankocka:
-https://learningapps.org/user/tankocka?displayfolder=271294
-https://www.redmenta.com/
-https://kahoot.it/
-https://scratch.mit.edu/
-http://ai2.appinventor.mit.edu/
-http://www.okosdoboz.hu/
-https://blockly-games.appspot.com/
-https://education.minecraft.net/
-www.pinterest.com
-Okosdoboz:
-http://www.okosdoboz.hu/
-
 A Weboldalt a SharePointDesiner programmal készült.
 HTML weboldalunk címe: http://www.mintantermunk.nhely.hu/web/index.htm
 PHP weboldalunk címe: http://www.mintantermunk.infora.hu/
+
+Tanároknak:
+https://www.pinterest.com
+https://www.redmenta.com/
+https://wordwall.net/hu
+https://kahoot.it/
+https://jamboard.google.com
+https://www.neolms.com/
+https://classroomscreen.com/
+https://www.qr-code-generator.com
+https://www.mozaweb.hu/
+https://prezi.com/
+https://hu.padlet.com/
+https://wordart.com/
+https://www.terrapinlogo.com//emu/beebot.html
+https://primarypad.com/
+https://www.orszagalbum.hu/
+
+Tankocka:
+https://learningapps.org/user/tankocka?displayfolder=271294
+
+Scratch
+https://scratch.mit.edu/
+
+Blockly Games
+https://blockly-games.appspot.com/
+
+Minecraft
+https://education.minecraft.net/
+
+Okosdoboz:
+http://www.okosdoboz.hu/
+
+http://ai2.appinventor.mit.edu/
