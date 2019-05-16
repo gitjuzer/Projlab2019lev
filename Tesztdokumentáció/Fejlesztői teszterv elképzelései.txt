@@ -12,6 +12,7 @@ K03: Az életciklus mielõbbi szakaszába elkezdjük.
 K04: Legvalószínûbb hibaforrás elemeket vizsgáljuk.
 K05: Minden teszt kisebb módosításokkal történik, az hiba alkalmazkodás korrekciójára.
 K06: A tesztelés ideje minél hosszabb legyen.
+K07: Mivel web alapú és tárol személyes adatot, így megfeleljen az adatkezelési szbályzatban foglaltaknak.
 
 Válaszott technika:
 
