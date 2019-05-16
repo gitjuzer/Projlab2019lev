@@ -1,0 +1,34 @@
+Tesztelésre azért van szükség, hogy a szoftvertermékben meglévõ hibákat még az üzembehelyezés elõtt megtaláljuk, ezzel növeljük a termék minõségét, megbízhatóságát. Abban szinte biztosak lehetünk, hogy a szoftverben van hiba, hiszen azt emberek fejlesztik, és az emberek hibáznak. 
+Gondoljunk arra, hogy a legegyszerûbb programban, mondjuk egy szöveges menükezelésben, mennyi hibát kellett kijavítani, mielõtt mûködõképes lett. Tehát abban szinte biztosak lehetünk, hogy tesztelés elõtt van hiba, abban viszont nem lehetünk biztosak, hogy tesztelés után nem marad hiba. 
+A tesztelés után azt tudjuk elmondani, hogy a letesztelt részekben nincs hiba, így nõ a program megbízhatósága. 
+Ez azt is mutatja, hogy a program azon funkcióit kell tesztelni, amiket a felhasználók
+legtöbbször fognak használni. 
+
+Fontos a gyakori hibák kiküszöbölése.
+
+1. A tesztelés hibák jelenlétét jelzi.
+
+2. A tesztelés képes felfedni a hibákat, de azt nem, hogy nincs hiba. Ugyanakkor a szoftver minõségét és megbízhatóságát növeli.
+Nem lehetséges kimerítõ teszt: Minden bemeneti kombinációt nem lehet letesztelni (csak
+egy 10 hosszú karakterláncnak 256^10 lehetséges értéke van) és nem is érdemes. Általában
+csak a magas kockázatú és magas prioritású részeket teszteljük.
+
+3. Korai teszt: Érdemes a tesztelést az életciklus minél korábbi szakaszában elkezdeni, mert
+minél hamar találunk meg egy hibát (mondjuk a specifikációban), annál olcsóbb javítani. Ez
+azt is jelenti, hogy nemcsak programot, hanem dokumentumokat is lehet tesztelni.
+
+4. Hibák csoportosulása: A tesztelésre csak véges idõnk van, ezért a tesztelést azokra a
+modulokra kell koncentrálni, ahol a hibák a legvalószínûbbek, illetve azokra a bementekre
+kell tesztelnünk, amelyre valószínûleg hibás a szoftver (pl. szélsõértékek).
+
+5. A féregirtó paradoxon: Ha az újratesztelés során (lásd késõbb a regressziós tesztet) mindig
+ugyanazokat a teszteseteket futtatjuk, akkor egy idõ után ezek már nem találnak több hibát
+(mintha a férgek alkalmazkodnának a teszthez). Ezért a tesztjeinket néha bõvíteni kell.
+
+6. A tesztelés függ a körülményektõl: Másképp tesztelünk egy atomerõmûnek szánt programot
+és egy beadandót. Másképp tesztelünk, ha a tesztre 10 napunk vagy csak egy éjszakánk van.
+
+7. A hibátlan rendszer téveszméje: Hiába javítjuk ki a hibákat a szoftverben, azzal nem lesz
+elégedett a megrendelõ, ha az nem felel meg az igényeinek. Azaz használhatatlan szoftvert
+nem érdemes tesztelni.
+

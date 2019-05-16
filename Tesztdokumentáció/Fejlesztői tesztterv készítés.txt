@@ -1,0 +1,9 @@
+A tesztterv fontos dokumentum, amely leírja, hogy mit, milyen céllal, hogyan kell tesztelni. A tesztterv általában a rendszerterv része, azon belül is a minõségbiztosítás (quality assurance, QA) fejezethez tartozik. 
+
+A teszt célja lehet:
+
+• megtalálni a hibákat,
+• növelni a megbízhatóságot,
+• megelõzni a hibákat. 
+
+A fejlesztõi tesztek célja általában minél több hiba megtalálása. Az átvételi teszt célja, hogy a felhasználók bizalma nõjön a megbízhatóságban. A regressziós teszt célja, hogy megelõzni, hogy a változások a rendszer többi részében hibákat okozzanak. 
