@@ -51,3 +51,16 @@ a felhasználói (diákok, szülõk, tanárok, látogatók, stb.) adatkezelési és adatfe
 az adatok továbbítási szabályainak rögzítése,
 az adatnyilvántartásban érintett személyek jogai és érvényesítésük rendjének közlése,
 A tájékoztató célja az adatkezelésben érintettet személyek tájékoztatása az adat kezelésével kapcsolatos minden tényrõl, így különösen az adatkezelés céljáról és jogalapjáról, az adatkezelésre és az adatfeldolgozásra jogosult személyérõl, az adatkezelés idõtartamáról, illetve arról, hogy kik ismerhetik meg az adatokat.
+
+I. 4. Az adatkezelõ megnevezése
+E tájékoztatást az Adatkezelõ nyújtja:
+
+Cégnév: Eszterházy Károly Egyetem
+Székhely: 3300 Eger, Leányka u. 4.
+Adószám: 12723118-2-05
+Telefonszám: +36 30 34 56 777
+E-mail: informaci@mitantermunk.hu
+
+I. 5. A tájékoztató módosítása
+A Társaság fenntartja magának a jogot, hogy a jelen tájékoztatót egyoldalú döntésével bármikor módosítsa. A szolgáltatás további felhasználásával a felhasználók a megváltozott adatkezelési szabályokat tudomásul veszik, ezen túlmenõ beleegyezésük kikérésére nincs szükség.
+
