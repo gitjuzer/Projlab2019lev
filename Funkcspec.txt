@@ -70,7 +70,7 @@ K19:Linkek gyűjteménye
 K20: Súgó
 K:21 GDPR rendelet figyelembe vétele
 K:22 Mobil nézet
-
+K23: felhasználócsoportonként különböző tartalmak
 
 7. Használati esetek
 01:Oktatási céra való felhasználás, új ismeretek szerzéséhez
@@ -90,7 +90,11 @@ K:22 Mobil nézet
 15:Informálás csak rendszerszintű problémákról.
 16:A felhasználó csak saját adatokat törölhet módosíthat.
 17: QR kód generátor mobilos használathoz
+<<<<<<< HEAD
 18:Vendég felhasználó szerepkör is elérhető legyen, de ez csak korlátozott hozzáféréssel
+=======
+18: csak pedagógusok által hozzáférhető tartalom
+>>>>>>> 3caebadde18563009417474dfbeeceaa6ba98b34
 
 
 8. Forgatókönyvek

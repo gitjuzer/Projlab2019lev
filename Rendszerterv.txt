@@ -22,28 +22,16 @@ azoknak a helyes használatát. Ismerjék meg ezen programok elõnyét, hogyan lehet 
 offline formában is mûködjenek, mert az iskolákban nem biztos, hogy minden teremben van net. Figyelembe kell venni azt is, hogy ezen programok különbözõ eszközökön
 zökkenõmentesen kell mûködniük. Fontos szempont az is, hogy ezen programok széleskörûen elérhetõeknek kell lenniük és ingyenesnek, mivel az intézményeknek igen kevés
 anyagi háttér áll rendelkezésükre.
-<<<<<<< HEAD
 Fontos szempont az is, hogy ezen programok széleskörûen elérhetõeknek kell lenniük és ingyenesnek, mivel az intézményeknek igen kevésanyagi háttér áll rendelkezésükre. 
 Fontos, hogy az elkészített programot rendszergazdai engedély nélkül lehessen használni. Ez felgyorsítaná a mindennapi használatot. 
 Maga a programnak különbséget kell tennie a különbözõ felhasználók között és más-más lehetõségeket kell kínálnia, mivel más-más okokból fogják a programokat használni. 
 A diákokat meg kell különböztetni alsó és felsõ tagozatos diákokként. A tagozatokon belül az évfolyamokat is meg kell különböztetni. A mai modern világban már az elsõs kis csemeték is "rutinszerûen" tudják használni az okoseszközöket, számítógépeket. A programon belül létre lehetne hozni azt is, hogy a különbözõ évfolyamoknak különbözõ felhasználói felülete legyen, a diákok évfolyamonkénti sajátosságaiknak megfelelõen.
 A tantárgyak tanulása is életkornak megfelelõen legyen játékos, nyilvánvalóan egy elsõsnek mással lehet fentartani a figyelmét, mint egy nyolcadikosnak.
 A tanulókat a saját tanárjuk regisztrálja be a rendszerbe, õ határozza meg a diákok egyéni felhasználónevét. Belépve a programba, a megjelenítési nevüket egyéni módon tudják majd megváltoztatni.
-=======
-Fontos, hogy a grafikus megjelenés korszerû legyen, lekösse a diák figyelmét, ne érezze azt, ez egy iskolai, kötelezõ projekt. 
-Ha pl, csoportos feladat van, párokban, csapatokban dolgoznak, legyen chat felület, ahol tudnak egymással kommunikálni, ne zavarják az órát a beszélgetéssel, 
-mai fiatalok egyébként is többet beszélgetnek egymással digitális eszközökön, ez kifejezetten tetszene is nekik.
-A feladatokban is igyekezzünk korszerû példákat felhozni, újdonságokat tartalmazzanak, szórakoztató jellegû is legyen, hogy könnyebben tudjanak azonosulni vele a diákok.
-Fontos, hogy a diákok számára otthonról is elérhetõek legyenek ezek a feladatok, hogy tudjanak gyakorolni, vagy ismételni!
-Szivesebben tanulnak otthon is inkább számítógéprõl a diákok, mint papírról, könyvbõl, füzetbõl.
-Mindenki számára legyen egyértelmû a kezelõfelület, mindenki ki tudjon igazodni a programon, ne nagyon legyenek olyan pontjai, amik félreérthetõek, bonyodalmakat okozhat.
-Legyen mindenki számára egy profil, amit saját ízlése szerint tud szerkeszteni, profilképet feltölteni, témát szerkeszteni stb, de ezek a profilkép kivételével
-nem láthatóak a többiek számára, csak az eredmények publikusak, amiket a feladatban elértek.
 
->>>>>>> b79920aaebe01fded5d7a4f80e86e95be724203b
 
 3.hogyan (terv):
-Követelmények:
+Követelmények: A weboldalon legyenek olyan elemek is, amelyek letölthetõek és internet hozzáférés nélkül mûködjenek.
 
 Funkcionális követelmények: 
 K01:átláthatóság - ennek  megfelelõen, egy olyan program legyen, amely minden programozó számára átlátható kódolással legyen megírva. Fontos az, hogy a programozók mindig értsék a munkatársaik logikáját. A kód legyen könnyen olvasható, hogy bárki be tudjon csatlakozni a munkába, és tudja folytatni azt.
