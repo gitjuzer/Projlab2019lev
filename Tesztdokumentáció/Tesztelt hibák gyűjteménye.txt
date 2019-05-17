@@ -4,4 +4,7 @@ Teszt_1_SzP
 Tesztlépés: WEB lap megnyitássa---->Logikai hiba: az ovis feladatok felt‚telezik a betûk ismeret‚t
 Teszt_3 CsikK
 Tesztlépés: Linkek--> Hiányoznak
+Teszt_3_SzP
+Tesztlépés: WEB lap megnyitássa---->Eszt‚tikai/elrendez‚si hiba: nem szerencs‚s, ha a k‚perny‹tartalom nem fér ki és görgetni kell
+ Némelyik aloldal mobilos, n‚melyik asztali gépes elrendezésû.
 
