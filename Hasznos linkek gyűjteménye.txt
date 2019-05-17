@@ -26,7 +26,7 @@ https://www.youtube.com/
 http://www.cword.hu/ovodasoknak/
 http://www.okosdoboz.hu/
 http://www.mateking.hu/
-
+https://scholar.google.hu/
 
 Tankocka:
 https://learningapps.org/user/tankocka?displayfolder=271294
@@ -56,3 +56,6 @@ https://zanza.tv/
 
 Jaws
 http://infoalap.hu/megoldasok/hallhassam/jaws/
+
+MVGYOSZ
+https://www.mvgyosz.hu/
