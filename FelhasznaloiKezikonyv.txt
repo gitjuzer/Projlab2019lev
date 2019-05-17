@@ -4,20 +4,23 @@ FELHASZNÁLÓI KÉZIKÖNYVE
 2019 EKE
 
 Tartalom
-Elérhetõség:	3
-1.	Adminisztrációs felület	3
-1.1.	Belépés	3
-1.2.	Fõoldal	3
-1.4.	Tanároknak	4
-2.	Autentikáció	4
-2.1.	Regisztráció:	4
-2.2.	Bejelentkezés:	5
+Elérhetõség:
+1.	Adminisztrációs felület
+1.1.	Belépés
+1.2.	Fõoldal
+1.4.	Tanároknak
+2.	Autentikáció
+2.1.	Regisztráció
+2.2.	Bejelentkezés
 
 Elérhetõség:
 http://www.mintantermunk.nhely.hu/web/index.htm
+
 1.	Adminisztrációs felület
+
 1.1.	Belépés
 A belépés az adminisztrációs oldalra az "admin" felhasználónévvel és "jelszó" jelszóval lehetséges a /admin aloldalon keresztül. 
+
 1.2.	Fõoldal
 Belépés után az admin felület fõ oldalára jutunk, ahol táblázatos megjelenítésben láthatjuk az adatbázisba feltöltött feladatokat.
 
@@ -26,13 +29,16 @@ Belépés után az admin felület fõ oldalára jutunk, ahol táblázatos megjelenítésbe
 Új feladat feltöltése a feladatlap készítõn keresztül történik.
 Mentett feladatok a korábbi feladatok átszerkeszthetõségét, letöltését adják.
 Hasznos linkek korosztályos források
+
 2.	Autentikáció
+
 2.1.	Regisztráció:
 - név megadása
 - email cím megadása
 - felhasználónév megadása
 - jelszó megadása
 - OM azonosító megadása
+
 2.2.	Bejelentkezés:
 - felhasználónév
 - jelszó
