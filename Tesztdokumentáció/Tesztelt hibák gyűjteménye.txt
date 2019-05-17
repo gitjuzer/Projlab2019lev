@@ -1,4 +1,7 @@
 Teszt_1_SzP
-Tesztlépés: WEB lap magnyitássa---->A lap fejléce változó helyeken jelenik meg
+Tesztlépés: WEB lap megnyitássa---->A lap fejléce változó helyeken jelenik meg
 Teszt_1_SzP 
-Tesztlépés: WEB lap magnyitássa---->Logikai hiba: az ovis feladatok felt‚telezik a betûk ismeret‚t
+Tesztlépés: WEB lap megnyitássa---->Logikai hiba: az ovis feladatok felt‚telezik a betûk ismeret‚t
+Teszt_3 CsikK
+Tesztlépés: Linkek--> Hiányoznak
+
