@@ -90,6 +90,10 @@ K23: felhasználócsoportonként különböző tartalmak
 15: Informálás csak rendszerszintű problémákról.
 16: A felhasználó csak saját adatokat törölhet módosíthat.
 17: QR kód generátor mobilos használathoz
+<<<<<<< HEAD
+
+
+=======
 18:Vendég felhasználó szerepkör is elérhető legyen, de ez csak korlátozott hozzáféréssel
 19: Csak pedagógusok által hozzáférhető tartalom
 
@@ -99,6 +103,7 @@ K23: felhasználócsoportonként különböző tartalmak
 03: Szokványostól eltérő, multimédiás elemekkel illusztrálva.
 04: Legyen veszélyekkel teli-az olvasót eléri. 
 05: Példákat, pontos leírásokat is tartalmazzon
+>>>>>>> c2619c1f5453e0c2ce803b8266a5732b82018b0f
 
 
 
