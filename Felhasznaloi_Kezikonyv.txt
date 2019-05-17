@@ -35,6 +35,7 @@ Hasznos linkek korosztályos források.
 2.	Autentikáció
 
 2.1.	Regisztráció:
+-felhasználói profil megadása
 - név megadása
 - email cím megadása
 - felhasználónév megadása
@@ -44,4 +45,6 @@ Hasznos linkek korosztályos források.
 2.2.	Bejelentkezés:
 - felhasználónév
 - jelszó
+-jelszó és felhasználói név megjegyzése
+-elfelejtett jelszó funkció
 
