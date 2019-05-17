@@ -1,3 +1,7 @@
+Teszt_1_JN
+Tesztléepes: WEB lap megnyitássa---->A hivatkozások linkje nem mindenhol mûködik.
+Teszt_1_JN
+Tesztléepes: WEB lap megnyitássa---->Webdisegn szempontjából átgondolásra szurol, a szinek használta nem átgondolt.
 Teszt_1_SzP
 Tesztlépés: WEB lap megnyitássa---->A lap fejléce változó helyeken jelenik meg
 Teszt_2_SzP 
