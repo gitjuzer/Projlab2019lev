@@ -1,2 +1,16 @@
 1. Célja: 
+A dokumentáció elsõdleges célja segítségnyújtás a program leendõ felhasználóinak, továbbfejlesztõinek. Ezért olyannak kell lennie, hogy minden számukra szükséges tudnivalóhoz könnyen hozzájuthassanak. Ehhez elsõdleges szempont természetesen, hogy a dokumentáció mindezeket tartalmazza, de a használatát egyéb követelmények betartásával jelentõsen megkönnyíthetjük. Ezek a következõk:
+
+    a dokumentáció ne legyen túl hosszú, hiszen egy program használatához senki sem akar egy „regényt” elolvasni;
+    a dokumentáció ne legyen túl rövid, mert akkor tömörsége miatt érthetetlen lesz, s így használhatatlan;
+    a dokumentáció legyen világosan tagolt, és a tagolás segítse elõ az egyes tudnivalók gyors keresését;
+    a dokumentáció legyen tömör: az olvasója ne vesszen el a részletekben;
+    a dokumentáció legyen olvasható: a túlságos (és kizárólagos) formalizálás az érthetõség rovására megy;
+    a dokumentáció legyen pontos: az olvasója minden kérdésére tartalmazza a választ.
+
 2. Lehetséges elemei:
+
+3. Formai követelmények
+A dokumentáció használatát néhány formai jellemzõ nagyban megkönnyítheti. Ezek egyike a tartalomjegyzék. Másik, dokumentációkban ennél ritkábban használt, de néha kifejezetten nagy segítséget nyújtó eszköz az index.
+
+Az nyilvánvaló, hogy világos szerkezetû kell legyen: kitalálható mondanivalójú fejezetekre bontva. További stílusjegyek megegyeznek bármely szakmai kiadványéval.
