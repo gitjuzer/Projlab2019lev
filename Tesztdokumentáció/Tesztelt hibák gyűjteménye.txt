@@ -4,9 +4,13 @@ Teszt_2_SzP
 Tesztlépés: WEB lap megnyitássa---->Logikai hiba: az ovis feladatok felt‚telezik a betûk ismeret‚t
 Teszt_4_SzP 
 Tesztlépés: WEB lap megnyitássa---->Az oldalon  lland¢ linkek form j ban el kell helyezni a fontosabb dolgokat (pl. el‚rhet‹s‚g, adatv‚delmi nyilatkozat, impresszum, kapcsolat, stb.)
+Teszt_5_SzP 
+Tesztlépés: WEB lap megnyitássa---->A linkek olvashatósága a betûtípus miatt nehézkes
 Teszt_3 CsikK
 Tesztlépés: Linkek--> Hiányoznak
 Teszt_3_SzP
 Tesztlépés: WEB lap megnyitássa---->Eszt‚tikai/elrendez‚si hiba: nem szerencs‚s, ha a k‚perny‹tartalom nem fér ki és görgetni kell
  Némelyik aloldal mobilos, n‚melyik asztali gépes elrendezésû.
+teszt_ÁA
+Tesztlépés: WEB lap megnyitássa---->Link aktivitása
 
