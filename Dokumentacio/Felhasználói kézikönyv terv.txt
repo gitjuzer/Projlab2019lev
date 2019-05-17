@@ -8,7 +8,8 @@ A dokumentáció elsõdleges célja segítségnyújtás a program leendõ felhasználóinak
     a dokumentáció legyen olvasható: a túlságos (és kizárólagos) formalizálás az érthetõség rovására megy;
     a dokumentáció legyen pontos: az olvasója minden kérdésére tartalmazza a választ.
 
-2. Lehetséges elemei:
+2. Lehetséges elemei:	Vezetõi összefoglaló, Jelenlegi helyzet, Vágyálomrendszer, Jelenlegi mûködés, Igényelt mûködés
+			Felhasználói kézikönyv, Funkcióspecifikáció, Követelményspecifikáció, Rendszerterv
 
 3. Formai követelmények
 A dokumentáció használatát néhány formai jellemzõ nagyban megkönnyítheti. Ezek egyike a tartalomjegyzék. Másik, dokumentációkban ennél ritkábban használt, de néha kifejezetten nagy segítséget nyújtó eszköz az index.
