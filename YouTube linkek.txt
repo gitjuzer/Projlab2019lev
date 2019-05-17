@@ -54,6 +54,9 @@
 		https://www.youtube.com/channel/UCprDlwp0p9pKAZQ8wnzAQ4g
         Szertár
      		https://www.youtube.com/user/szertar
+
 	C# oktatóvideók
 		https://www.youtube.com/watch?v=BB8XDRYNgHg&list=PLGyaaiLprtIDrLyaJccXNgAv2iV4I5jw-
 
+	Java oktatóvideók
+		https://www.youtube.com/channel/UCXd8QZP-NmIRTyfOh1InKUA
