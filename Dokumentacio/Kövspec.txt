@@ -1,4 +1,4 @@
-Játékos Oktató Rendszer
+﻿Játékos Oktató Rendszer
 
 Követelményspecifikáció
 
@@ -63,7 +63,7 @@ Erre törekedne a kompetenciaalapú oktatás, ami felé az elmúlt egy-két évt
 
 5. Igényelt működés
 
-A tanárokat a rendszergazda veszi fel a rendszerbe, míg a diákoknak maguknak kell regisztrálniuk a felületre. A tanárok bejelentkeznek az admin felületükre, ahol létre tudnak hozni tananyagokat (egy egyszerű WYSIWYG szerkesztő segítségével)
+A tanárokat a rendszergazda veszi fel a rendszerbe, míg a diákoknak maguknak kell regisztrálniuk a felületre. A tanárok bejelentkeznek az admin felületükre, ahol létre tudnak hozni tananyagokat (egy egyszerű WYSIWYG szerkesztő segítségével).
 illetve teszteket a diákok részére. A diákok bejelentkeznek a felületre, kiválasztják az adott kurzust/tananyagot és az elsajátítást követően kitöltik a kapcsolódó tesztet tudásuk ellenőrzésére.
 Célszerű alkalmazni a "jutalmazásos" módszert: A diákok tudjanak "szintet lépni", kapjanak rangokat. Fontos, hogy az alkalmazás támogassa a csapatmunkát, az egymás segítésének, támogatásának lehetőségét.
 Mindenképpen működnie kell az alkalmazásnak mobilon és számítógépen egyaránt. Tudjon otthon is hozzáférni a diák otthon is platformtól függetlenül.
