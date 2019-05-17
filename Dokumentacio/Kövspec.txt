@@ -7,6 +7,7 @@ Követelményspecifikáció
 Az oktatás sok embert érintő terület a gyerekektől a tanárokon és szülőkön keresztül a majdan a tudást igénylő üzleti szereplőkig.
 Jelenleg az oktatás túlnyomó részt iskolapados rendszerű, ahol szigorú keretek közt, a motiválás és kedvcsinálás szempontokat csak ritkán vagy nem teljeskörűen alkalmazzák.
 Kutatások és mindennapi tapasztalatok is mutatják, hogy játékos formában elérhető feladatokat a gyerekek nagyobb lelkesedéssel hajtanak végre.
+Az élményközpontú oktatás bevezetéséhez és alkalmazásához fontos a megfelelő demonstrációs eszközök használata.
 
 2. Jelenlegi helyzet
 
