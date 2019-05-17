@@ -63,3 +63,12 @@
 
 	Python oktatóvideók
 		https://www.youtube.com/watch?v=guzcGxUM2CU&list=PLUnQJ5ZQoqQJT_sSKYFRu8vP6vJxdo3OZ
+
+	Java oktatóvideók 2.0
+		https://www.youtube.com/watch?v=eVudjNcg_nk&list=PLyriihBWoulwgaKMNF6M20iD0c6iDtu0S
+
+	C# oktatóvideók (Karsa Zoltán)
+		https://www.youtube.com/watch?v=JsLEG9WXCDk&list=PL8l6M-0GWNq07jFCk69YUwFW30_iHW7IR
+
+	Matematika segítség (Mateking)
+		https://www.youtube.com/channel/UCzkh_OHHKmXfVxOsu5o42zg
