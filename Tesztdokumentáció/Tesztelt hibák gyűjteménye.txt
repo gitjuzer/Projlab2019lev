@@ -1,4 +1,25 @@
 Teszt_1_SzP
-Tesztlépés: WEB lap magnyitássa---->A lap fejléce változó helyeken jelenik meg
-Teszt_1_SzP 
-Tesztlépés: WEB lap magnyitássa---->Logikai hiba: az ovis feladatok felt‚telezik a betûk ismeret‚t
+Tesztlépés: WEB lap megnyitássa---->A lap fejléce változó helyeken jelenik meg
+Teszt_2_SzP 
+Tesztlépés: WEB lap megnyitássa---->Logikai hiba: az ovis feladatok felt‚telezik a betûk ismeret‚t
+Teszt_4_SzP 
+Tesztlépés: WEB lap megnyitássa---->Az oldalon  lland¢ linkek form j ban el kell helyezni a fontosabb dolgokat (pl. el‚rhet‹s‚g, adatv‚delmi nyilatkozat, impresszum, kapcsolat, stb.)
+Teszt_5_SzP 
+Tesztlépés: WEB lap megnyitássa---->A linkek olvashatósága a betûtípus miatt nehézkes
+Teszt_3 CsikK
+Tesztlépés: Linkek--> Hiányoznak
+Teszt_3_SzP
+Tesztlépés: WEB lap megnyitássa---->Eszt‚tikai/elrendez‚si hiba: nem szerencs‚s, ha a k‚perny‹tartalom nem fér ki és görgetni kell
+ Némelyik aloldal mobilos, n‚melyik asztali gépes elrendezésû.
+<<<<<<< HEAD
+Teszt_1_NP
+Tesztlépés: Weblap megnyitása--->Az elrendezés javításra szorul
+Teszt_2_NP
+Tesztlépés: Kurzusok---->Olvas mûvelet kattintásra nem mûködik (funkcionális hiba)
+Teszt_3_NP
+Tesztlépés: Weblap megnyitása---->Az oldalon hiperhivatkozások elhelyezése szükséges (kapcsolat, adatvédelmi nyilatkozat, impresszum)
+=======
+teszt_ÁA
+Tesztlépés: WEB lap megnyitássa---->Link aktivitása
+>>>>>>> ae19fd6ac363329bd938638439ff5ebe2b1ab8b9
+
