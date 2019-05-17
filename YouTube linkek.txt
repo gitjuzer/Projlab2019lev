@@ -63,3 +63,6 @@
 
 	Python oktatóvideók
 		https://www.youtube.com/watch?v=guzcGxUM2CU&list=PLUnQJ5ZQoqQJT_sSKYFRu8vP6vJxdo3OZ
+
+	Java oktatóvideók 2.0
+		https://www.youtube.com/watch?v=eVudjNcg_nk&list=PLyriihBWoulwgaKMNF6M20iD0c6iDtu0S
