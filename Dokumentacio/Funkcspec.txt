@@ -20,9 +20,9 @@ Nem csak informatika órán kellene használni ezeket az eszközöket, hanem a l
 A közoktatás modernizálásában, fejlesztésében is az a tendencia, hogy a gyerekeket a tanulás során élményekhez kell juttatni. Így motiváltabbak, szívesebben, aktívabban vesznek részt a tanórai munkákban.
 
 3. Vágyálom rendszer
-Meg kell határozni egy technikai követelmény specifikáciüót, ugyanis bár az állítás igaz: a mai modern technika képes egy ilyen szintű rendszer működtetésére, azonban sajnos a valóság azt mutatja, hogy sok iskola elmaradott a technikai fejlődésben. A diákok saját tulajdonú eszközeire pedig nem alapozhatunk. Nincs lehetőség a saját dolgok használatára. Nagyon sok a hátrányos helyzetű terület ahol a gyerekek nem rendelkeznek saját informatikai eszközökkel. Az iskolák csak pályázati pénzekből tudnak ilyen eszközökre szert tenni.
+Meg kell határozni egy technikai követelmény specifikációt, ugyanis bár az állítás igaz: a mai modern technika képes egy ilyen szintű rendszer működtetésére, azonban sajnos a valóság azt mutatja, hogy sok iskola elmaradott a technikai fejlődésben. A diákok saját tulajdonú eszközeire pedig nem alapozhatunk. Nincs lehetőség a saját dolgok használatára. Nagyon sok a hátrányos helyzetű terület, ahol a gyerekek nem rendelkeznek saját informatikai eszközökkel. Az iskolák csak pályázati pénzekből tudnak ilyen eszközökre szert tenni.
 Az "informatikai rendszer fejlesztése" kifejezés a többi pontban meghatározott elképzeléshez képest kissé túlzónak tűnik.
-Sok, főleg hátrányos helyzetű település iskolái rendelkeznek már tabletekkel, szélessávú Internet hozzáféréssel, szinte minden évben van olyan pályázat, amely ezeknek a hátrányoknak a megszüntetésére irányul.
+Sok, főleg hátrányos helyzetű település iskolái rendelkeznek már tabletekkel, szélessávú internet hozzáféréssel, szinte minden évben van olyan pályázat, amely ezeknek a hátrányoknak a megszüntetésére irányul.
 Az ismeretekbe ágyazott játékos eszközökkel, interaktív módszerekkel, az élményszerű tanulással segíti elérni az oktatás céljait.
 
 
@@ -48,47 +48,47 @@ K12: Népszerűsítés, reklám
 
 
 6. Követelménylista
-K01:átláthatóság
-K02:javíthatóság
-K03:felhasználóbarát
-K04:felhasználói fiókok
-K05:tesztek
-K06:feladatok készítése
-K07:elfelejtett jelszó lehetőségének kezelése
-K08:help felület
-K09:tartalma 2011. évi CXC. törvénya nemzeti köznevelésről(aktuális hatályhoz igazodva)
-K10:felhasználói szabályzat
+K01: átláthatóság
+K02: javíthatóság
+K03: felhasználóbarát
+K04: felhasználói fiókok
+K05: tesztek
+K06: feladatok készítése
+K07: elfelejtett jelszó lehetőségének kezelése
+K08: help felület
+K09: tartalma 2011. évi CXC. törvénya nemzeti köznevelésről(aktuális hatályhoz igazodva)
+K10: felhasználói szabályzat
 K11: csoportmunka felület biztosítása
 K12: felhasználói tevékenység naplózása
 K13: oktatói és felhasználói felület elkülönítése
 K14: Kiemelt hozzáférésű tartalmak elkülönítése
 K15: Hibákra történő gyors reagálás
 K16: Tevékenységekből statisztika készítés
-K17:Ingyenesség
-K18:egyszerű kezelhetőség
-K19:Linkek gyűjteménye
+K17: Ingyenesség
+K18: egyszerű kezelhetőség
+K19: Linkek gyűjteménye
 K20: Súgó
-K:21 GDPR rendelet figyelembe vétele
-K:22 Mobil nézet
+K21: GDPR rendelet figyelembe vétele
+K22: Mobil nézet
 K23: felhasználócsoportonként különböző tartalmak
 
 7. Használati esetek
-01:Oktatási céra való felhasználás, új ismeretek szerzéséhez
-02:Meglévő ismeretek megújítása, ha a téma megköveteli ezt
-03:Oktatásban használt eszközök kiszélesítése
-04:Megértés segítéséhez felhasználás
-05:Csoportos feladatok alkotásához, közös munkákhoz.(Akár projekt feladatok)
-06:Monotonítás elkerülése, javítása
-07:Felhasználók közötti kommunikáció
-08:Felhasználói jelzések fogadása
-09:Szereplők rendszerezése (ki vagy mi kerül kapcsolatba a rendszerrel)
-10:Elsődleges szereplők:felhasználók iskolás kortól--korhatár nélkül
-11:Másodlagos szereplők: több adminsztrátor, azonos feladatokkal
-12:Belső hardver támogatás meghatározása!!
-13:Külső hardver kapcsolat meghatározása!!
-14:Felhasználó vihet be adatot.
-15:Informálás csak rendszerszintű problémákról.
-16:A felhasználó csak saját adatokat törölhet módosíthat.
+01: Oktatási céra való felhasználás, új ismeretek szerzéséhez
+02: Meglévő ismeretek megújítása, ha a téma megköveteli ezt
+03: Oktatásban használt eszközök kiszélesítése
+04: Megértés segítéséhez felhasználás
+05: Csoportos feladatok alkotásához, közös munkákhoz.(Akár projekt feladatok)
+06: Monotonítás elkerülése, javítása
+07: Felhasználók közötti kommunikáció
+08: Felhasználói jelzések fogadása
+09: Szereplők rendszerezése (ki vagy mi kerül kapcsolatba a rendszerrel)
+10: Elsődleges szereplők:felhasználók iskolás kortól--korhatár nélkül
+11: Másodlagos szereplők: több adminsztrátor, azonos feladatokkal
+12: Belső hardver támogatás meghatározása!!
+13: Külső hardver kapcsolat meghatározása!!
+14: Felhasználó vihet be adatot.
+15: Informálás csak rendszerszintű problémákról.
+16: A felhasználó csak saját adatokat törölhet módosíthat.
 17: QR kód generátor mobilos használathoz
 <<<<<<< HEAD
 18:Vendég felhasználó szerepkör is elérhető legyen, de ez csak korlátozott hozzáféréssel
