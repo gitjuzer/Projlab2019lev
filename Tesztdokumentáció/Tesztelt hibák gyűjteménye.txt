@@ -11,15 +11,10 @@ Tesztlépés: Linkek--> Hiányoznak
 Teszt_3_SzP
 Tesztlépés: WEB lap megnyitássa---->Eszt‚tikai/elrendez‚si hiba: nem szerencs‚s, ha a k‚perny‹tartalom nem fér ki és görgetni kell
  Némelyik aloldal mobilos, n‚melyik asztali gépes elrendezésû.
-<<<<<<< HEAD
-Teszt_1_NP
-Tesztlépés: Weblap megnyitása--->Az elrendezés javításra szorul
-Teszt_2_NP
-Tesztlépés: Kurzusok---->Olvas mûvelet kattintásra nem mûködik (funkcionális hiba)
-Teszt_3_NP
-Tesztlépés: Weblap megnyitása---->Az oldalon hiperhivatkozások elhelyezése szükséges (kapcsolat, adatvédelmi nyilatkozat, impresszum)
-=======
 teszt_ÁA
 Tesztlépés: WEB lap megnyitássa---->Link aktivitása
->>>>>>> ae19fd6ac363329bd938638439ff5ebe2b1ab8b9
+
+Teszt_AB
+Tesztlépés: WEB lap megnyitássa---->
+a tanári felület nem mûködik
 
