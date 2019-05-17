@@ -3,7 +3,7 @@ Tesztelõ neve:;Zentai Szilvia;;
 Teszt idõpontja:;2019.05.14-16;;
 Teszt tárgya:;http://www.mintantermunk.nhely.hu/web/index.htm;Tesztárgytól való eltérés;Hiba jelenség
 Tesztlépés:;weboldal szerkezet;nincs a felületen;hiány
-Tesztlépés:;elérhetõségi adatok ;;
+Tesztlépés:;elérhetõségi adatok ;hiányoznak;hiány
 Tesztlépés:;;;
 Tesztlépés:;;;
 Kilépési feltétel:;;;
