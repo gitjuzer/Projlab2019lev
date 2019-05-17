@@ -1,9 +1,9 @@
-Teszt szám:;1;;
-Tesztelõ neve:;Csorba László;;
-Teszt idõpontja:;2019.05.14-17;;
-Teszt tárgya:;;Tesztárgytól való eltérés;Hiba jelenség
-Tesztlépés:;;;
-Tesztlépés:;;;
-Tesztlépés:;;;
-Tesztlépés:;;;
-Kilépési feltétel:;;;
+Teszt szám:;1
+Tesztelõ neve:;Csorba László
+Teszt idõpontja:;2019.05.14-17
+Teszt tárgya:;Linkek menüpont inaktív, nincs mögöttes tartalom
+Tesztlépés:;
+Tesztlépés:;
+Tesztlépés:;
+Tesztlépés:;
+Kilépési feltétel:;linkek.htm létrehozása, hivatkozás beszúrása az index.htm-re
