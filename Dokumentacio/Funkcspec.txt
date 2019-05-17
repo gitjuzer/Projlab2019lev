@@ -4,7 +4,7 @@ Funkcionális specifikáció
 
 1. Vezetői összefoglaló
 
-Az Oktató Rendszer megvalósítása/tesztelése során fontos bevonni az érintett területek minél nagyobb számú képviselőit. Legyen visszajelzés tanártól, diáktól, iskolapados rendszer képviselőitől és az alternatív módszerek alkalmazóiól egyaránt. A visszajelzések alapján lehessen tovább fejleszteni az alkalmazást, hogy minden területen megállja a helyét az oktatás folyamán. 
+Az Oktató Rendszer megvalósítása/tesztelése során fontos bevonni az érintett területek minél nagyobb számú képviselőit. Legyen visszajelzés tanártól, diáktól, iskolapados rendszer képviselőitől és az alternatív módszerek alkalmazóiól egyaránt. A visszajelzések alapján lehessen tovább fejleszteni az alkalmazást, hogy minden területen megállja a helyét az oktatás folyamán. A diákok részéről a feladatok könnyen megértése legyen a cél, a tanárok részéről pedig, hogy a lehető legjobb módon átláthatóvá tegyék a feladatokat.
 
 2. Jelenlegi helyzet
 A mai világban egyre nagyobb teret hódít a digitális eszközök bevitele/használata a közoktatásban.
