@@ -4,7 +4,7 @@ Funkcionális specifikáció
 
 1. Vezetői összefoglaló
 
-Az Oktató Rendszer megvalósítása/tesztelése során fontos bevonni az érintett területek minél nagyobb számú képviselőit. Legyen visszajelzés tanártól, diáktól, iskolapados rendszer képviselőitől és az alternatív módszerek alkalmazóiól egyaránt.
+Az Oktató Rendszer megvalósítása/tesztelése során fontos bevonni az érintett területek minél nagyobb számú képviselőit. Legyen visszajelzés tanártól, diáktól, iskolapados rendszer képviselőitől és az alternatív módszerek alkalmazóiól egyaránt. A visszajelzések alapján lehessen tovább fejleszteni az alkalmazást, hogy minden területen megállja a helyét az oktatás folyamán.
 
 2. Jelenlegi helyzet
 A mai világban egyre nagyobb teret hódít a digitális eszközök bevitele/használata a közoktatásban.
@@ -16,8 +16,7 @@ Lényeges, hogy az IKT eszközöket ne csak a megszokott módon használjuk (kiv
 a diákok a telefonjukat is használhatják. Feladatunk, hogy megtanítsuk őket az okos eszközök funkcionális használatára.
 Az órák megtervezése több időt igényel, mint a hagyományos óráé, de megéri rá időt szánni, mert sokkal hatékonyabban át lehet adni a tudást
 a diákok számára, illetve ők is fogékonyabbak lesznek az ilyen fajta tanulásra.
-Nem csak informatika órán kellene használni ezeket az eszközöket, hanem a lehető legtöbb tanórára meg kell találni a módját ezek
-beiktatására.
+Nem csak informatika órán kellene használni ezeket az eszközöket, hanem a lehető legtöbb tanórára meg kell találni a módját ezek beiktatására.
 A közoktatás modernizálásában, fejlesztésében is az a tendencia, hogy a gyerekeket a tanulás során élményekhez kell juttatni. Így motiváltabbak, szívesebben, aktívabban vesznek részt a tanórai munkákban.
 
 3. Vágyálom rendszer
