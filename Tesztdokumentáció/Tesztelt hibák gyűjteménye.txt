@@ -11,4 +11,6 @@ Tesztlépés: Linkek--> Hiányoznak
 Teszt_3_SzP
 Tesztlépés: WEB lap megnyitássa---->Eszt‚tikai/elrendez‚si hiba: nem szerencs‚s, ha a k‚perny‹tartalom nem fér ki és görgetni kell
  Némelyik aloldal mobilos, n‚melyik asztali gépes elrendezésû.
+teszt_ÁA
+Tesztlépés: WEB lap megnyitássa---->Link aktivitása
 

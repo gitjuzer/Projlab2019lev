@@ -19,10 +19,12 @@ http://www.mintantermunk.nhely.hu/web/index.htm
 1.	Adminisztrációs felület
 
 1.1.	Belépés
-A belépés az adminisztrációs oldalra az "admin" felhasználónévvel és "jelszó" jelszóval lehetséges a /admin aloldalon keresztül. 
+A belépés az adminisztrációs oldalra az "admin" felhasználónévvel és "jelszó" jelszóval lehetséges a /admin aloldalon keresztül.
+Az oldalon történõ regisztráció segítségévelakár elfelejtett jelszavunkat is pótolhatjuk. 
 
 1.2.	Fõoldal
-Belépés után az admin felület fõ oldalára jutunk, ahol táblázatos megjelenítésben láthatjuk az adatbázisba feltöltött feladatokat.
+Belépés után az admin felület fõ oldalára jutunk, ahol táblázatos megjelenítésben láthatjuk az adatbázisba feltöltött feladatokat.A felületen több 
+lehetõség közül választhatunk.
 
 1.3 Feladatok menü három korosztály menü elérését adja. Az korosztály almenük 3 kategóriában tartalmaznak feladatokat.
 
