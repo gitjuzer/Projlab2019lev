@@ -1,0 +1,2 @@
+Teszt_1_SzP
+Tesztlépés: WEB lap magnyitássa---->A lap fejléce változó helyeken jelenik meg
