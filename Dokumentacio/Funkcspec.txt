@@ -91,15 +91,11 @@ K23: felhasználócsoportonként különböző tartalmak
 16: A felhasználó csak saját adatokat törölhet módosíthat.
 17: QR kód generátor mobilos használathoz
 <<<<<<< HEAD
-18:Vendég felhasználó szerepkör is elérhető legyen, de ez csak korlátozott hozzáféréssel
-=======
-18: csak pedagógusok által hozzáférhető tartalom
-<<<<<<< HEAD:Funkcspec.txt
->>>>>>> 3caebadde18563009417474dfbeeceaa6ba98b34
+
 
 =======
-19:
->>>>>>> 82be865d0cc12dfeb1d7636c2b123319195da754:Dokumentacio/Funkcspec.txt
+18:Vendég felhasználó szerepkör is elérhető legyen, de ez csak korlátozott hozzáféréssel
+19: Csak pedagógusok által hozzáférhető tartalom
 
 8. Forgatókönyvek
 01: Látványos tagolt forgató könyv.
@@ -107,6 +103,7 @@ K23: felhasználócsoportonként különböző tartalmak
 03: Szokványostól eltérő, multimédiás elemekkel illusztrálva.
 04: Legyen veszélyekkel teli-az olvasót eléri. 
 05: Példákat, pontos leírásokat is tartalmazzon
+>>>>>>> c2619c1f5453e0c2ce803b8266a5732b82018b0f
 
 
 
