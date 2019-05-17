@@ -28,7 +28,7 @@ Belépés után az admin felület fõ oldalára jutunk, ahol táblázatos megjelenítésbe
 
 Új feladat feltöltése a feladatlap készítõn keresztül történik.
 Mentett feladatok a korábbi feladatok átszerkeszthetõségét, letöltését adják.
-Hasznos linkek korosztályos források
+Hasznos linkek korosztályos források.
 
 2.	Autentikáció
 
