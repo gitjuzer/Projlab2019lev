@@ -1,4 +1,4 @@
-1. Célja: 
+ 1. Célja: 
 A dokumentáció elsõdleges célja segítségnyújtás a program leendõ felhasználóinak, továbbfejlesztõinek. Ezért olyannak kell lennie, hogy minden számukra szükséges tudnivalóhoz könnyen hozzájuthassanak. Ehhez elsõdleges szempont természetesen, hogy a dokumentáció mindezeket tartalmazza, de a használatát egyéb követelmények betartásával jelentõsen megkönnyíthetjük. Ezek a következõk:
 
     a dokumentáció ne legyen túl hosszú, hiszen egy program használatához senki sem akar egy „regényt” elolvasni;
