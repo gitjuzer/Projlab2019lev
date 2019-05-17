@@ -4,6 +4,9 @@ K01: A hibák megtalálása üzembehelyezés elõtt.
 K02:A hibák minimalizálás átadási teszthez.
 K03: Aminek tervezett ideje május17
 K04: A fejlesztõi tesztelés célja a rendszer alapvetõ funkcióinak ellenõrzése
+K05: A hibák kijavítása
+K06: A javítási ütemterv elkészítése
+K07: Javítási feladatok kiadása
 
 Megtartandó alapelvek:
 
