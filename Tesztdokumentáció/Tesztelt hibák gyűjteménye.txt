@@ -1,28 +1,31 @@
 Teszt_1_JN
-TesztlÈepes: WEB lap megnyit·ssa---->A hivatkoz·sok linkje nem mindenhol m˚kˆdik.
+Tesztl√©epes WEB lap megnyit√°ssa----A hivatkoz√°sok linkje nem mindenhol m≈±k√∂dik.
 Teszt_1_JN
-TesztlÈepes: WEB lap megnyit·ssa---->Webdisegn szempontj·bÛl ·tgondol·sra szurol, a szinek haszn·lta nem ·tgondolt.
+Tesztl√©epes WEB lap megnyit√°ssa----Webdisegn szempontj√°b√≥l √°tgondol√°sra szurol, a szinek haszn√°lta nem √°tgondolt.
 Teszt_1_SzP
-TesztlÈpÈs: WEB lap megnyit·ssa---->A lap fejlÈce v·ltozÛ helyeken jelenik meg
+Tesztl√©p√©s WEB lap megnyit√°ssa----A lap fejl√©ce v√°ltoz√≥ helyeken jelenik meg
 Teszt_2_SzP 
-TesztlÈpÈs: WEB lap megnyit·ssa---->Logikai hiba: az ovis feladatok feltÇtelezik a bet˚k ismeretÇt
+Tesztl√©p√©s WEB lap megnyit√°ssa----Logikai hiba az ovis feladatok felt‚Äötelezik a bet≈±k ismeret‚Äöt
 Teszt_4_SzP 
-TesztlÈpÈs: WEB lap megnyit·ssa---->Az oldalon †lland¢ linkek form†j†ban el kell helyezni a fontosabb dolgokat (pl. elÇrhetãsÇg, adatvÇdelmi nyilatkozat, impresszum, kapcsolat, stb.)
+Tesztl√©p√©s WEB lap megnyit√°ssa----Az oldalon ¬†llandÀò linkek form¬†j¬†ban el kell helyezni a fontosabb dolgokat (pl. el‚Äörhet‚Äπs‚Äög, adatv‚Äödelmi nyilatkozat, impresszum, kapcsolat, stb.)
 Teszt_5_SzP 
-TesztlÈpÈs: WEB lap megnyit·ssa---->A linkek olvashatÛs·ga a bet˚tÌpus miatt nehÈzkes
+Tesztl√©p√©s WEB lap megnyit√°ssa----A linkek olvashat√≥s√°ga a bet≈±t√≠pus miatt neh√©zkes
 Teszt_3 CsikK
-TesztlÈpÈs: Linkek--> Hi·nyoznak
+Tesztl√©p√©s Linkek-- Hi√°nyoznak
 Teszt_3_SzP
-TesztlÈpÈs: WEB lap megnyit·ssa---->EsztÇtikai/elrendezÇsi hiba: nem szerencsÇs, ha a kÇpernyãtartalom nem fÈr ki Ès gˆrgetni kell
- NÈmelyik aloldal mobilos, nÇmelyik asztali gÈpes elrendezÈs˚.
-teszt_¡A
-TesztlÈpÈs: WEB lap megnyit·ssa---->Link aktivit·sa
+Tesztl√©p√©s WEB lap megnyit√°ssa----Eszt‚Äötikaielrendez‚Äösi hiba nem szerencs‚Äös, ha a k‚Äöperny‚Äπtartalom nem f√©r ki √©s g√∂rgetni kell
+ N√©melyik aloldal mobilos, n‚Äömelyik asztali g√©pes elrendez√©s≈±.
+teszt_√ÅA
+Tesztl√©p√©s WEB lap megnyit√°ssa----Link aktivit√°sa
 
 Teszt_AB
-TesztlÈpÈs: WEB lap megnyit·ssa---->
-a tan·ri fel¸let nem m˚kˆdik
+Tesztl√©p√©s WEB lap megnyit√°ssa----
+a tan√°ri fel√ºlet nem m≈±k√∂dik
 
+Teszt_UK_1
+Tesztl√©p√©s: WEB lap megnyit√°sa---- K√©pm√©ret ellen≈ërz√©se
+Tesztl√©p√©s: WEB lap megnyit√°sa---- Log√≥ friss√≠t√©se
 
-
-
-
+Teszt_UK_2
+Tesztl√©p√©s: WEB lap megnyit√°sa---- Feladatok le√≠r√°s√°nak ellen≈ërz√©se
+Tesztl√©p√©s: WEB lap megnyit√°sa---- √údv√∂zl≈ë sz√∂veg
