@@ -3,12 +3,18 @@ Teszt szám;Tesztelõ neve:;Tesztelés ideje;Teszt típusa;;
 1;;;x;;
 2;;;x;;
 3;;;x;;
-4;Zentai Szilvia;14.máj;;x;
-5;;;;x;
-6;;;;x;
-7;;;;;x
+4;Zentai Szilvia;2019.05.14;;x;
+5;Nyitrainé Tóth Anikó;2019.05.17;;x;
+6;Koklács Anna;2019.05.17;;x;
+7;Bukovenszki Ádám;2020.02.10;;;x
 8;;;;;x
 9;;;;;x
-SzP_1;;;;;x
+SzP_1;;2019.05.17;;;x
+SzP_2;;2019.05.17;x;;
+SzP_3;;2019.05.17;;;x
+SzP_4;;2019.05.17;;;x
+SzP_5;;2019.05.17;;;x
+;;;;;
 NP_1;Négyesi Péter;2019.05.15;;;x
-14;Adorján Beáta;2019.05.17;;;x
+NP_2;Négyesi Péter;2019.05.16;x;;
+NP_3;Négyesi Péter;2019.05.17;;;x
